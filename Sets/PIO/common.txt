@@ -1,0 +1,121 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Akoum Warrior (PIO) 122
+4 Akroan Crusader (PIO) 123
+4 Archaeomancer (PIO) 284
+4 Ardenvale Tactician (PIO) 6
+4 Artful Maneuver (PIO) 7
+4 Audacity (PIO) 164
+4 Azorius Guildgate (PIO) 258
+4 Baleful Eidolon (PIO) 82
+4 Basilica Screecher (PIO) 83
+4 Bile Blight (PIO) 369
+4 Bloodfire Enforcers (PIO) 124
+4 Boros Guildgate (PIO) 259
+4 Boulder Salvo (PIO) 125
+4 Boundary Lands Ranger (PIO) 126
+4 Cavern Lampad (PIO) 333
+4 Cloudfin Raptor (PIO) 50
+4 Clutch of Currents (PIO) 326
+4 Commune with the Gods (PIO) 169
+4 Compulsory Rest (PIO) 10
+4 Consider (PIO) 51
+4 Courier's Briefcase (PIO) 171
+4 Darksteel Ingot (PIO) 254
+4 Devour Flesh (PIO) 90
+4 Dimir Guildgate (PIO) 260
+4 Disciple of Phenax (PIO) 290
+4 District Guide (PIO) 172
+4 Dragon Mantle (PIO) 131
+4 Dreadbore (PIO) 221
+4 Dreg Mangler (PIO) 222
+4 Essence Scatter (PIO) 54
+4 Evolving Wilds (PIO) 261
+4 Expedite (PIO) 374
+4 Fall of the Hammer (PIO) 134
+4 Fallaji Archaeologist (PIO) 55
+4 Gateway Plaza (PIO) 262
+4 Ghirapur Gearcrafter (PIO) 138
+4 Ghostblade Eidolon (PIO) 13
+4 Gladecover Scout (PIO) 175
+4 Gnarlback Rhino (PIO) 176
+4 Goblin Heelcutter (PIO) 341
+4 Golgari Guildgate (PIO) 263
+4 Gruul Guildgate (PIO) 264
+4 Gurmag Angler (PIO) 94
+4 Gust of Wind (PIO) 57
+4 Halo Scarab (PIO) 256
+4 Heliod's Pilgrim (PIO) 15
+4 Hero of Iroas (PIO) 16
+4 Imperious Oligarch (PIO) 227
+4 Ingenious Skaab (PIO) 59
+4 Izzet Guildgate (PIO) 267
+
+
+### New Deck
+
+4 Keening Apparition (PIO) 20
+4 Khalni Ambush (PIO) 181
+4 Knightly Valor (PIO) 22
+4 Lagonna-Band Trailblazer (PIO) 24
+4 Leafcrown Dryad (PIO) 183
+4 Lotus-Eye Mystics (PIO) 26
+4 Lyev Skyknight (PIO) 231
+4 Makindi Sliderunner (PIO) 145
+4 Martial Glory (PIO) 232
+4 Miming Slime (PIO) 382
+4 Mizzium Skin (PIO) 64
+4 Nantuko Husk (PIO) 97
+4 Nemesis of Mortals (PIO) 185
+4 Nessian Asp (PIO) 186
+4 Nimbus Naiad (PIO) 67
+4 Nivix Cyclops (PIO) 234
+4 Nylea's Disciple (PIO) 301
+4 Ob Nixilis's Cruelty (PIO) 100
+4 Opal Lake Gatekeepers (PIO) 68
+4 Orzhov Guildgate (PIO) 271
+4 Pelakka Predation (PIO) 102
+4 Pilgrim's Eye (PIO) 257
+4 Possessed Skaab (PIO) 237
+4 Purphoros's Emissary (PIO) 152
+4 Rakdos Guildgate (PIO) 272
+4 Read the Bones (PIO) 104
+4 Returned Centaur (PIO) 106
+4 Rimrock Knight (PIO) 153
+4 Sanitarium Skeleton (PIO) 107
+4 Savage Punch (PIO) 192
+4 Scion of Ugin (PIO) 2
+4 Sejiri Shelter (PIO) 31
+4 Selesnya Charm (PIO) 240
+4 Selesnya Guildgate (PIO) 274
+4 Shoulder to Shoulder (PIO) 362
+4 Silumgar Butcher (PIO) 109
+4 Silundi Vision (PIO) 74
+4 Simic Guildgate (PIO) 276
+4 Skyrider Elf (PIO) 243
+4 Stampeding Elk Herd (PIO) 350
+4 Stoneshock Giant (PIO) 298
+4 Sungrace Pegasus (PIO) 325
+4 Supernatural Stamina (PIO) 112
+4 Swift Reckoning (PIO) 39
+4 Syndicate Messenger (PIO) 40
+4 Tah-Crop Skirmisher (PIO) 76
+4 Treasure Cruise (PIO) 79
+4 Undead Butler (PIO) 117
+4 Unravel the Aether (PIO) 198
+4 Void Shatter (PIO) 368
+
+
+### New Deck
+
+4 Voyaging Satyr (PIO) 199
+4 Wild Slash (PIO) 159
+4 Windrider Patrol (PIO) 80
+4 Wingsteed Rider (PIO) 283
+4 Witch's Mark (PIO) 160
+4 Zendikar Incarnate (PIO) 252
+
+### The Last Deck has 24 cards in it.

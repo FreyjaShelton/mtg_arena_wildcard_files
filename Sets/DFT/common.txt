@@ -1,0 +1,102 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aetherjacket (DFT) 230
+4 Alacrian Jaguar (DFT) 152
+4 Avishkar Raceway (DFT) 249
+4 Beastrider Vanguard (DFT) 154
+4 Bestow Greatness (DFT) 155
+4 Bloodfell Caves (DFT) 251
+4 Blossoming Sands (DFT) 252
+4 Bounce Off (DFT) 39
+4 Brightfield Glider (DFT) 4
+4 Brightfield Mustang (DFT) 5
+4 Broadcast Rambler (DFT) 6
+4 Broken Wings (DFT) 156
+4 Burner Rocket (DFT) 114
+4 Camera Launcher (DFT) 232
+4 Chitin Gravestalker (DFT) 79
+4 Clamorous Ironclad (DFT) 117
+4 Collision Course (DFT) 10
+4 Crash and Burn (DFT) 119
+4 Daring Mechanic (DFT) 11
+4 Deathless Pilot (DFT) 82
+4 Dismal Backwater (DFT) 254
+4 Dynamite Diver (DFT) 123
+4 Endrider Catalyzer (DFT) 124
+4 Engine Rat (DFT) 84
+4 Flood the Engine (DFT) 42
+4 Gastal Blockbuster (DFT) 128
+4 Gearseeker Serpent (DFT) 43
+4 Gilded Ghoda (DFT) 130
+4 Glitch Ghost Surveyor (DFT) 44
+4 Goblin Surveyor (DFT) 131
+4 Grim Bauble (DFT) 88
+4 Grim Javelineer (DFT) 89
+4 Guidelight Matrix (DFT) 233
+4 Guidelight Optimizer (DFT) 45
+4 Hazard of the Dunes (DFT) 165
+4 Howler's Heavy (DFT) 46
+4 Hulldrifter (DFT) 47
+4 Interface Ace (DFT) 17
+4 Jibbirik Omnivore (DFT) 166
+4 Jungle Hollow (DFT) 256
+4 Keen Buccaneer (DFT) 48
+4 Kickoff Celebrations (DFT) 135
+4 Leonin Surveyor (DFT) 18
+4 Lightning Strike (DFT) 136
+4 Lightshield Parry (DFT) 19
+4 Lightwheel Enhancements (DFT) 20
+4 Lotusguard Disciple (DFT) 21
+4 Loxodon Surveyor (DFT) 167
+4 Magmakin Artillerist (DFT) 137
+4 Maximum Overdrive (DFT) 96
+
+
+### New Deck
+
+4 Midnight Mangler (DFT) 50
+4 Migrating Ketradon (DFT) 170
+4 Mutant Surveyor (DFT) 98
+4 Night Market (DFT) 258
+4 Nimble Thopterist (DFT) 53
+4 Pactdoll Terror (DFT) 99
+4 Pedal to the Metal (DFT) 141
+4 Pothole Mole (DFT) 176
+4 Prowcatcher Specialist (DFT) 142
+4 Ride's End (DFT) 25
+4 Ripclaw Wrangler (DFT) 101
+4 Risky Shortcut (DFT) 103
+4 Rugged Highlands (DFT) 262
+4 Run Over (DFT) 179
+4 Scoured Barrens (DFT) 263
+4 Scrap Compactor (DFT) 242
+4 Silken Strength (DFT) 180
+4 Skybox Ferry (DFT) 243
+4 Skystreak Engineer (DFT) 61
+4 Spectral Interference (DFT) 63
+4 Spin Out (DFT) 106
+4 Spotcycle Scouter (DFT) 30
+4 Stall Out (DFT) 66
+4 Stampeding Scurryfoot (DFT) 181
+4 Starting Column (DFT) 244
+4 Streaking Oilgorger (DFT) 107
+4 Swiftwater Cliffs (DFT) 265
+4 Swiftwing Assailant (DFT) 32
+4 Syphon Fuel (DFT) 108
+4 Thornwood Falls (DFT) 266
+4 Thunderhead Gunner (DFT) 148
+4 Ticket Tortoise (DFT) 245
+4 Tranquil Cove (DFT) 267
+4 Trip Up (DFT) 71
+4 Veloheart Bike (DFT) 184
+4 Venomsac Lagac (DFT) 185
+4 Voyager Quickwelder (DFT) 37
+4 Walking Sarcophagus (DFT) 246
+4 Wind-Scarred Crag (DFT) 271
+4 Wreck Remover (DFT) 247
+4 Wreckage Wickerfolk (DFT) 110
+
+### The Last Deck has 164 cards in it.

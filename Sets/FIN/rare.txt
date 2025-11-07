@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 A Realm Reborn (FIN) 196
+4 Aerith Gainsborough (FIN) 4
+4 Ardyn, the Usurper (FIN) 89
+4 Astrologian's Planisphere (FIN) 46
+4 Balamb Garden, SeeD Academy (FIN) 272
+4 Balthier and Fran (FIN) 213
+4 Bartz and Boko (FIN) 175
+4 Cecil, Dark Knight (FIN) 91
+4 Choco, Seeker of Paradise (FIN) 215
+4 Clive's Hideaway (FIN) 275
+4 Dion, Bahamut's Dominant (FIN) 16
+4 Edgar, King of Figaro (FIN) 51
+4 Esper Origins (FIN) 185
+4 Excalibur II (FIN) 257
+4 Firion, Wild Rose Warrior (FIN) 137
+4 From Father to Son (FIN) 20
+4 Genji Glove (FIN) 258
+4 Gilgamesh, Master-at-Arms (FIN) 139
+4 Golbez, Crystal Collector (FIN) 225
+4 Hope Estheim (FIN) 226
+4 Ishgard, the Holy See (FIN) 283
+4 Jecht, Reluctant Guardian (FIN) 104
+4 Jenova, Ancient Calamity (FIN) 228
+4 Jidoor, Aristocratic Capital (FIN) 284
+4 Jill, Shiva's Dominant (FIN) 58
+4 Joshua, Phoenix's Dominant (FIN) 229
+4 Judgment Bolt (FIN) 559
+4 Jumbo Cactuar (FIN) 191
+4 Kain, Traitorous Dragoon (FIN) 105
+4 Kuja, Genome Sorcerer (FIN) 232
+4 Lightning, Security Sergeant (FIN) 560
+4 Lindblum, Industrial Regency (FIN) 285
+4 Louisoix's Sacrifice (FIN) 59
+4 Machinist's Arsenal (FIN) 23
+4 Magitek Scythe (FIN) 562
+4 Matoya, Archon Elder (FIN) 62
+4 Memories Returning (FIN) 63
+4 Midgar, City of Mako (FIN) 286
+4 Minwu, White Mage (FIN) 26
+4 Moogles' Valor (FIN) 27
+4 Ninja's Blades (FIN) 108
+4 Noctis, Prince of Lucis (FIN) 235
+4 Raubahn, Bull of Ala Mhigo (FIN) 151
+4 Rosa, Resolute White Mage (FIN) 555
+4 Sazh Katzroy (FIN) 199
+4 Seifer Almasy (FIN) 156
+4 Serah Farron (FIN) 240
+4 Seymour Flux (FIN) 558
+4 Sin, Spira's Punishment (FIN) 242
+4 Squall, SeeD Mercenary (FIN) 243
+
+
+### New Deck
+
+4 Starting Town (FIN) 289
+4 Stiltzkin, Moogle Merchant (FIN) 34
+4 Summon: Brynhildr (FIN) 160
+4 Summon: G.F. Cerberus (FIN) 162
+4 Summon: Leviathan (FIN) 77
+4 Summon: Primal Odin (FIN) 121
+4 Summon: Titan (FIN) 204
+4 Summoner's Grimoire (FIN) 205
+4 Tellah, Great Sage (FIN) 244
+4 The Darkness Crystal (FIN) 96
+4 The Earth Crystal (FIN) 184
+4 The Fire Crystal (FIN) 135
+4 The Lunar Whale (FIN) 60
+4 The Masamune (FIN) 264
+4 The Regalia (FIN) 267
+4 The Wandering Minstrel (FIN) 249
+4 The Water Crystal (FIN) 85
+4 The Wind Crystal (FIN) 43
+4 Tifa Lockhart (FIN) 206
+4 Triple Triad (FIN) 166
+4 Ultima (FIN) 38
+4 Ultima Weapon (FIN) 563
+4 Ultima, Origin of Oblivion (FIN) 2
+4 Ultimecia, Temporal Threat (FIN) 556
+4 Vaan, Street Thief (FIN) 168
+4 Venat, Heart of Hydaelyn (FIN) 39
+4 Vincent Valentine (FIN) 125
+4 Xande, Dark Mage (FIN) 561
+4 Zanarkand, Ancient Metropolis (FIN) 293
+4 Zell Dincht (FIN) 170
+4 Zenos yae Galvus (FIN) 127
+4 Zodiark, Umbral God (FIN) 128
+
+### The Last Deck has 128 cards in it.

@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Annie Flash, the Veteran (OTJ) 190
+4 Archangel of Tithes (OTJ) 2
+4 Assimilation Aegis (OTJ) 192
+4 Bristly Bill, Spine Sower (OTJ) 157
+4 Double Down (OTJ) 44
+4 Final Showdown (OTJ) 11
+4 Geralf, the Fleshwright (OTJ) 50
+4 Ghired, Mirror of the Wilds (OTJ) 205
+4 Gisa, the Hellraiser (OTJ) 89
+4 Goldvein Hydra (OTJ) 167
+4 Jace Reawakened (OTJ) 271
+4 Kellan, the Kid (OTJ) 213
+4 Oko, the Ringleader (OTJ) 223
+4 Railway Brawler (OTJ) 175
+4 Rakdos, the Muscle (OTJ) 226
+4 Selvala, Eager Trailblazer (OTJ) 231
+4 Terror of the Peaks (OTJ) 149
+4 The Gitrog, Ravenous Ride (OTJ) 206
+4 Tinybones, the Pickpocket (OTJ) 109
+4 Vraska, the Silencer (OTJ) 237
+
+### The Last Deck has 80 cards in it.

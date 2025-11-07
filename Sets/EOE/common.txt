@@ -1,0 +1,92 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Auxiliary Boosters (EOE) 5
+4 Banishing Light (EOE) 6
+4 Beamsaw Prospector (EOE) 89
+4 Biosynthic Burst (EOE) 173
+4 Blooming Stinger (EOE) 174
+4 Bombard (EOE) 129
+4 Brightspear Zealot (EOE) 8
+4 Chrome Companion (EOE) 236
+4 Cloudsculpt Technician (EOE) 49
+4 Comet Crawler (EOE) 92
+4 Command Bridge (EOE) 252
+4 Cryogen Relic (EOE) 52
+4 Cryoshatter (EOE) 53
+4 Dark Endurance (EOE) 93
+4 Decode Transmissions (EOE) 94
+4 Depressurize (EOE) 95
+4 Diplomatic Relations (EOE) 177
+4 Divert Disaster (EOE) 55
+4 Dockworker Drone (EOE) 11
+4 Drill Too Deep (EOE) 133
+4 Drix Fatemaker (EOE) 178
+4 Embrace Oblivion (EOE) 98
+4 Exosuit Savior (EOE) 16
+4 Flight-Deck Coordinator (EOE) 17
+4 Focus Fire (EOE) 18
+4 Frontline War-Rager (EOE) 134
+4 Fungal Colossus (EOE) 184
+4 Galactic Wayfarer (EOE) 185
+4 Gene Pollinator (EOE) 186
+4 Germinating Wurm (EOE) 187
+4 Gravblade Heavy (EOE) 102
+4 Gravkill (EOE) 103
+4 Gravpack Monoist (EOE) 104
+4 Hullcarver (EOE) 105
+4 Icecave Crasher (EOE) 191
+4 Illvoi Galeblade (EOE) 58
+4 Illvoi Light Jammer (EOE) 60
+4 Illvoi Operative (EOE) 61
+4 Insatiable Skittermaw (EOE) 108
+4 Intrepid Tenderfoot (EOE) 193
+4 Kav Landseeker (EOE) 138
+4 Kavaron Skywarden (EOE) 140
+4 Kavaron Turbodrone (EOE) 141
+4 Knight Luminary (EOE) 23
+4 Lost in Space (EOE) 62
+4 Luxknight Breacher (EOE) 26
+4 Mechan Shieldmate (EOE) 65
+4 Mechanozoa (EOE) 66
+4 Melded Moxite (EOE) 143
+4 Meltstrider's Gear (EOE) 198
+
+
+### New Deck
+
+4 Mental Modulation (EOE) 67
+4 Nanoform Sentinel (EOE) 71
+4 Nebula Dragon (EOE) 147
+4 Nutrient Block (EOE) 243
+4 Orbital Plunge (EOE) 149
+4 Oreplate Pangolin (EOE) 150
+4 Perigee Beckoner (EOE) 112
+4 Pinnacle Kill-Ship (EOE) 244
+4 Plasma Bolt (EOE) 152
+4 Radiant Strike (EOE) 29
+4 Red Tiger Mechan (EOE) 154
+4 Rig for War (EOE) 156
+4 Sami's Curiosity (EOE) 203
+4 Selfcraft Mechan (EOE) 74
+4 Shattered Wings (EOE) 206
+4 Sinister Cryologist (EOE) 75
+4 Skystinger (EOE) 207
+4 Slagdrill Scrapper (EOE) 160
+4 Squire's Lightblade (EOE) 36
+4 Starbreach Whale (EOE) 77
+4 Starfighter Pilot (EOE) 38
+4 Starport Security (EOE) 39
+4 Swarm Culler (EOE) 119
+4 Temporal Intervention (EOE) 120
+4 Thaumaton Torpedo (EOE) 246
+4 Thawbringer (EOE) 211
+4 Virus Beetle (EOE) 124
+4 Weftblade Enhancer (EOE) 44
+4 Wurmwall Sweeper (EOE) 249
+4 Zealous Display (EOE) 45
+4 Zookeeper Mechan (EOE) 170
+
+### The Last Deck has 124 cards in it.

@@ -1,0 +1,28 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Andúril, Flame of the West (LTR) 236
+4 Aragorn, the Uniter (LTR) 192
+4 Arwen, Mortal Queen (LTR) 193
+4 Dawn of a New Age (LTR) 5
+4 Gandalf the White (LTR) 19
+4 Glamdring (LTR) 239
+4 Hew the Entwood (LTR) 136
+4 Last March of the Ents (LTR) 172
+4 Mount Doom (LTR) 258
+4 Palantír of Orthanc (LTR) 247
+4 Radagast the Brown (LTR) 184
+4 Saruman of Many Colors (LTR) 223
+4 Sauron, the Dark Lord (LTR) 224
+4 Sauron, the Lidless Eye (LTR) 288
+4 Shadow of the Enemy (LTR) 107
+4 Spiteful Banditry (LTR) 149
+4 Storm of Saruman (LTR) 72
+4 The One Ring (LTR) 246
+4 The Watcher in the Water (LTR) 75
+4 Tom Bombadil (LTR) 234
+4 Witch-king of Angmar (LTR) 114
+
+### The Last Deck has 84 cards in it.

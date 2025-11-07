@@ -1,0 +1,102 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abraded Bluffs (OTJ) 251
+4 Ambush Gigapede (OTJ) 77
+4 Ankle Biter (OTJ) 153
+4 Armored Armadillo (OTJ) 3
+4 Blacksnag Buzzard (OTJ) 79
+4 Boneyard Desecrator (OTJ) 81
+4 Bridled Bighorn (OTJ) 7
+4 Bristlepack Sentry (OTJ) 156
+4 Bristling Backwoods (OTJ) 253
+4 Cactarantula (OTJ) 158
+4 Conduit Pylons (OTJ) 254
+4 Consuming Ashes (OTJ) 83
+4 Corrupted Conviction (OTJ) 84
+4 Creosote Heath (OTJ) 255
+4 Dance of the Tumbleweeds (OTJ) 160
+4 Daring Thunder-Thief (OTJ) 41
+4 Deadeye Duelist (OTJ) 119
+4 Desert's Due (OTJ) 85
+4 Desperate Bloodseeker (OTJ) 86
+4 Discerning Peddler (OTJ) 121
+4 Djinn of Fool's Fall (OTJ) 43
+4 Drover Grizzly (OTJ) 161
+4 Eriette's Lullaby (OTJ) 10
+4 Eroded Canyon (OTJ) 256
+4 Explosive Derailment (OTJ) 122
+4 Failed Fording (OTJ) 47
+4 Fake Your Own Death (OTJ) 87
+4 Festering Gulch (OTJ) 257
+4 Forlorn Flats (OTJ) 258
+4 Freestrider Commando (OTJ) 162
+4 Geyser Drake (OTJ) 51
+4 Giant Beaver (OTJ) 165
+4 Gold Pan (OTJ) 242
+4 Hardbristle Bandit (OTJ) 168
+4 Harrier Strix (OTJ) 52
+4 Highway Robbery (OTJ) 129
+4 Holy Cow (OTJ) 16
+4 Inventive Wingsmith (OTJ) 17
+4 Irascible Wolverine (OTJ) 130
+4 Iron-Fist Pulverizer (OTJ) 131
+4 Jagged Barrens (OTJ) 259
+4 Jailbreak Scheme (OTJ) 53
+4 Loan Shark (OTJ) 55
+4 Lonely Arroyo (OTJ) 260
+4 Lush Oasis (OTJ) 261
+4 Mine Raider (OTJ) 135
+4 Mirage Mesa (OTJ) 262
+4 Mourner's Surprise (OTJ) 94
+4 Mystical Tether (OTJ) 19
+4 Nezumi Linkbreaker (OTJ) 96
+
+
+### New Deck
+
+4 Oasis Gardener (OTJ) 246
+4 Outlaw Medic (OTJ) 23
+4 Outlaws' Fury (OTJ) 136
+4 Overzealous Muscle (OTJ) 97
+4 Patient Naturalist (OTJ) 174
+4 Peerless Ropemaster (OTJ) 60
+4 Phantom Interference (OTJ) 61
+4 Prickly Pair (OTJ) 137
+4 Quick Draw (OTJ) 138
+4 Quilled Charger (OTJ) 139
+4 Raven of Fell Omens (OTJ) 101
+4 Razzle-Dazzler (OTJ) 63
+4 Reach for the Sky (OTJ) 178
+4 Reckless Lackey (OTJ) 140
+4 Rodeo Pyromancers (OTJ) 143
+4 Rooftop Assassin (OTJ) 103
+4 Seize the Secrets (OTJ) 64
+4 Silver Deputy (OTJ) 248
+4 Skulduggery (OTJ) 107
+4 Slickshot Vault-Buster (OTJ) 68
+4 Snakeskin Veil (OTJ) 181
+4 Soured Springs (OTJ) 264
+4 Spinewoods Paladin (OTJ) 183
+4 Spring Splasher (OTJ) 69
+4 Stagecoach Security (OTJ) 30
+4 Steer Clear (OTJ) 31
+4 Sterling Hound (OTJ) 249
+4 Sterling Keykeeper (OTJ) 32
+4 Sterling Supplier (OTJ) 33
+4 Stop Cold (OTJ) 72
+4 Take Up the Shield (OTJ) 34
+4 Take the Fall (OTJ) 73
+4 Throw from the Saddle (OTJ) 185
+4 Thunder Salvo (OTJ) 150
+4 Trained Arynx (OTJ) 36
+4 Trick Shot (OTJ) 151
+4 Tumbleweed Rising (OTJ) 187
+4 Vault Plunderer (OTJ) 114
+4 Vengeful Townsfolk (OTJ) 37
+4 Voracious Varmint (OTJ) 188
+4 Wanted Griffin (OTJ) 38
+
+### The Last Deck has 164 cards in it.

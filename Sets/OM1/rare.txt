@@ -1,0 +1,64 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agent Venom (OM1) 66
+4 Arachne, Psionic Weaver (OM1) 23
+4 Araña, Heart of the Spider (OM1) 138
+4 Biorganic Carapace (OM1) 125
+4 Black Cat, Cunning Thief (OM1) 74
+4 Carnage, Crimson Chaos (OM1) 133
+4 Cheering Crowd (OM1) 129
+4 Doc Ock's Tentacles (OM1) 167
+4 Electro, Assaulting Battery (OM1) 76
+4 Friendly Neighborhood (OM1) 17
+4 Hide on the Ceiling (OM1) 44
+4 Hydro-Man, Fluid Felon (OM1) 27
+4 Interdimensional Web Watch (OM1) 172
+4 Iron Spider, Stark Upgrade (OM1) 166
+4 J. Jonah Jameson (OM1) 88
+4 Jackal, Genius Geneticist (OM1) 136
+4 Kraven the Hunter (OM1) 127
+4 Kraven's Last Hunt (OM1) 121
+4 Lady Octopus, Inspired Inventor (OM1) 34
+4 Lizard, Connors's Curse (OM1) 108
+4 Mary Jane Watson (OM1) 132
+4 Maximum Carnage (OM1) 87
+4 Morlun, Devourer of Spiders (OM1) 60
+4 Multiversal Passage (OM1) 181
+4 Mysterio, Master of Illusion (OM1) 48
+4 Origin of Spider-Man (OM1) 14
+4 Oscorp Industries (OM1) 179
+4 Parker Luck (OM1) 55
+4 Peter Parker's Camera (OM1) 171
+4 Radioactive Spider (OM1) 105
+4 Rent Is Due (OM1) 6
+4 Rocket-Powered Goblin Glider (OM1) 175
+4 Sandman, Shifting Scoundrel (OM1) 113
+4 Scarlet Spider, Ben Reilly (OM1) 126
+4 Shadow of the Goblin (OM1) 90
+4 Silk, Web Weaver (OM1) 123
+4 Spectacular Spider-Man (OM1) 1
+4 Spider-Ham, Peter Porker (OM1) 118
+4 Spider-Man 2099 (OM1) 157
+4 Spider-Punk (OM1) 85
+4 Spider-Sense (OM1) 28
+4 Spider-Woman, Stunning Savior (OM1) 145
+4 Spinneret and Spiderling (OM1) 92
+4 Strength of Will (OM1) 116
+4 Superior Spider-Man (OM1) 140
+4 Symbiote Spider-Man (OM1) 155
+4 The Clone Saga (OM1) 33
+4 The Death of Gwen Stacy (OM1) 58
+4 The Spot, Living Portal (OM1) 150
+4 Ultimate Green Goblin (OM1) 153
+
+
+### New Deck
+
+4 Urban Retreat (OM1) 187
+4 Villainous Wrath (OM1) 72
+4 With Great Power... (OM1) 4
+
+### The Last Deck has 12 cards in it.

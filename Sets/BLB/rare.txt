@@ -1,0 +1,74 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alania, Divergent Storm (BLB) 204
+4 Artist's Talent (BLB) 124
+4 Azure Beastbinder (BLB) 41
+4 Baylen, the Haymaker (BLB) 205
+4 Byway Barterer (BLB) 129
+4 Camellia, the Seedmiser (BLB) 207
+4 Caretaker's Talent (BLB) 6
+4 Clement, the Worrywort (BLB) 209
+4 Coiling Rebirth (BLB) 86
+4 Cruelclaw's Heist (BLB) 88
+4 Darkstar Augur (BLB) 90
+4 Dawn's Truce (BLB) 9
+4 Dour Port-Mage (BLB) 47
+4 Dreamdew Entrancer (BLB) 211
+4 Emberheart Challenger (BLB) 133
+4 Essence Channeler (BLB) 12
+4 Fabled Passage (BLB) 252
+4 Fecund Greenshell (BLB) 171
+4 Festival of Embers (BLB) 134
+4 Finneas, Ace Archer (BLB) 212
+4 For the Common Good (BLB) 172
+4 Fountainport (BLB) 253
+4 Gev, Scaled Scorch (BLB) 214
+4 Hearthborn Battler (BLB) 139
+4 Hired Claw (BLB) 140
+4 Innkeeper's Talent (BLB) 180
+4 Iridescent Vinelasher (BLB) 99
+4 Jackdaw Savior (BLB) 18
+4 Kastral, the Windcrested (BLB) 221
+4 Keen-Eyed Curator (BLB) 181
+4 Kitnap (BLB) 53
+4 Lunar Convocation (BLB) 223
+4 Mabel, Heir to Cragflame (BLB) 224
+4 Manifold Mouse (BLB) 143
+4 Mind Spring (BLB) 389
+4 Mistbreath Elder (BLB) 184
+4 Mockingbird (BLB) 61
+4 Muerra, Trash Tactician (BLB) 227
+4 Osteomancer Adept (BLB) 103
+4 Pawpatch Recruit (BLB) 187
+4 Portent of Calamity (BLB) 66
+4 Salvation Swan (BLB) 28
+4 Scavenger's Talent (BLB) 111
+4 Scrapshooter (BLB) 191
+4 Serra Redeemer (BLB) 387
+4 Starfall Invocation (BLB) 34
+4 Stormchaser's Talent (BLB) 75
+4 Sunspine Lynx (BLB) 155
+4 Sword of Vengeance (BLB) 395
+4 Tender Wildguide (BLB) 196
+
+
+### New Deck
+
+4 Thornvault Forager (BLB) 197
+4 Three Tree City (BLB) 260
+4 Thundertrap Trainer (BLB) 78
+4 Valley Flamecaller (BLB) 158
+4 Valley Floodcaller (BLB) 79
+4 Valley Mightcaller (BLB) 202
+4 Valley Questcaller (BLB) 36
+4 Valley Rotcaller (BLB) 119
+4 Vren, the Relentless (BLB) 239
+4 Whiskervale Forerunner (BLB) 40
+4 Wick, the Whorled Mind (BLB) 120
+4 Wishing Well (BLB) 81
+4 Zoraline, Cosmos Caller (BLB) 242
+
+### The Last Deck has 52 cards in it.

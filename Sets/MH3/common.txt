@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Accursed Marauder (MH3) 80
+4 Aerie Auxiliary (MH3) 18
+4 Aether Spike (MH3) 50
+4 Basking Broodscale (MH3) 145
+4 Bountiful Landscape (MH3) 217
+4 Breathe Your Last (MH3) 82
+4 Colossal Dreadmask (MH3) 148
+4 Conduit Goblin (MH3) 179
+4 Contaminated Landscape (MH3) 218
+4 Corrupted Shapeshifter (MH3) 56
+4 Cranial Ram (MH3) 180
+4 Cyclops Superconductor (MH3) 182
+4 Deceptive Landscape (MH3) 219
+4 Deem Inferior (MH3) 57
+4 Dog Umbra (MH3) 22
+4 Dreamdrinker Vampire (MH3) 88
+4 Drossclaw (MH3) 89
+4 Drownyard Lurker (MH3) 3
+4 Eldrazi Repurposer (MH3) 150
+4 Electrozoa (MH3) 60
+4 Eviscerator's Insight (MH3) 93
+4 Evolution Witness (MH3) 151
+4 Expanding Ooze (MH3) 184
+4 Expel the Unworthy (MH3) 25
+4 Faithful Watchdog (MH3) 185
+4 Fanged Flames (MH3) 118
+4 Fetid Gargantua (MH3) 94
+4 Foreboding Landscape (MH3) 221
+4 Fowl Strike (MH3) 155
+4 Galvanic Discharge (MH3) 122
+4 Gift of the Viper (MH3) 156
+4 Glimpse the Impossible (MH3) 124
+4 Gravedig (MH3) 96
+4 Hexgold Slith (MH3) 30
+4 Horrific Assault (MH3) 157
+4 Infernal Captor (MH3) 125
+4 Inspired Inventor (MH3) 32
+4 Inventor's Axe (MH3) 126
+4 Jolted Awake (MH3) 33
+4 Kami of Jealous Thirst (MH3) 98
+4 Malevolent Rumble (MH3) 161
+4 Mandibular Kite (MH3) 34
+4 Molten Gatekeeper (MH3) 128
+4 Nightshade Dryad (MH3) 163
+4 Nyxborn Hydra (MH3) 164
+4 Nyxborn Unicorn (MH3) 37
+4 Obstinate Gargoyle (MH3) 195
+4 Perilous Landscape (MH3) 223
+4 Petrifying Meddler (MH3) 66
+4 Refurbished Familiar (MH3) 105
+
+
+### New Deck
+
+4 Retrofitted Transmogrant (MH3) 106
+4 Riddle Gate Gargoyle (MH3) 201
+4 Rosecot Knight (MH3) 42
+4 Sage of the Unknowable (MH3) 68
+4 Sarpadian Simulacrum (MH3) 135
+4 Scurrilous Sentry (MH3) 108
+4 Seething Landscape (MH3) 225
+4 Serum Visionary (MH3) 69
+4 Shattered Landscape (MH3) 226
+4 Sheltering Landscape (MH3) 227
+4 Siege Smash (MH3) 136
+4 Skoa, Embermage (MH3) 138
+4 Smelted Chargebug (MH3) 139
+4 Snapping Voidcraw (MH3) 204
+4 Sneaky Snacker (MH3) 205
+4 Solstice Zealot (MH3) 43
+4 Temperamental Oozewagg (MH3) 172
+4 Tempest Harvester (MH3) 73
+4 Thraben Charm (MH3) 45
+4 Thriving Skyclaw (MH3) 141
+4 Tranquil Landscape (MH3) 231
+4 Tune the Narrative (MH3) 75
+4 Twisted Landscape (MH3) 232
+4 Unfathomable Truths (MH3) 77
+4 Utter Insignificance (MH3) 78
+4 Voidpouncer (MH3) 143
+4 Warped Tusker (MH3) 16
+4 Wing It (MH3) 48
+4 Wither and Bloom (MH3) 111
+4 Writhing Chrysalis (MH3) 208
+
+### The Last Deck has 120 cards in it.

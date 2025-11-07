@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Balustrade Wurm (DSK) 168
+4 Blazemire Verge (DSK) 256
+4 Central Elevator (DSK) 44
+4 Chainsaw (DSK) 128
+4 Come Back Wrong (DSK) 86
+4 Cursed Recording (DSK) 131
+4 Dazzling Theater (DSK) 3
+4 Demonic Counsel (DSK) 92
+4 Dissection Tools (DSK) 245
+4 Doomsday Excruciator (DSK) 94
+4 Enduring Courage (DSK) 133
+4 Enduring Curiosity (DSK) 51
+4 Enduring Innocence (DSK) 6
+4 Enduring Tenacity (DSK) 95
+4 Enduring Vitality (DSK) 176
+4 Entity Tracker (DSK) 53
+4 Fear of Missing Out (DSK) 136
+4 Floodfarm Verge (DSK) 259
+4 Ghost Vacuum (DSK) 248
+4 Ghostly Dancers (DSK) 13
+4 Gloomlake Verge (DSK) 260
+4 Grievous Wound (DSK) 102
+4 Hedge Shredder (DSK) 183
+4 Hushwood Verge (DSK) 261
+4 Kona, Rescue Beastie (DSK) 187
+4 Leyline of Hope (DSK) 18
+4 Leyline of Mutation (DSK) 188
+4 Leyline of Resonance (DSK) 143
+4 Leyline of Transformation (DSK) 63
+4 Leyline of the Void (DSK) 106
+4 Marina Vendrell (DSK) 221
+4 Marina Vendrell's Grimoire (DSK) 64
+4 Marvin, Murderous Mimic (DSK) 253
+4 Nashi, Searcher in the Dark (DSK) 223
+4 Omnivorous Flytrap (DSK) 192
+4 Peer Past the Veil (DSK) 226
+4 Razorkin Needlehead (DSK) 153
+4 Reluctant Role Model (DSK) 26
+4 Restricted Office (DSK) 227
+4 Rip, Spawn Hunter (DSK) 228
+4 Roaring Furnace (DSK) 230
+4 Silent Hallcreeper (DSK) 72
+4 Split Up (DSK) 32
+4 The Jolly Balloon Man (DSK) 219
+4 The Mindskinner (DSK) 66
+4 The Swarmweaver (DSK) 236
+4 The Tale of Tamiyo (DSK) 75
+4 Thornspire Verge (DSK) 270
+4 Toby, Beastie Befriender (DSK) 35
+4 Twitching Doll (DSK) 201
+
+
+### New Deck
+
+4 Undead Sprinter (DSK) 237
+4 Unholy Annex (DSK) 118
+4 Unidentified Hovership (DSK) 37
+4 Unstoppable Slasher (DSK) 119
+4 Valgavoth's Lair (DSK) 271
+4 Valgavoth's Onslaught (DSK) 204
+4 Victor, Valgavoth's Seneschal (DSK) 238
+4 Waltz of Rage (DSK) 165
+4 Winter, Misanthropic Guide (DSK) 240
+4 Zimone, All-Questioning (DSK) 241
+
+### The Last Deck has 40 cards in it.

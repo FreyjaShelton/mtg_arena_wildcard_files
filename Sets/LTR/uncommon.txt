@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arwen Undómiel (LTR) 194
+4 Barrow-Blade (LTR) 237
+4 Bilbo, Retired Burglar (LTR) 196
+4 Bill Ferny, Bree Swindler (LTR) 42
+4 Bill the Pony (LTR) 3
+4 Bitter Downfall (LTR) 77
+4 Book of Mazarbul (LTR) 116
+4 Butterbur, Bree Innkeeper (LTR) 197
+4 Celeborn the Wise (LTR) 156
+4 Council's Deliberation (LTR) 46
+4 Denethor, Ruling Steward (LTR) 198
+4 Dúnedain Rangers (LTR) 159
+4 Elrond, Lord of Rivendell (LTR) 49
+4 Ent-Draught Basin (LTR) 238
+4 Entish Restoration (LTR) 163
+4 Erkenbrand, Lord of Westfold (LTR) 123
+4 Faramir, Field Commander (LTR) 14
+4 Fear, Fire, Foes! (LTR) 125
+4 Fiery Inscription (LTR) 126
+4 Foray of Orcs (LTR) 128
+4 Friendly Rivalry (LTR) 204
+4 Frodo Baggins (LTR) 205
+4 Gandalf's Sanction (LTR) 208
+4 Gandalf, Friend of the Shire (LTR) 50
+4 Gift of Strands (LTR) 170
+4 Gimli, Counter of Kills (LTR) 129
+4 Glorfindel, Dauntless Rescuer (LTR) 171
+4 Goblin Fireleaper (LTR) 133
+4 Gollum's Bite (LTR) 85
+4 Gollum, Patient Plotter (LTR) 84
+4 Gorbag of Minas Morgul (LTR) 86
+4 Gothmog, Morgul Lieutenant (LTR) 87
+4 Grishnákh, Brash Instigator (LTR) 134
+4 Grond, the Gatebreaker (LTR) 89
+4 Gríma Wormtongue (LTR) 88
+4 Gwaihir the Windlord (LTR) 210
+4 Horses of the Bruinen (LTR) 55
+4 Ioreth of the Healing House (LTR) 56
+4 Landroval, Horizon Witness (LTR) 21
+4 Legolas, Counter of Kills (LTR) 212
+4 Long List of the Ents (LTR) 174
+4 Lost to Legend (LTR) 22
+4 March from the Black Gate (LTR) 94
+4 Mauhúr, Uruk-hai Captain (LTR) 214
+4 Meneldor, Swift Savior (LTR) 62
+4 Meriadoc Brandybuck (LTR) 177
+4 Mirror of Galadriel (LTR) 244
+4 Nazgûl (LTR) 100
+4 Oath of the Grey Host (LTR) 101
+4 Old Man Willow (LTR) 217
+
+
+### New Deck
+
+4 Peregrin Took (LTR) 181
+4 Prince Imrahil the Fair (LTR) 219
+4 Quickbeam, Upstart Ent (LTR) 183
+4 Ranger's Firebrand (LTR) 143
+4 Reprieve (LTR) 26
+4 Ringsight (LTR) 220
+4 Rise of the Witch-king (LTR) 221
+4 Rising of the Day (LTR) 145
+4 Rosie Cotton of South Lane (LTR) 27
+4 Samwise the Stouthearted (LTR) 28
+4 Saruman the White (LTR) 67
+4 Saruman's Trickery (LTR) 68
+4 Shadow Summoning (LTR) 226
+4 Shadowfax, Lord of Horses (LTR) 227
+4 Shire Shirriff (LTR) 30
+4 Shortcut to Mushrooms (LTR) 187
+4 Stern Scolding (LTR) 71
+4 Stew the Coneys (LTR) 189
+4 Stone of Erech (LTR) 251
+4 Strider, Ranger of the North (LTR) 232
+4 Tale of Tinúviel (LTR) 34
+4 The Bath Song (LTR) 40
+4 The Grey Havens (LTR) 255
+4 The Mouth of Sauron (LTR) 216
+4 Théoden, King of Rohan (LTR) 233
+4 Uglúk of the White Hand (LTR) 235
+4 Voracious Fell Beast (LTR) 113
+4 You Cannot Pass! (LTR) 38
+4 Éomer of the Riddermark (LTR) 121
+4 Éowyn, Lady of Rohan (LTR) 10
+
+### The Last Deck has 120 cards in it.

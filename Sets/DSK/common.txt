@@ -1,0 +1,102 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abandoned Campground (DSK) 255
+4 Acrobatic Cheerleader (DSK) 1
+4 Anthropede (DSK) 167
+4 Appendage Amalgam (DSK) 83
+4 Balemurk Leech (DSK) 84
+4 Bashful Beastie (DSK) 169
+4 Bear Trap (DSK) 243
+4 Bedhead Beastie (DSK) 125
+4 Bleeding Woods (DSK) 257
+4 Boilerbilges Ripper (DSK) 127
+4 Cackling Slasher (DSK) 85
+4 Cautious Survivor (DSK) 172
+4 Clammy Prowler (DSK) 45
+4 Clockwork Percussionist (DSK) 130
+4 Cracked Skull (DSK) 88
+4 Creeping Peeper (DSK) 46
+4 Cryptid Inspector (DSK) 174
+4 Cult Healer (DSK) 2
+4 Daggermaw Megalodon (DSK) 48
+4 Derelict Attic (DSK) 93
+4 Don't Make a Sound (DSK) 49
+4 Emerge from the Cocoon (DSK) 5
+4 Enter the Enigma (DSK) 52
+4 Erratic Apparition (DSK) 54
+4 Etched Cornfield (DSK) 258
+4 Fanatic of the Harrowing (DSK) 96
+4 Fear of Immobility (DSK) 10
+4 Fear of Lost Teeth (DSK) 97
+4 Fear of Surveillance (DSK) 11
+4 Fear of the Dark (DSK) 98
+4 Final Vengeance (DSK) 99
+4 Flesh Burrower (DSK) 178
+4 Found Footage (DSK) 246
+4 Frantic Strength (DSK) 179
+4 Friendly Ghost (DSK) 12
+4 Friendly Teddy (DSK) 247
+4 Give In to Violence (DSK) 101
+4 Glassworks (DSK) 137
+4 Glimmerburst (DSK) 62
+4 Glimmerlight (DSK) 249
+4 Grab the Prize (DSK) 138
+4 Grand Entryway (DSK) 15
+4 Grasping Longneck (DSK) 180
+4 Hand That Feeds (DSK) 139
+4 Hardened Escort (DSK) 16
+4 Horrid Vigor (DSK) 184
+4 Impossible Inferno (DSK) 140
+4 Innocuous Rat (DSK) 103
+4 Jump Scare (DSK) 17
+4 Lakeside Shack (DSK) 262
+
+
+### New Deck
+
+4 Living Phone (DSK) 20
+4 Malevolent Chandelier (DSK) 252
+4 Manifest Dread (DSK) 189
+4 Meat Locker (DSK) 65
+4 Moldering Gym (DSK) 190
+4 Monstrous Emergence (DSK) 191
+4 Most Valuable Slayer (DSK) 144
+4 Murder (DSK) 110
+4 Murky Sewer (DSK) 263
+4 Neglected Manor (DSK) 264
+4 Peculiar Lighthouse (DSK) 265
+4 Piranha Fly (DSK) 70
+4 Possessed Goat (DSK) 25
+4 Ragged Playmate (DSK) 150
+4 Rampaging Soulrager (DSK) 151
+4 Raucous Carnival (DSK) 266
+4 Razortrap Gorge (DSK) 267
+4 Resurrected Cultist (DSK) 115
+4 Ripchain Razorkin (DSK) 154
+4 Say Its Name (DSK) 197
+4 Scorching Dragonfire (DSK) 156
+4 Seized from Slumber (DSK) 28
+4 Shepherding Spirits (DSK) 31
+4 Slavering Branchsnapper (DSK) 198
+4 Spectral Snatcher (DSK) 116
+4 Spineseeker Centipede (DSK) 199
+4 Stalked Researcher (DSK) 73
+4 Strangled Cemetery (DSK) 268
+4 Terramorphic Expanse (DSK) 269
+4 Ticket Booth (DSK) 158
+4 Trapped in the Screen (DSK) 36
+4 Tunnel Surveyor (DSK) 76
+4 Turn Inside Out (DSK) 160
+4 Twist Reality (DSK) 77
+4 Unable to Scream (DSK) 78
+4 Underwater Tunnel (DSK) 79
+4 Unsettling Twins (DSK) 38
+4 Vanish from Sight (DSK) 82
+4 Vicious Clown (DSK) 163
+4 Wary Watchdog (DSK) 206
+4 Winter's Intervention (DSK) 123
+
+### The Last Deck has 164 cards in it.

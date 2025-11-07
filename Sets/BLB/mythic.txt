@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Beza, the Bounding Spring (BLB) 2
+4 Dragonhawk, Fate's Tempest (BLB) 132
+4 Eluge, the Shoreless Sea (BLB) 49
+4 Glarb, Calamity's Augur (BLB) 215
+4 Helga, Skittish Seer (BLB) 217
+4 Hugs, Grisly Guardian (BLB) 218
+4 Kitsa, Otterball Elite (BLB) 54
+4 Lumra, Bellow of the Woods (BLB) 183
+4 Maha, Its Feathers Night (BLB) 100
+4 Ral, Crackling Wit (BLB) 230
+4 Rottenmouth Viper (BLB) 107
+4 Season of Gathering (BLB) 192
+4 Season of Loss (BLB) 112
+4 Season of Weaving (BLB) 68
+4 Season of the Bold (BLB) 152
+4 Season of the Burrow (BLB) 29
+4 Stormsplitter (BLB) 154
+4 The Infamous Cruelclaw (BLB) 219
+4 Warren Warleader (BLB) 38
+4 Ygra, Eater of All (BLB) 241
+
+### The Last Deck has 80 cards in it.

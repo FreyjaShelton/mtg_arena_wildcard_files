@@ -1,0 +1,28 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Brightglass Gearhulk (DFT) 191
+4 Chandra, Spark Hunter (DFT) 116
+4 Coalstoke Gearhulk (DFT) 198
+4 Hazoret, Godseeker (DFT) 133
+4 Ketramose, the New Dawn (DFT) 209
+4 Loot, the Pathfinder (DFT) 212
+4 March of the World Ooze (DFT) 169
+4 Mimeoplasm, Revered One (DFT) 214
+4 Mu Yanling, Wind Rider (DFT) 52
+4 Oildeep Gearhulk (DFT) 215
+4 Pyrewood Gearhulk (DFT) 216
+4 Radiant Lotus (DFT) 240
+4 Riptide Gearhulk (DFT) 219
+4 Sab-Sunen, Luxa Embodied (DFT) 221
+4 Salvation Engine (DFT) 27
+4 Spectacular Pileup (DFT) 398
+4 The Aetherspark (DFT) 231
+4 The Last Ride (DFT) 94
+4 The Speed Demon (DFT) 105
+4 Thunderous Velocipede (DFT) 183
+4 Valor's Flagship (DFT) 35
+
+### The Last Deck has 84 cards in it.

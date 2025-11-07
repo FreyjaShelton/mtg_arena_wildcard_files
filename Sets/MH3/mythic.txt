@@ -1,0 +1,31 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, Nacatl Pariah (MH3) 237
+4 Arna Kennerüd, Skycaptain (MH3) 178
+4 Ashling, Flame Dancer (MH3) 115
+4 Birthing Ritual (MH3) 146
+4 Breya, Etherium Shaper (MH3) 289
+4 Eladamri, Korvecdal (MH3) 149
+4 Emrakul, the World Anew (MH3) 6
+4 Grist, Voracious Larva (MH3) 251
+4 Herigast, Erupting Nullkite (MH3) 8
+4 Kaalia of the Vast (MH3) 290
+4 Kozilek, the Broken Reality (MH3) 10
+4 Necrodominance (MH3) 102
+4 Nethergoyf (MH3) 103
+4 Ocelot Pride (MH3) 38
+4 Phlage, Titan of Fire's Fury (MH3) 197
+4 Phyrexian Tower (MH3) 303
+4 Ral, Monsoon Mage (MH3) 247
+4 Recruiter of the Guard (MH3) 266
+4 Shadow of the Second Sun (MH3) 70
+4 Sorin of House Markov (MH3) 245
+4 Tamiyo, Inquisitive Student (MH3) 242
+4 Ugin's Binding (MH3) 76
+4 Ugin's Labyrinth (MH3) 233
+4 Ulamog, the Defiler (MH3) 15
+
+### The Last Deck has 96 cards in it.

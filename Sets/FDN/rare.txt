@@ -1,0 +1,129 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abyssal Harvester (FDN) 54
+4 Alesha, Who Laughs at Fate (FDN) 115
+4 Anthem of Champions (FDN) 116
+4 Arahbo, the First Fang (FDN) 2
+4 Archmage of Runes (FDN) 30
+4 Ashroot Animist (FDN) 117
+4 Authority of the Consuls (FDN) 137
+4 Banner of Kinship (FDN) 127
+4 Blasphemous Edict (FDN) 57
+4 Brass's Bounty (FDN) 190
+4 Celestial Armor (FDN) 5
+4 Consuming Aberration (FDN) 238
+4 Crystal Barricade (FDN) 7
+4 Curator of Destinies (FDN) 34
+4 Day of Judgment (FDN) 140
+4 Drake Hatcher (FDN) 35
+4 Drakuseth, Maw of Flames (FDN) 193
+4 Dread Summons (FDN) 604
+4 Drogskol Reaver (FDN) 655
+4 Dropkick Bomber (FDN) 537
+4 Electroduplicate (FDN) 85
+4 Elenda, Saint of Dusk (FDN) 119
+4 Elvish Archdruid (FDN) 219
+4 Etali, Primal Storm (FDN) 194
+4 Exemplar of Light (FDN) 11
+4 Extravagant Replication (FDN) 154
+4 Felidar Retreat (FDN) 574
+4 Flamewake Phoenix (FDN) 198
+4 Fumigate (FDN) 575
+4 Genesis Wave (FDN) 221
+4 Ghalta, Primal Hunger (FDN) 222
+4 Giada, Font of Hope (FDN) 141
+4 Gigantosaurus (FDN) 718
+4 Gilded Lotus (FDN) 725
+4 Gratuitous Violence (FDN) 715
+4 Halana and Alena, Partners (FDN) 659
+4 Harbinger of the Tides (FDN) 593
+4 Harmless Offering (FDN) 625
+4 Heroes' Bane (FDN) 639
+4 High Fae Trickster (FDN) 40
+4 High-Society Hunter (FDN) 61
+4 Homunculus Horde (FDN) 41
+4 Immersturm Predator (FDN) 660
+4 Jazal Goldmane (FDN) 497
+4 Kalastria Highborn (FDN) 607
+4 Kellan, Planar Trailblazer (FDN) 91
+4 Kiora, the Rising Tide (FDN) 45
+4 Koma, World-Eater (FDN) 121
+4 Krenko, Mob Boss (FDN) 204
+4 Kykar, Zephyr Awakener (FDN) 122
+
+
+### New Deck
+
+4 Lathliss, Dragon Queen (FDN) 627
+4 Lathril, Blade of the Elves (FDN) 242
+4 Leyline Axe (FDN) 129
+4 Linden, the Steadfast Queen (FDN) 577
+4 Loot, Exuberant Explorer (FDN) 106
+4 Lunar Insight (FDN) 46
+4 Maelstrom Pulse (FDN) 661
+4 Mazemind Tome (FDN) 676
+4 Mentor of the Meek (FDN) 578
+4 Midnight Reaper (FDN) 609
+4 Mossborn Hydra (FDN) 107
+4 Myojin of Night's Reach (FDN) 610
+4 Mystic Archaeologist (FDN) 511
+4 Nine-Lives Familiar (FDN) 66
+4 Nullpriest of Oblivion (FDN) 611
+4 Ovika, Enigma Goliath (FDN) 663
+4 Painful Quandary (FDN) 179
+4 Phyrexian Arena (FDN) 180
+4 Predator Ooze (FDN) 642
+4 Preposterous Proportions (FDN) 109
+4 Primal Might (FDN) 643
+4 Prime Speaker Zegana (FDN) 664
+4 Raise the Past (FDN) 22
+4 Rampaging Baloths (FDN) 645
+4 Redcap Gutter-Dweller (FDN) 631
+4 Regal Caracal (FDN) 579
+4 Rite of Replication (FDN) 711
+4 River's Rebuke (FDN) 595
+4 Rune-Scarred Demon (FDN) 184
+4 Scavenging Ooze (FDN) 232
+4 Scrawling Crawler (FDN) 132
+4 Searslicer Goblin (FDN) 93
+4 Skyknight Squire (FDN) 23
+4 Slagstorm (FDN) 207
+4 Solemn Simulacrum (FDN) 257
+4 Soulstone Sanctuary (FDN) 133
+4 Spinner of Souls (FDN) 112
+4 Steel Hellkite (FDN) 681
+4 Stromkirk Noble (FDN) 632
+4 Surrak, the Hunt Caller (FDN) 647
+4 Swiftblade Vindicator (FDN) 246
+4 Sylvan Scavenging (FDN) 113
+4 Taurean Mauler (FDN) 633
+4 Tempest Djinn (FDN) 598
+4 Temple of Abandon (FDN) 696
+4 Temple of Deceit (FDN) 697
+4 Temple of Enlightenment (FDN) 698
+4 Temple of Epiphany (FDN) 699
+4 Temple of Malady (FDN) 700
+4 Temple of Malice (FDN) 701
+
+
+### New Deck
+
+4 Temple of Mystery (FDN) 702
+4 Temple of Plenty (FDN) 703
+4 Temple of Silence (FDN) 704
+4 Temple of Triumph (FDN) 705
+4 Terror of Mount Velus (FDN) 549
+4 Thousand-Year Storm (FDN) 248
+4 Time Stop (FDN) 166
+4 Tinybones, Bauble Burglar (FDN) 72
+4 Voracious Greatshark (FDN) 600
+4 Wildborn Preserver (FDN) 650
+4 Wilt-Leaf Liege (FDN) 668
+4 Wishclaw Talisman (FDN) 617
+4 Zetalpa, Primal Dawn (FDN) 584
+4 Zul Ashur, Lich Lord (FDN) 77
+
+### The Last Deck has 56 cards in it.

@@ -1,0 +1,125 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adelbert Steiner (FIN) 3
+4 Al Bhed Salvagers (FIN) 88
+4 Ambrosia Whiteheart (FIN) 6
+4 Ashe, Princess of Dalmasca (FIN) 7
+4 Auron's Inspiration (FIN) 8
+4 Barret Wallace (FIN) 129
+4 Battle Menu (FIN) 9
+4 Black Waltz No. 3 (FIN) 214
+4 Cactuar (FIN) 177
+4 Capital City (FIN) 274
+4 Cargo Ship (FIN) 47
+4 Choco-Comet (FIN) 132
+4 Chocobo Racetrack (FIN) 179
+4 Cid, Timeless Artificer (FIN) 216
+4 Circle of Power (FIN) 92
+4 Clash of the Eikons (FIN) 180
+4 Cloud of Darkness (FIN) 217
+4 Coliseum Behemoth (FIN) 181
+4 Coral Sword (FIN) 134
+4 Crystal Fragments (FIN) 13
+4 Dark Knight's Greatsword (FIN) 95
+4 Delivery Moogle (FIN) 15
+4 Demon Wall (FIN) 97
+4 Diamond Weapon (FIN) 183
+4 Dragoon's Lance (FIN) 17
+4 Eden, Seat of the Sanctum (FIN) 277
+4 Eject (FIN) 52
+4 Elixir (FIN) 256
+4 Ether (FIN) 53
+4 Evil Reawakened (FIN) 98
+4 Exdeath, Void Warlock (FIN) 220
+4 Fang, Fearless l'Cie (FIN) 99
+4 Fire Magic (FIN) 136
+4 Freya Crescent (FIN) 138
+4 G'raha Tia (FIN) 21
+4 Gaius van Baelsar (FIN) 102
+4 Galuf's Final Act (FIN) 186
+4 Garland, Knight of Cornelia (FIN) 221
+4 Garnet, Princess of Alexandria (FIN) 222
+4 Giott, King of the Dwarves (FIN) 223
+4 Gladiolus Amicitia (FIN) 224
+4 Ignis Scientia (FIN) 227
+4 Il Mheg Pixie (FIN) 57
+4 Judge Magister Gabranth (FIN) 230
+4 Lion Heart (FIN) 261
+4 Locke Cole (FIN) 234
+4 Magitek Armor (FIN) 24
+4 Omega, Heartless Evolution (FIN) 236
+4 Opera Love Song (FIN) 147
+4 Overkill (FIN) 109
+
+
+### New Deck
+
+4 Phantom Train (FIN) 110
+4 Phoenix Down (FIN) 29
+4 Poison the Waters (FIN) 111
+4 Prompto Argentum (FIN) 148
+4 PuPu UFO (FIN) 266
+4 Queen Brahne (FIN) 149
+4 Quina, Qu Gourmet (FIN) 194
+4 Quistis Trepe (FIN) 66
+4 Ragnarok, Divine Deliverance (FIN) 99
+4 Random Encounter (FIN) 150
+4 Reach the Horizon (FIN) 195
+4 Relentless X-ATM092 (FIN) 268
+4 Relm's Sketching (FIN) 67
+4 Reno and Rude (FIN) 113
+4 Restoration Magic (FIN) 30
+4 Ride the Shoopuf (FIN) 197
+4 Ring of the Lucii (FIN) 269
+4 Rinoa Heartilly (FIN) 237
+4 Rufus Shinra (FIN) 238
+4 Rydia's Return (FIN) 198
+4 Rydia, Summoner of Mist (FIN) 239
+4 Samurai's Katana (FIN) 154
+4 Sandworm (FIN) 155
+4 Sazh's Chocobo (FIN) 200
+4 Self-Destruct (FIN) 157
+4 Shambling Cie'th (FIN) 117
+4 Shantotto, Tactician Magician (FIN) 241
+4 Sidequest: Card Collection (FIN) 73
+4 Sidequest: Catch a Fish (FIN) 31
+4 Sidequest: Hunt the Mark (FIN) 119
+4 Sidequest: Play Blitzball (FIN) 158
+4 Sidequest: Raise a Chocobo (FIN) 201
+4 Sleep Magic (FIN) 74
+4 Snow Villiers (FIN) 33
+4 Sorceress's Schemes (FIN) 159
+4 Stolen Uniform (FIN) 75
+4 Summon: Anima (FIN) 120
+4 Summon: Esper Ramuh (FIN) 161
+4 Summon: Fenrir (FIN) 203
+4 Summon: Primal Garuda (FIN) 37
+4 Summon: Shiva (FIN) 78
+4 Swallowed by Leviathan (FIN) 79
+4 The Crystal's Chosen (FIN) 14
+4 The Emperor of Palamecia (FIN) 219
+4 The Final Days (FIN) 101
+4 The Gold Saucer (FIN) 279
+4 The Prima Vista (FIN) 64
+4 Thief's Knife (FIN) 81
+4 Tidus, Blitzball Star (FIN) 246
+4 Tifa's Limit Break (FIN) 207
+
+
+### New Deck
+
+4 Tonberry (FIN) 122
+4 Torgal, A Fine Hound (FIN) 208
+4 Travel the Overworld (FIN) 82
+4 Ultimecia, Time Sorceress (FIN) 247
+4 Ultros, Obnoxious Octopus (FIN) 83
+4 Unexpected Request (FIN) 167
+4 Valkyrie Aerial Unit (FIN) 84
+4 Vanille, Cheerful l'Cie (FIN) 211
+4 Zack Fair (FIN) 45
+4 Zidane, Tantalus Thief (FIN) 251
+
+### The Last Deck has 40 cards in it.
