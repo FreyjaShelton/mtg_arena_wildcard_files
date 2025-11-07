@@ -1,0 +1,81 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aetherling (PIO) 43
+4 Ashen Rider (PIO) 203
+4 Aurelia's Fury (PIO) 386
+4 Bident of Thassa (PIO) 47
+4 Boros Reckoner (PIO) 208
+4 Bring to Light (PIO) 209
+4 Burning Anger (PIO) 127
+4 Chained to the Rocks (PIO) 9
+4 Chasm Skulker (PIO) 49
+4 Chromanticore (PIO) 212
+4 Counterflux (PIO) 213
+4 Crush of Tentacles (PIO) 52
+4 Dark Petition (PIO) 371
+4 Dictate of Erebos (PIO) 91
+4 Dictate of Heliod (PIO) 11
+4 Exquisite Firecraft (PIO) 133
+4 Fleecemane Lion (PIO) 224
+4 Goblin Rabblemaster (PIO) 139
+4 Hallowed Moonlight (PIO) 359
+4 Haven of the Spirit Dragon (PIO) 265
+4 Hissing Quagmire (PIO) 266
+4 Hornet Nest (PIO) 180
+4 Hunter's Prowess (PIO) 381
+4 Jarad's Orders (PIO) 390
+4 Knight of the White Orchid (PIO) 21
+4 Legion Loyalist (PIO) 144
+4 Lifebane Zombie (PIO) 95
+4 Linvala, the Preserver (PIO) 25
+4 Lotleth Troll (PIO) 229
+4 Lumbering Falls (PIO) 268
+4 Master of Waves (PIO) 63
+4 Medomai the Ageless (PIO) 233
+4 Mistcutter Hydra (PIO) 184
+4 Needle Spires (PIO) 270
+4 Niblis of Frost (PIO) 66
+4 Notion Thief (PIO) 235
+4 Oath of Chandra (PIO) 148
+4 Oath of Nissa (PIO) 189
+4 Outpost Siege (PIO) 150
+4 Painful Truths (PIO) 101
+4 Part the Waterveil (PIO) 366
+4 Pia and Kiran Nalaar (PIO) 151
+4 Polukranos, World Eater (PIO) 190
+4 Radiant Flames (PIO) 377
+4 Rakdos's Return (PIO) 393
+4 Render Silent (PIO) 394
+4 Ruric Thar, the Unbowed (PIO) 239
+4 Scourge of Valkas (PIO) 155
+4 Secure the Wastes (PIO) 30
+4 Shamanic Revelation (PIO) 194
+
+
+### New Deck
+
+4 Shambling Vent (PIO) 275
+4 Sidisi, Undead Vizier (PIO) 108
+4 Silence (PIO) 32
+4 Sire of Insanity (PIO) 242
+4 Skylasher (PIO) 195
+4 Soulflayer (PIO) 110
+4 Spirit of the Labyrinth (PIO) 35
+4 Starfield of Nyx (PIO) 36
+4 Stormtide Leviathan (PIO) 75
+4 Sylvan Caryatid (PIO) 196
+4 Sylvan Primordial (PIO) 197
+4 Tasigur, the Golden Fang (PIO) 113
+4 Tidebinder Mage (PIO) 78
+4 Unexpected Results (PIO) 397
+4 Urborg, Tomb of Yawgmoth (PIO) 118
+4 Wandering Fumarole (PIO) 278
+4 Whip of Erebos (PIO) 119
+4 Woodland Wanderer (PIO) 201
+4 Xathrid Necromancer (PIO) 120
+4 Zurgo Bellstriker (PIO) 161
+
+### The Last Deck has 80 cards in it.

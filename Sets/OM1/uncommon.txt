@@ -1,0 +1,66 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alien Symbiosis (OM1) 49
+4 Aunt May (OM1) 24
+4 Chameleon, Master of Disguise (OM1) 46
+4 Costume Closet (OM1) 7
+4 Daily Bugle Building (OM1) 180
+4 Damage Control Crew (OM1) 115
+4 Ezekiel Sims, Spider-Totem (OM1) 110
+4 Flash Thompson, Spider-Fan (OM1) 3
+4 Flying Octobot (OM1) 47
+4 Green Goblin, Revenant (OM1) 149
+4 Heroes' Hangout (OM1) 79
+4 Hobgoblin, Mantled Marauder (OM1) 77
+4 Kraven, Proud Predator (OM1) 135
+4 Living Brain, Mechanical Marvel (OM1) 165
+4 Madame Web, Clairvoyant (OM1) 36
+4 Molten Man, Inferno Incarnate (OM1) 82
+4 Morbius the Living Vampire (OM1) 156
+4 Pictures of Spider-Man (OM1) 99
+4 Prison Break (OM1) 64
+4 Prowler, Clawed Thief (OM1) 128
+4 Raging Goblinoids (OM1) 86
+4 Rhino's Rampage (OM1) 151
+4 Rhino, Barreling Brute (OM1) 160
+4 Robotics Mastery (OM1) 41
+4 SP//dr, Piloted by Peni (OM1) 143
+4 Sandman's Quicksand (OM1) 62
+4 Scarlet Spider, Kaine (OM1) 141
+4 School Daze (OM1) 37
+4 Scorpion, Seething Striker (OM1) 68
+4 Secret Identity (OM1) 42
+4 Shocker, Unshakable (OM1) 83
+4 Shriek, Treblemaker (OM1) 131
+4 Silver Sable, Mercenary Leader (OM1) 12
+4 Spider-Byte, Web Warden (OM1) 26
+4 Spider-Girl, Legacy Hero (OM1) 139
+4 Spider-Man India (OM1) 124
+4 Spider-Man Noir (OM1) 59
+4 Spider-Mobile (OM1) 173
+4 Spider-Slayer, Hatred Honed (OM1) 168
+4 Spider-Suit (OM1) 161
+4 Spider-UK (OM1) 18
+4 Spiders-Man, Heroic Horde (OM1) 101
+4 Sudden Strike (OM1) 20
+4 Sun-Spider, Nimble Webber (OM1) 130
+4 Superior Foes of Spider-Man (OM1) 91
+4 Supportive Parents (OM1) 117
+4 Terrific Team-Up (OM1) 119
+4 The Spot's Portal (OM1) 65
+4 Tombstone, Career Criminal (OM1) 63
+4 Vulture, Scheming Scavenger (OM1) 152
+
+
+### New Deck
+
+4 Wall Crawl (OM1) 112
+4 Web-Shooters (OM1) 2
+4 Web-Warriors (OM1) 134
+4 Wisecrack (OM1) 98
+4 Wraith, Vicious Vigilante (OM1) 146
+
+### The Last Deck has 20 cards in it.

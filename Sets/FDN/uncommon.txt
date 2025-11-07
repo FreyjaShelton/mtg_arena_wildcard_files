@@ -1,0 +1,179 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abrade (FDN) 188
+4 Adventuring Gear (FDN) 249
+4 Aetherize (FDN) 151
+4 Affectionate Indrik (FDN) 211
+4 Ajani's Pridemate (FDN) 135
+4 An Offer You Can't Refuse (FDN) 160
+4 Angel of Finality (FDN) 136
+4 Arbiter of Woe (FDN) 55
+4 Arcane Epiphany (FDN) 29
+4 Balmor, Battlemage Captain (FDN) 237
+4 Battlesong Berserker (FDN) 78
+4 Billowing Shriekmass (FDN) 56
+4 Blanchwood Armor (FDN) 213
+4 Boltwave (FDN) 79
+4 Brazen Scourge (FDN) 191
+4 Brineborn Cutthroat (FDN) 152
+4 Bulk Up (FDN) 80
+4 Burnished Hart (FDN) 250
+4 Cat Collector (FDN) 4
+4 Cephalid Inkmage (FDN) 32
+4 Claws Out (FDN) 6
+4 Clinquant Skymage (FDN) 33
+4 Dauntless Veteran (FDN) 8
+4 Diregraf Ghoul (FDN) 171
+4 Divine Resilience (FDN) 10
+4 Dragon Mage (FDN) 621
+4 Dragon Trainer (FDN) 84
+4 Dreadwing Scavenger (FDN) 118
+4 Dryad Militant (FDN) 656
+4 Dwynen, Gilt-Leaf Daen (FDN) 217
+4 Eager Trufflesnout (FDN) 102
+4 Eaten by Piranhas (FDN) 507
+4 Elspeth's Smite (FDN) 493
+4 Elvish Regrower (FDN) 104
+4 Empyrean Eagle (FDN) 239
+4 Enigma Drake (FDN) 657
+4 Essence Scatter (FDN) 153
+4 Exclusion Mage (FDN) 508
+4 Exsanguinate (FDN) 173
+4 Faebloom Trick (FDN) 38
+4 Feldon's Cane (FDN) 673
+4 Felling Blow (FDN) 105
+4 Fiendish Panda (FDN) 120
+4 Fiery Annihilation (FDN) 86
+4 Fireshrieker (FDN) 674
+4 Firespitter Whelp (FDN) 197
+4 Fishing Pole (FDN) 128
+4 Flashfreeze (FDN) 590
+4 Fog Bank (FDN) 591
+4 Frenzied Goblin (FDN) 199
+
+
+### New Deck
+
+4 Fynn, the Fangbearer (FDN) 637
+4 Garna, Bloodfist of Keld (FDN) 658
+4 Garruk's Uprising (FDN) 220
+4 Gate Colossus (FDN) 675
+4 Gatekeeper of Malakir (FDN) 713
+4 Gateway Sneak (FDN) 592
+4 Giant Cindermaw (FDN) 624
+4 Gnarlback Rhino (FDN) 638
+4 Goblin Negotiation (FDN) 88
+4 Goblin Oriflamme (FDN) 539
+4 Good-Fortune Unicorn (FDN) 240
+4 Grappling Kraken (FDN) 39
+4 Guarded Heir (FDN) 14
+4 Guttersnipe (FDN) 716
+4 Heartfire Immolator (FDN) 201
+4 Hedron Archive (FDN) 726
+4 Herald of Faith (FDN) 494
+4 Heraldic Banner (FDN) 254
+4 Hero's Downfall (FDN) 175
+4 Heroic Reinforcements (FDN) 241
+4 Hidetsugu's Second Rite (FDN) 202
+4 Hoarding Dragon (FDN) 626
+4 Imperious Perfect (FDN) 719
+4 Imprisoned in the Moon (FDN) 156
+4 Infernal Vessel (FDN) 63
+4 Ingenious Leonin (FDN) 495
+4 Inspiration from Beyond (FDN) 43
+4 Inspiring Call (FDN) 226
+4 Joraga Invocation (FDN) 555
+4 Joust Through (FDN) 19
+4 Juggernaut (FDN) 255
+4 Knight of Grace (FDN) 576
+4 Knight of Malice (FDN) 608
+4 Leonin Skyhunter (FDN) 498
+4 Leonin Vanguard (FDN) 499
+4 Maalfeld Twins (FDN) 523
+4 Make a Stand (FDN) 708
+4 Meteor Golem (FDN) 256
+4 Micromancer (FDN) 158
+4 Midnight Snack (FDN) 65
+4 Mild-Mannered Librarian (FDN) 228
+4 Mindsparker (FDN) 628
+4 Mischievous Mystic (FDN) 47
+4 Mischievous Pup (FDN) 144
+4 Mold Adder (FDN) 640
+4 Mortify (FDN) 662
+4 Mystical Teachings (FDN) 594
+4 Needletooth Pack (FDN) 108
+4 Nessian Hornbeetle (FDN) 229
+4 Obliterating Bolt (FDN) 629
+
+
+### New Deck
+
+4 Ordeal of Nylea (FDN) 641
+4 Overrun (FDN) 230
+4 Pelakka Wurm (FDN) 720
+4 Perforating Artist (FDN) 124
+4 Prayer of Binding (FDN) 502
+4 Quakestrider Ceratops (FDN) 110
+4 Ravenous Amulet (FDN) 131
+4 Ravenous Giant (FDN) 630
+4 Reassembling Skeleton (FDN) 182
+4 Reclamation Sage (FDN) 231
+4 Release the Dogs (FDN) 580
+4 Resolute Reinforcements (FDN) 145
+4 Revenge of the Rats (FDN) 67
+4 Rogue's Passage (FDN) 264
+4 Ruby, Daring Tracker (FDN) 245
+4 Rune-Sealed Wall (FDN) 49
+4 Savage Ventmaw (FDN) 665
+4 Savannah Lions (FDN) 146
+4 Secluded Courtyard (FDN) 267
+4 Seeker's Folly (FDN) 69
+4 Seismic Rupture (FDN) 205
+4 Self-Reflection (FDN) 163
+4 Serra Angel (FDN) 147
+4 Shipwreck Dowser (FDN) 596
+4 Shivan Dragon (FDN) 206
+4 Skyship Buccaneer (FDN) 50
+4 Slumbering Cerberus (FDN) 94
+4 Snakeskin Veil (FDN) 233
+4 Sorcerous Spyglass (FDN) 679
+4 Soul-Guide Lantern (FDN) 680
+4 Spectral Sailor (FDN) 164
+4 Stasis Snare (FDN) 581
+4 Storm Fleet Spy (FDN) 515
+4 Stroke of Midnight (FDN) 148
+4 Stromkirk Bloodthief (FDN) 185
+4 Strongbox Raider (FDN) 96
+4 Sun-Blessed Healer (FDN) 25
+4 Swiftfoot Boots (FDN) 258
+4 Syr Alin, the Lion's Claw (FDN) 582
+4 Tatyova, Benthic Druid (FDN) 247
+4 Teach by Example (FDN) 666
+4 Thrashing Brontodon (FDN) 560
+4 Tragic Banshee (FDN) 73
+4 Tribute to Hunger (FDN) 614
+4 Trygon Predator (FDN) 667
+4 Twinblade Blessing (FDN) 26
+4 Twinblade Paladin (FDN) 503
+4 Unflinching Courage (FDN) 722
+4 Valorous Stance (FDN) 583
+4 Vampire Gourmand (FDN) 74
+
+
+### New Deck
+
+4 Vampire Nighthawk (FDN) 186
+4 Vampiric Rites (FDN) 615
+4 Vengeful Bloodwitch (FDN) 76
+4 Venom Connoisseur (FDN) 648
+4 Vile Entomber (FDN) 616
+4 Volley Veteran (FDN) 550
+4 Wardens of the Cycle (FDN) 125
+4 Wildwood Scourge (FDN) 236
+4 Youthful Valkyrie (FDN) 149
+4 Zombify (FDN) 187
+
+### The Last Deck has 40 cards in it.

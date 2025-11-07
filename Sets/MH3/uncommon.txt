@@ -1,0 +1,136 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani Fells the Godsire (MH3) 19
+4 Amped Raptor (MH3) 114
+4 Angel of the Ruins (MH3) 262
+4 Annoyed Altisaur (MH3) 284
+4 Arcbound Condor (MH3) 81
+4 Barbarian Ring (MH3) 299
+4 Bespoke Battlewagon (MH3) 52
+4 Bloodsoaked Insight (MH3) 252
+4 Boggart Trawler (MH3) 243
+4 Brainsurge (MH3) 53
+4 Breaker of Creation (MH3) 1
+4 Bridgeworks Battle (MH3) 249
+4 Buried Alive (MH3) 273
+4 Cephalid Coliseum (MH3) 300
+4 Charitable Levy (MH3) 21
+4 Collective Resistance (MH3) 147
+4 Consign to Memory (MH3) 54
+4 Consuming Corruption (MH3) 84
+4 Copycrook (MH3) 55
+4 Cursed Wombat (MH3) 181
+4 Decree of Justice (MH3) 263
+4 Deep Analysis (MH3) 268
+4 Depth Defiler (MH3) 58
+4 Disciple of Freyalise (MH3) 250
+4 Distinguished Conjurer (MH3) 264
+4 Dreadmobile (MH3) 87
+4 Drowner of Truth (MH3) 253
+4 Eldrazi Ravager (MH3) 5
+4 Emissary of Soulfire (MH3) 183
+4 Emrakul's Messenger (MH3) 61
+4 Envoy of the Ancestors (MH3) 23
+4 Essence Reliquary (MH3) 24
+4 Etched Slith (MH3) 91
+4 Etherium Pteramander (MH3) 92
+4 Fangs of Kalonia (MH3) 153
+4 Fell the Profane (MH3) 244
+4 Fledgling Dragon (MH3) 280
+4 Frogmyr Enforcer (MH3) 120
+4 Furnace Hellkite (MH3) 121
+4 Ghostfire Slice (MH3) 123
+4 Glaring Fleshraker (MH3) 7
+4 Glasswing Grace (MH3) 254
+4 Glyph Elemental (MH3) 27
+4 Golden-Tail Trainer (MH3) 187
+4 Grim Servant (MH3) 97
+4 Guardian of the Forgotten (MH3) 28
+4 Hope-Ender Coatl (MH3) 64
+4 Horrid Shadowspinner (MH3) 188
+4 Hydra Trainer (MH3) 159
+4 Hydroelectric Specimen (MH3) 240
+
+
+### New Deck
+
+4 Idol of False Gods (MH3) 210
+4 Indebted Spirit (MH3) 31
+4 It That Heralds the End (MH3) 9
+4 Izzet Generatorium (MH3) 191
+4 Junk Diver (MH3) 293
+4 Kozilek's Unsealing (MH3) 65
+4 Legion Leadership (MH3) 255
+4 Lethal Throwdown (MH3) 99
+4 Lion Umbra (MH3) 160
+4 Marionette Apprentice (MH3) 100
+4 Meltdown (MH3) 282
+4 Metastatic Evangel (MH3) 35
+4 Meteoric Mace (MH3) 283
+4 Mindless Conscription (MH3) 101
+4 Mogg Mob (MH3) 127
+4 Monstrous Vortex (MH3) 162
+4 Muster the Departed (MH3) 36
+4 Nadier's Nightblade (MH3) 275
+4 Nesting Grounds (MH3) 302
+4 Null Elemental Blast (MH3) 12
+4 Ondu Knotmaster (MH3) 196
+4 Path of Annihilation (MH3) 165
+4 Phyrexian Ironworks (MH3) 130
+4 Pinnacle Monk (MH3) 246
+4 Planar Genesis (MH3) 198
+4 Priest of Titania (MH3) 286
+4 Propagator Drone (MH3) 167
+4 Proud Pack-Rhino (MH3) 41
+4 Pyretic Rebirth (MH3) 200
+4 Quest for the Necropolis (MH3) 104
+4 Ral and the Implicit Maze (MH3) 132
+4 Razorgrass Ambush (MH3) 238
+4 Reckless Pyrosurfer (MH3) 133
+4 Reef Worm (MH3) 271
+4 Reiterating Bolt (MH3) 134
+4 Revitalizing Repast (MH3) 256
+4 Roil Cartographer (MH3) 67
+4 Rush of Inspiration (MH3) 257
+4 Scurry of Gremlins (MH3) 203
+4 Shrieking Drake (MH3) 272
+4 Signature Slam (MH3) 168
+4 Sink into Stupor (MH3) 241
+4 Skittering Precursor (MH3) 137
+4 Snow-Covered Wastes (MH3) 229
+4 Solar Transformer (MH3) 211
+4 Spawn-Gang Commander (MH3) 140
+4 Static Prison (MH3) 44
+4 Strength of the Harvest (MH3) 258
+4 Stump Stomp (MH3) 259
+4 Sundering Eruption (MH3) 248
+
+
+### New Deck
+
+4 Suppression Ray (MH3) 260
+4 Tamiyo Meets the Story Circle (MH3) 72
+4 Territory Culler (MH3) 173
+4 The Creation of Avacyn (MH3) 86
+4 The Hunger Tide Rises (MH3) 158
+4 Titans' Vanguard (MH3) 206
+4 Trickster's Elk (MH3) 175
+4 Triton Wavebreaker (MH3) 74
+4 Twisted Riddlekeeper (MH3) 14
+4 Unstable Amulet (MH3) 142
+4 Urza's Cave (MH3) 234
+4 Vexing Bauble (MH3) 212
+4 Victimize (MH3) 278
+4 Voltstorm Angel (MH3) 46
+4 Wastescape Battlemage (MH3) 17
+4 Waterlogged Teachings (MH3) 261
+4 Wirewood Symbiote (MH3) 288
+4 Witch Enchanter (MH3) 239
+4 Worn Powerstone (MH3) 298
+4 Wumpus Aberration (MH3) 176
+4 Wurmcoil Larva (MH3) 112
+
+### The Last Deck has 84 cards in it.

@@ -1,0 +1,89 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abstruse Appropriation (MH3) 177
+4 Aether Revolt (MH3) 113
+4 Amphibian Downpour (MH3) 51
+4 Archway of Innovation (MH3) 214
+4 Arena of Glory (MH3) 215
+4 Argent Dais (MH3) 20
+4 Bloodstained Mire (MH3) 216
+4 Branching Evolution (MH3) 285
+4 Chthonian Nightmare (MH3) 83
+4 Crabomination (MH3) 85
+4 Cursed Mirror (MH3) 279
+4 Deserted Temple (MH3) 301
+4 Detective's Phoenix (MH3) 116
+4 Devourer of Destiny (MH3) 2
+4 Disruptor Flute (MH3) 209
+4 Dreamtide Whale (MH3) 59
+4 Echoes of Eternity (MH3) 4
+4 Eldrazi Linebreaker (MH3) 117
+4 Emerald Medallion (MH3) 291
+4 Emperor of Bones (MH3) 90
+4 Estrid's Invocation (MH3) 269
+4 Fanatic of Rhonas (MH3) 152
+4 Flare of Cultivation (MH3) 154
+4 Flare of Denial (MH3) 62
+4 Flare of Duplication (MH3) 119
+4 Flare of Fortitude (MH3) 26
+4 Flare of Malice (MH3) 95
+4 Flooded Strand (MH3) 220
+4 Genku, Future Shaper (MH3) 186
+4 Guide of Souls (MH3) 29
+4 Harbinger of the Seas (MH3) 63
+4 Imskir Iron-Eater (MH3) 189
+4 Invert Polarity (MH3) 190
+4 Jet Medallion (MH3) 292
+4 K'rrik, Son of Yawgmoth (MH3) 274
+4 Kappa Cannoneer (MH3) 270
+4 Kozilek's Command (MH3) 11
+4 Kudo, King Among Bears (MH3) 192
+4 Laelia, the Blade Reforged (MH3) 281
+4 Monumental Henge (MH3) 222
+4 Nadu, Winged Wisdom (MH3) 193
+4 Nulldrifter (MH3) 13
+4 Ophiomancer (MH3) 276
+4 Orim's Chant (MH3) 265
+4 Party Thrasher (MH3) 129
+4 Pearl Medallion (MH3) 294
+4 Pearl-Ear, Imperial Advisor (MH3) 39
+4 Phelia, Exuberant Shepherd (MH3) 40
+4 Polluted Delta (MH3) 224
+4 Powerbalance (MH3) 131
+
+
+### New Deck
+
+4 Primal Prayers (MH3) 166
+4 Psychic Frog (MH3) 199
+4 Ripples of Undeath (MH3) 107
+4 Rosheen, Roaring Prophet (MH3) 202
+4 Ruby Medallion (MH3) 295
+4 Sapphire Medallion (MH3) 296
+4 Sevinne's Reclamation (MH3) 267
+4 Shifting Woodland (MH3) 228
+4 Shilgengar, Sire of Famine (MH3) 109
+4 Six (MH3) 169
+4 Sowing Mycospawn (MH3) 170
+4 Springheart Nantuko (MH3) 171
+4 Spymaster's Vault (MH3) 230
+4 Strix Serenade (MH3) 71
+4 Sylvan Safekeeper (MH3) 287
+4 The Necrobloom (MH3) 194
+4 Thief of Existence (MH3) 174
+4 Toxic Deluge (MH3) 277
+4 Urza's Incubator (MH3) 297
+4 Volatile Stormdrake (MH3) 79
+4 Warren Soultrader (MH3) 110
+4 Wheel of Potential (MH3) 144
+4 White Orchid Phantom (MH3) 47
+4 Wight of the Reliquary (MH3) 207
+4 Windswept Heath (MH3) 235
+4 Winter Moon (MH3) 213
+4 Wooded Foothills (MH3) 236
+4 Wrath of the Skies (MH3) 49
+
+### The Last Deck has 112 cards in it.

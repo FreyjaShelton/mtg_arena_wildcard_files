@@ -1,0 +1,118 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arwen's Gift (LTR) 39
+4 Bag End Porter (LTR) 153
+4 Banish from Edoras (LTR) 1
+4 Battle-Scarred Goblin (LTR) 115
+4 Bewitching Leechcraft (LTR) 41
+4 Birthday Escape (LTR) 43
+4 Bombadil's Song (LTR) 154
+4 Brandywine Farmer (LTR) 155
+4 Breaking of the Fellowship (LTR) 117
+4 Captain of Umbar (LTR) 45
+4 Cast into the Fire (LTR) 118
+4 Chance-Met Elves (LTR) 157
+4 Cirith Ungol Patrol (LTR) 80
+4 Claim the Precious (LTR) 81
+4 Deceive the Messenger (LTR) 47
+4 Dreadful as the Storm (LTR) 48
+4 Dunland Crebain (LTR) 82
+4 Dúnedain Blade (LTR) 6
+4 Eagles of the North (LTR) 7
+4 East-Mark Cavalier (LTR) 9
+4 Easterling Vanguard (LTR) 83
+4 Eastfarthing Farmer (LTR) 8
+4 Elven Farsight (LTR) 161
+4 Enraged Huorn (LTR) 162
+4 Ent's Fury (LTR) 164
+4 Erebor Flamesmith (LTR) 122
+4 Errand-Rider of Gondor (LTR) 11
+4 Escape from Orthanc (LTR) 12
+4 Esquire of the King (LTR) 13
+4 Fire of Orthanc (LTR) 127
+4 Fog on the Barrow-Downs (LTR) 16
+4 Galadhrim Bow (LTR) 167
+4 Galadhrim Guide (LTR) 168
+4 Generous Ent (LTR) 169
+4 Gimli's Axe (LTR) 130
+4 Gimli's Fury (LTR) 131
+4 Glorious Gale (LTR) 51
+4 Goblin Assailant (LTR) 295
+4 Great Hall of the Citadel (LTR) 254
+4 Grey Havens Navigator (LTR) 53
+4 Haradrim Spearmaster (LTR) 135
+4 Haunt of the Dead Marshes (LTR) 90
+4 Hithlain Knots (LTR) 54
+4 Hobbit's Sting (LTR) 20
+4 Improvised Club (LTR) 137
+4 Inherited Envelope (LTR) 242
+4 Isolation at Orthanc (LTR) 57
+4 Ithilien Kingfisher (LTR) 58
+4 Knight of the Keep (LTR) 291
+4 Knights of Dol Amroth (LTR) 59
+
+
+### New Deck
+
+4 Lash of the Balrog (LTR) 92
+4 Lembas (LTR) 243
+4 Lothlórien Lookout (LTR) 175
+4 Lórien Revealed (LTR) 60
+4 Many Partings (LTR) 176
+4 Mirkwood Bats (LTR) 95
+4 Mirkwood Spider (LTR) 178
+4 Mirrormere Guardian (LTR) 179
+4 Mordor Muster (LTR) 96
+4 Mordor Trebuchet (LTR) 97
+4 Morgul-Knife Wound (LTR) 98
+4 Mushroom Watchdogs (LTR) 180
+4 Nasty End (LTR) 99
+4 Nimble Hobbit (LTR) 23
+4 Nimrodel Watcher (LTR) 63
+4 Now for Wrath, Now for Ruin! (LTR) 24
+4 Oliphaunt (LTR) 139
+4 Olog-hai Crusher (LTR) 140
+4 Orcish Medicine (LTR) 104
+4 Pelargir Survivor (LTR) 64
+4 Pippin's Bravery (LTR) 182
+4 Protector of Gondor (LTR) 25
+4 Quarrel's End (LTR) 141
+4 Rally at the Hornburg (LTR) 142
+4 Relentless Rohirrim (LTR) 144
+4 Revive the Shire (LTR) 185
+4 Rohirrim Lancer (LTR) 146
+4 Rush the Room (LTR) 147
+4 Sam's Desperate Rescue (LTR) 105
+4 Second Breakfast (LTR) 29
+4 Shelob's Ambush (LTR) 108
+4 Shire Scarecrow (LTR) 249
+4 Shire Terrace (LTR) 261
+4 Shower of Arrows (LTR) 188
+4 Slip On the Ring (LTR) 31
+4 Smite the Deathless (LTR) 148
+4 Snarling Warg (LTR) 109
+4 Soldier of the Grey Host (LTR) 32
+4 Soothing of Sméagol (LTR) 70
+4 Stalwarts of Osgiliath (LTR) 33
+4 Surrounded by Orcs (LTR) 73
+4 Swarming of Moria (LTR) 150
+4 The Black Breath (LTR) 78
+4 The Torment of Gollum (LTR) 110
+4 Took Reaper (LTR) 35
+4 Treason of Isengard (LTR) 74
+4 Troll of Khazad-dûm (LTR) 111
+4 Uruk-hai Berserker (LTR) 112
+4 Warbeast of Gorgoroth (LTR) 152
+4 Westfold Rider (LTR) 37
+
+
+### New Deck
+
+4 Willow-Wind (LTR) 76
+4 Wizard's Rockets (LTR) 252
+4 Wose Pathfinder (LTR) 190
+
+### The Last Deck has 12 cards in it.

@@ -1,0 +1,30 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adagia, Windswept Bastion (EOE) 250
+4 Alpharael, Stonechosen (EOE) 87
+4 Cosmogrand Zenith (EOE) 9
+4 Dawnsire, Sunstar Dreadnought (EOE) 238
+4 Devastating Onslaught (EOE) 132
+4 Evendo, Waking Haven (EOE) 253
+4 Exalted Sunborn (EOE) 15
+4 Famished Worldsire (EOE) 182
+4 Kavaron, Memorial World (EOE) 255
+4 Mutinous Massacre (EOE) 363
+4 Ouroboroid (EOE) 201
+4 Quantum Riddler (EOE) 72
+4 Sami, Wildcat Captain (EOE) 226
+4 Secluded Starforge (EOE) 366
+4 Sothera, the Supervoid (EOE) 115
+4 Starfield Vocalist (EOE) 359
+4 Susur Secundi, Void Altar (EOE) 259
+4 Tannuk, Steadfast Second (EOE) 162
+4 Tezzeret, Cruel Captain (EOE) 2
+4 The Dominion Bracelet (EOE) 239
+4 The Endstone (EOE) 240
+4 Uthros, Titanic Godcore (EOE) 260
+4 Weftwalking (EOE) 86
+
+### The Last Deck has 92 cards in it.

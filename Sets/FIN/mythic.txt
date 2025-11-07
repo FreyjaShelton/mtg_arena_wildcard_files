@@ -1,0 +1,28 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Absolute Virtue (FIN) 212
+4 Aettir and Priwen (FIN) 253
+4 Ancient Adamantoise (FIN) 172
+4 Buster Sword (FIN) 255
+4 Clive, Ifrit's Dominant (FIN) 133
+4 Cloud, Midgar Mercenary (FIN) 10
+4 Dark Confidant (FIN) 94
+4 Emet-Selch, Unsundered (FIN) 218
+4 Gogo, Master of Mimicry (FIN) 54
+4 Kefka, Court Mage (FIN) 231
+4 Lightning, Army of One (FIN) 233
+4 Nibelheim Aflame (FIN) 146
+4 Sephiroth, Fabled SOLDIER (FIN) 115
+4 Sephiroth, Planet's Heir (FIN) 553
+4 Summon: Bahamut (FIN) 1
+4 Summon: Knights of Round (FIN) 36
+4 Terra, Magical Adept (FIN) 245
+4 Traveling Chocobo (FIN) 210
+4 Vivi Ornitier (FIN) 248
+4 Y'shtola Rhul (FIN) 86
+4 Yuna, Hope of Spira (FIN) 250
+
+### The Last Deck has 84 cards in it.

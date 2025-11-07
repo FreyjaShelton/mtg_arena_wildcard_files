@@ -1,0 +1,169 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aegis Turtle (FDN) 150
+4 Ambush Wolf (FDN) 98
+4 Apothecary Stomper (FDN) 99
+4 Armasaur Guide (FDN) 3
+4 Axgard Cavalry (FDN) 189
+4 Bake into a Pie (FDN) 169
+4 Banishing Light (FDN) 138
+4 Beast-Kin Ranger (FDN) 100
+4 Bigfin Bouncer (FDN) 31
+4 Bite Down (FDN) 212
+4 Bloodfell Caves (FDN) 259
+4 Blossoming Sands (FDN) 260
+4 Broken Wings (FDN) 214
+4 Burglar Rat (FDN) 170
+4 Burst Lightning (FDN) 192
+4 Bushwhack (FDN) 215
+4 Cackling Prowler (FDN) 101
+4 Campus Guide (FDN) 251
+4 Cathar Commando (FDN) 139
+4 Courageous Goblin (FDN) 82
+4 Crackling Cyclops (FDN) 83
+4 Crypt Feaster (FDN) 59
+4 Dazzling Angel (FDN) 9
+4 Dismal Backwater (FDN) 261
+4 Driver of the Dead (FDN) 605
+4 Druid of the Cowl (FDN) 554
+4 Duress (FDN) 606
+4 Dwynen's Elite (FDN) 218
+4 Eaten Alive (FDN) 172
+4 Elementalist Adept (FDN) 36
+4 Elfsworn Giant (FDN) 103
+4 Erudite Wizard (FDN) 37
+4 Evolving Wilds (FDN) 262
+4 Expedition Map (FDN) 724
+4 Fake Your Own Death (FDN) 174
+4 Fanatical Firebrand (FDN) 195
+4 Feed the Swarm (FDN) 712
+4 Felidar Cub (FDN) 573
+4 Felidar Savior (FDN) 12
+4 Fierce Empath (FDN) 636
+4 Fire Elemental (FDN) 538
+4 Firebrand Archer (FDN) 196
+4 Fleeting Distraction (FDN) 155
+4 Fleeting Flight (FDN) 13
+4 Ghitu Lavarunner (FDN) 623
+4 Giant Growth (FDN) 223
+4 Gleaming Barrier (FDN) 252
+4 Gnarlid Colony (FDN) 224
+4 Goblin Boarders (FDN) 87
+4 Goblin Firebomb (FDN) 562
+
+
+### New Deck
+
+4 Goblin Smuggler (FDN) 540
+4 Goblin Surprise (FDN) 200
+4 Goldvein Pick (FDN) 253
+4 Golgari Guildgate (FDN) 689
+4 Gorehorn Raider (FDN) 89
+4 Grow from the Ashes (FDN) 225
+4 Gruul Guildgate (FDN) 690
+4 Gutless Plunderer (FDN) 60
+4 Hare Apparent (FDN) 15
+4 Healer's Hawk (FDN) 142
+4 Helpful Hunter (FDN) 16
+4 Highborn Vampire (FDN) 522
+4 Hinterland Sanctifier (FDN) 730
+4 Hungry Ghoul (FDN) 62
+4 Icewind Elemental (FDN) 42
+4 Impact Tremors (FDN) 717
+4 Incinerating Blast (FDN) 90
+4 Infestation Sage (FDN) 64
+4 Inspiring Overseer (FDN) 496
+4 Inspiring Paladin (FDN) 18
+4 Into the Roil (FDN) 509
+4 Involuntary Employment (FDN) 203
+4 Izzet Guildgate (FDN) 691
+4 Jungle Hollow (FDN) 263
+4 Kargan Dragonrider (FDN) 541
+4 Kindled Fury (FDN) 542
+4 Kitesail Corsair (FDN) 510
+4 Lightshell Duo (FDN) 157
+4 Llanowar Elves (FDN) 227
+4 Luminous Rebuke (FDN) 20
+4 Macabre Waltz (FDN) 177
+4 Magnigoth Sentry (FDN) 556
+4 Make Your Move (FDN) 143
+4 Marauding Blight-Priest (FDN) 178
+4 Mocking Sprite (FDN) 159
+4 Moment of Craving (FDN) 524
+4 Moment of Triumph (FDN) 500
+4 Negate (FDN) 710
+4 New Horizons (FDN) 557
+4 Offer Immortality (FDN) 525
+4 Opt (FDN) 512
+4 Orzhov Guildgate (FDN) 692
+4 Pacifism (FDN) 501
+4 Pilfer (FDN) 181
+4 Pirate's Cutlass (FDN) 563
+4 Prideful Parent (FDN) 21
+4 Pulse Tracker (FDN) 612
+4 Quick Study (FDN) 513
+4 Quick-Draw Katana (FDN) 130
+4 Raging Redcap (FDN) 543
+
+
+### New Deck
+
+4 Rakdos Guildgate (FDN) 693
+4 Rapacious Dragon (FDN) 544
+4 Refute (FDN) 48
+4 Rugged Highlands (FDN) 265
+4 Run Away Together (FDN) 162
+4 Sanguine Indulgence (FDN) 613
+4 Sanguine Syphoner (FDN) 68
+4 Scorching Dragonfire (FDN) 545
+4 Scoured Barrens (FDN) 266
+4 Seize the Spoils (FDN) 546
+4 Selesnya Guildgate (FDN) 694
+4 Simic Guildgate (FDN) 695
+4 Skeleton Archer (FDN) 526
+4 Skyraker Giant (FDN) 547
+4 Soul-Shackled Zombie (FDN) 70
+4 Sower of Chaos (FDN) 95
+4 Spitfire Lagac (FDN) 208
+4 Springbloom Druid (FDN) 646
+4 Squad Rallier (FDN) 24
+4 Stab (FDN) 71
+4 Starlight Snare (FDN) 514
+4 Strix Lookout (FDN) 52
+4 Sure Strike (FDN) 209
+4 Suspicious Shambler (FDN) 527
+4 Swab Goblin (FDN) 548
+4 Swiftwater Cliffs (FDN) 268
+4 Tajuru Pathwarden (FDN) 558
+4 Think Twice (FDN) 165
+4 Thornweald Archer (FDN) 559
+4 Thornwood Falls (FDN) 269
+4 Three Tree Mascot (FDN) 682
+4 Thrill of Possibility (FDN) 210
+4 Tolarian Terror (FDN) 167
+4 Tranquil Cove (FDN) 270
+4 Treetop Snarespinner (FDN) 114
+4 Uncharted Haven (FDN) 564
+4 Uncharted Voyage (FDN) 53
+4 Undying Malice (FDN) 528
+4 Unsummon (FDN) 599
+4 Untamed Hunger (FDN) 529
+4 Vampire Interloper (FDN) 530
+4 Vampire Neonate (FDN) 531
+4 Vampire Soulcaller (FDN) 75
+4 Vampire Spawn (FDN) 532
+4 Vanguard Seraph (FDN) 28
+4 Viashino Pyromancer (FDN) 634
+4 Wary Thespian (FDN) 235
+4 Wildheart Invoker (FDN) 561
+4 Wind-Scarred Crag (FDN) 271
+4 Witness Protection (FDN) 168
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

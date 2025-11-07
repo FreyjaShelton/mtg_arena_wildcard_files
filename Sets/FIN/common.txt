@@ -1,0 +1,101 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adventurer's Airship (FIN) 252
+4 Adventurer's Inn (FIN) 271
+4 Aerith Rescue Mission (FIN) 5
+4 Ahriman (FIN) 87
+4 Airship Crash (FIN) 171
+4 Balamb T-Rexaur (FIN) 173
+4 Bard's Bow (FIN) 174
+4 Baron, Airship Kingdom (FIN) 273
+4 Black Mage's Rod (FIN) 90
+4 Blazing Bomb (FIN) 130
+4 Blitzball (FIN) 254
+4 Blitzball Shot (FIN) 176
+4 Call the Mountain Chocobo (FIN) 131
+4 Chocobo Kick (FIN) 178
+4 Cloudbound Moogle (FIN) 11
+4 Coeurl (FIN) 12
+4 Combat Tutorial (FIN) 48
+4 Commune with Beavers (FIN) 182
+4 Cornered by Black Mages (FIN) 93
+4 Crossroads Village (FIN) 276
+4 Dragoon's Wyvern (FIN) 49
+4 Dreams of Laguna (FIN) 50
+4 Dwarven Castle Guard (FIN) 18
+4 Fate of the Sun-Cryst (FIN) 19
+4 Fight On! (FIN) 100
+4 Gaelicat (FIN) 22
+4 Gigantoad (FIN) 187
+4 Gohn, Town of Ruin (FIN) 278
+4 Gongaga, Reactor Town (FIN) 280
+4 Goobbue Gardener (FIN) 188
+4 Gran Pulse Ochu (FIN) 189
+4 Guadosalam, Farplane Gateway (FIN) 281
+4 Gysahl Greens (FIN) 190
+4 Haste Magic (FIN) 140
+4 Hecteyes (FIN) 103
+4 Hill Gigas (FIN) 141
+4 Ice Flan (FIN) 55
+4 Ice Magic (FIN) 56
+4 Insomnia, Crown City (FIN) 282
+4 Instant Ramen (FIN) 259
+4 Iron Giant (FIN) 260
+4 Item Shopkeep (FIN) 142
+4 Laughing Mad (FIN) 143
+4 Light of Judgment (FIN) 144
+4 Loporrit Scout (FIN) 192
+4 Lunatic Pandora (FIN) 262
+4 Magic Damper (FIN) 61
+4 Magic Pot (FIN) 263
+4 Magitek Infantry (FIN) 25
+4 Malboro (FIN) 106
+
+
+### New Deck
+
+4 Monk's Fist (FIN) 265
+4 Mysidian Elder (FIN) 145
+4 Namazu Trader (FIN) 107
+4 Paladin's Arms (FIN) 28
+4 Prishe's Wanderings (FIN) 193
+4 Qiqirn Merchant (FIN) 65
+4 Qutrub Forayer (FIN) 112
+4 Rabanastre, Royal City (FIN) 287
+4 Red Mage's Rapier (FIN) 152
+4 Resentful Revelation (FIN) 114
+4 Retrieve the Esper (FIN) 68
+4 Rook Turret (FIN) 69
+4 Sabotender (FIN) 153
+4 Sage's Nouliths (FIN) 70
+4 Sahagin (FIN) 71
+4 Scorpion Sentinel (FIN) 72
+4 Sephiroth's Intervention (FIN) 116
+4 Sharlayan, Nation of Scholars (FIN) 288
+4 Shinra Reinforcements (FIN) 118
+4 Slash of Light (FIN) 32
+4 Stuck in Summoner's Sanctum (FIN) 76
+4 Summon: Choco/Mog (FIN) 35
+4 Summon: Fat Chocobo (FIN) 202
+4 Summon: G.F. Ifrit (FIN) 163
+4 Suplex (FIN) 164
+4 Syncopate (FIN) 80
+4 Thunder Magic (FIN) 165
+4 Town Greeter (FIN) 209
+4 Treno, Dark City (FIN) 290
+4 Undercity Dire Rat (FIN) 123
+4 Vayne's Treachery (FIN) 124
+4 Vector, Imperial Capital (FIN) 291
+4 Vincent's Limit Break (FIN) 126
+4 Warrior's Sword (FIN) 169
+4 Weapons Vendor (FIN) 40
+4 White Auracite (FIN) 41
+4 White Mage's Staff (FIN) 42
+4 Windurst, Federation Center (FIN) 292
+4 World Map (FIN) 270
+4 You're Not Alone (FIN) 44
+
+### The Last Deck has 160 cards in it.

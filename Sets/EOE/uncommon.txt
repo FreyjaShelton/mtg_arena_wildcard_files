@@ -1,0 +1,115 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 All-Fates Scroll (EOE) 234
+4 All-Fates Stalker (EOE) 3
+4 Alpharael, Dreaming Acolyte (EOE) 212
+4 Annul (EOE) 46
+4 Atmospheric Greenhouse (EOE) 171
+4 Atomic Microsizer (EOE) 47
+4 Biomechan Engineer (EOE) 213
+4 Blade of the Swarm (EOE) 90
+4 Broodguard Elite (EOE) 175
+4 Bygone Colossus (EOE) 235
+4 Cerebral Download (EOE) 48
+4 Close Encounter (EOE) 176
+4 Codecracker Hound (EOE) 50
+4 Cut Propulsion (EOE) 130
+4 Dauntless Scrapbot (EOE) 237
+4 Dawnstrike Vanguard (EOE) 10
+4 Debris Field Crusher (EOE) 131
+4 Desculpting Blast (EOE) 54
+4 Dual-Sun Adepts (EOE) 12
+4 Dual-Sun Technique (EOE) 13
+4 Dubious Delicacy (EOE) 96
+4 Edge Rover (EOE) 179
+4 Emergency Eject (EOE) 14
+4 Eumidian Terrabotanist (EOE) 180
+4 Eusocial Engineering (EOE) 181
+4 Faller's Faithful (EOE) 100
+4 Fell Gravship (EOE) 101
+4 Full Bore (EOE) 135
+4 Galvanizing Sawship (EOE) 136
+4 Gigastorm Titan (EOE) 57
+4 Glacier Godmaw (EOE) 188
+4 Haliya, Ascendant Cadet (EOE) 218
+4 Harmonious Grovestrider (EOE) 189
+4 Hemosymbic Mite (EOE) 190
+4 Honor (EOE) 21
+4 Honored Knight-Captain (EOE) 22
+4 Hylderblade (EOE) 106
+4 Hymn of the Faller (EOE) 107
+4 Illvoi Infiltrator (EOE) 59
+4 Interceptor Mechan (EOE) 220
+4 Invasive Maneuvers (EOE) 137
+4 Kavaron Harrier (EOE) 139
+4 Larval Scoutlander (EOE) 194
+4 Lashwhip Predator (EOE) 195
+4 Lightless Evangel (EOE) 109
+4 Lithobraking (EOE) 142
+4 Mechan Assembler (EOE) 63
+4 Mechan Navigator (EOE) 64
+4 Meltstrider Eulogist (EOE) 197
+4 Meltstrider's Resolve (EOE) 199
+
+
+### New Deck
+
+4 Memorial Team Leader (EOE) 144
+4 Mm'menon, Uthros Exile (EOE) 221
+4 Molecular Modifier (EOE) 146
+4 Monoist Circuit-Feeder (EOE) 110
+4 Monoist Sentry (EOE) 111
+4 Mouth of the Storm (EOE) 70
+4 Pull Through the Weft (EOE) 202
+4 Pulsar Squadron Ace (EOE) 28
+4 Rayblade Trooper (EOE) 30
+4 Remnant Elemental (EOE) 155
+4 Reroute Systems (EOE) 31
+4 Rescue Skiff (EOE) 32
+4 Roving Actuator (EOE) 157
+4 Ruinous Rampage (EOE) 158
+4 Sami, Ship's Engineer (EOE) 225
+4 Scour for Scrap (EOE) 73
+4 Scout for Survivors (EOE) 33
+4 Scrounge for Eternity (EOE) 114
+4 Seam Rip (EOE) 34
+4 Seedship Agrarian (EOE) 204
+4 Seedship Broodtender (EOE) 227
+4 Seedship Impact (EOE) 205
+4 Specimen Freighter (EOE) 76
+4 Starfield Shepherd (EOE) 37
+4 Station Monitor (EOE) 230
+4 Steelswarm Operator (EOE) 80
+4 Sunstar Expansionist (EOE) 41
+4 Sunstar Lightsmith (EOE) 42
+4 Survey Mechan (EOE) 245
+4 Susurian Dirgecraft (EOE) 117
+4 Susurian Voidborn (EOE) 118
+4 Syr Vondam, the Lucent (EOE) 232
+4 Systems Override (EOE) 161
+4 Tannuk, Memorial Ensign (EOE) 233
+4 Tapestry Warden (EOE) 209
+4 Terrapact Intimidator (EOE) 164
+4 Territorial Bruntar (EOE) 165
+4 Timeline Culler (EOE) 121
+4 Tractor Beam (EOE) 82
+4 Tragic Trajectory (EOE) 122
+4 Umbral Collar Zealot (EOE) 123
+4 Unravel (EOE) 83
+4 Uthros Psionicist (EOE) 84
+4 Uthros Scanship (EOE) 85
+4 Vaultguard Trooper (EOE) 166
+4 Virulent Silencer (EOE) 248
+4 Voidforged Titan (EOE) 125
+4 Vote Out (EOE) 126
+4 Wedgelight Rammer (EOE) 43
+4 Weftstalker Ardent (EOE) 169
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

@@ -1,0 +1,39 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, Caller of the Pride (FDN) 134
+4 Bloodthirsty Conqueror (FDN) 58
+4 Chandra, Flameshaper (FDN) 81
+4 Doubling Season (FDN) 216
+4 Dragonmaster Outcast (FDN) 622
+4 Finale of Revelation (FDN) 589
+4 Herald of Eternal Dawn (FDN) 17
+4 Kaito, Cunning Infiltrator (FDN) 44
+4 Liliana, Dreadhorde General (FDN) 176
+4 Llanowar Elves (FDN) 429
+4 Lyra Dawnbringer (FDN) 707
+4 Massacre Wurm (FDN) 714
+4 Maze's End (FDN) 727
+4 Muldrotha, the Gravetide (FDN) 243
+4 Niv-Mizzet, Visionary (FDN) 123
+4 Omniscience (FDN) 161
+4 Primeval Bounty (FDN) 644
+4 Progenitus (FDN) 244
+4 Pyromancer's Goggles (FDN) 677
+4 Quilled Greatwurm (FDN) 111
+4 Ramos, Dragon Engine (FDN) 678
+4 Rise of the Dark Realms (FDN) 183
+4 Rite of the Dragoncaller (FDN) 92
+4 Sire of Seven Deaths (FDN) 1
+4 Sphinx of Forgotten Lore (FDN) 51
+4 Sphinx of the Final Word (FDN) 597
+4 Think Twice (FDN) 425
+4 Twinflame Tyrant (FDN) 97
+4 Valkyrie's Call (FDN) 27
+4 Vivien Reid (FDN) 234
+4 Vizier of the Menagerie (FDN) 649
+4 Zimone, Paradox Sculptor (FDN) 126
+
+### The Last Deck has 128 cards in it.

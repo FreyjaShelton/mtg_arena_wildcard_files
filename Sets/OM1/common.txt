@@ -1,0 +1,76 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Amazing Acrobatics (OM1) 29
+4 Angry Rabble (OM1) 81
+4 Bagel and Schmear (OM1) 170
+4 Beetle, Legacy Criminal (OM1) 25
+4 City Pigeon (OM1) 5
+4 Common Crook (OM1) 53
+4 Daily Bugle Reporters (OM1) 16
+4 Doc Ock's Henchmen (OM1) 35
+4 Doc Ock, Sinister Scientist (OM1) 38
+4 Eerie Gravestone (OM1) 164
+4 Electro's Bolt (OM1) 78
+4 Gallant Citizen (OM1) 137
+4 Grow Extra Arms (OM1) 107
+4 Guy in the Chair (OM1) 104
+4 Hot Dog Cart (OM1) 177
+4 Inner Demons Gangsters (OM1) 51
+4 Kapow! (OM1) 111
+4 Kraven's Cats (OM1) 103
+4 Lurking Lizards (OM1) 109
+4 Masked Meower (OM1) 96
+4 Mechanical Mobster (OM1) 163
+4 Merciless Enforcers (OM1) 61
+4 Mob Lookout (OM1) 147
+4 Mysterio's Phantasm (OM1) 39
+4 News Helicopter (OM1) 169
+4 Ominous Asylum (OM1) 182
+4 Oscorp Research Team (OM1) 40
+4 Passenger Ferry (OM1) 162
+4 Professional Wrestler (OM1) 106
+4 Pumpkin Bombardment (OM1) 142
+4 Risky Research (OM1) 52
+4 Romantic Rendezvous (OM1) 93
+4 Savage Mansion (OM1) 183
+4 Scorpion's Sting (OM1) 67
+4 Scout the City (OM1) 114
+4 Selfless Police Captain (OM1) 8
+4 Shock (OM1) 95
+4 Sinister Hideout (OM1) 184
+4 Skyward Spider (OM1) 159
+4 Spectacular Tactics (OM1) 19
+4 Spider Manifestation (OM1) 144
+4 Spider-Bot (OM1) 174
+4 Spider-Gwen, Free Spirit (OM1) 97
+4 Spider-Islanders (OM1) 94
+4 Spider-Man No More (OM1) 31
+4 Spider-Man, Brooklyn Visionary (OM1) 122
+4 Spider-Man, Web-Slinger (OM1) 9
+4 Spider-Rex, Daring Dino (OM1) 100
+4 Starling, Aerial Ally (OM1) 10
+4 Steel Wrecking Ball (OM1) 176
+
+
+### New Deck
+
+4 Stegron the Dinosaur Man (OM1) 84
+4 Suburban Sanctuary (OM1) 185
+4 Subway Train (OM1) 178
+4 Swarm, Being of Bees (OM1) 73
+4 Taxi Driver (OM1) 80
+4 Thwip! (OM1) 13
+4 University Campus (OM1) 186
+4 Unstable Experiment (OM1) 45
+4 Venom's Hunger (OM1) 54
+4 Venom, Evil Unleashed (OM1) 70
+4 Venomized Cat (OM1) 50
+4 Vibrant Cityscape (OM1) 188
+4 Web Up (OM1) 15
+4 Whoosh! (OM1) 43
+4 Wild Pack Squad (OM1) 11
+
+### The Last Deck has 60 cards in it.

@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aatchik, Emerald Radian (DFT) 187
+4 Afterburner Expert (DFT) 150
+4 Agonasaur Rex (DFT) 151
+4 Basri, Tomorrow's Champion (DFT) 3
+4 Bleachbone Verge (DFT) 250
+4 Bloodghast (DFT) 77
+4 Boommobile (DFT) 113
+4 Bulwark Ox (DFT) 7
+4 Burnout Bashtronaut (DFT) 115
+4 Captain Howler, Sea Scourge (DFT) 194
+4 Caradora, Heart of Alacria (DFT) 195
+4 Count on Luck (DFT) 118
+4 Cryptcaller Chariot (DFT) 80
+4 Cursecloth Wrappings (DFT) 81
+4 Daretti, Rocketeer Engineer (DFT) 120
+4 Debris Beetle (DFT) 199
+4 Demonic Junker (DFT) 83
+4 District Mascot (DFT) 158
+4 Draconautics Engineer (DFT) 121
+4 Explosive Getaway (DFT) 202
+4 Far Fortune, End Boss (DFT) 203
+4 Fearless Swashbuckler (DFT) 204
+4 Full Throttle (DFT) 127
+4 Gas Guzzler (DFT) 85
+4 Gastal Thrillroller (DFT) 129
+4 Gonti, Night Minister (DFT) 87
+4 Guardian Sunmare (DFT) 15
+4 Howlsquad Heavy (DFT) 134
+4 Kolodin, Triumph Caster (DFT) 210
+4 Lifecraft Engine (DFT) 234
+4 Lumbering Worldwagon (DFT) 168
+4 Marketback Walker (DFT) 235
+4 Mendicant Core, Guidelight (DFT) 213
+4 Mindspring Merfolk (DFT) 51
+4 Monument to Endurance (DFT) 237
+4 Muraganda Raceway (DFT) 257
+4 Oviya, Automech Artisan (DFT) 173
+4 Perilous Snare (DFT) 23
+4 Possession Engine (DFT) 54
+4 Quag Feast (DFT) 100
+4 Redshift, Rocketeer Chief (DFT) 218
+4 Regal Imperiosaur (DFT) 177
+4 Repurposing Bay (DFT) 56
+4 Riverchurn Monument (DFT) 57
+4 Riverpyre Verge (DFT) 260
+4 Samut, the Driving Force (DFT) 222
+4 Sita Varma, Masked Racer (DFT) 223
+4 Skyseer's Chariot (DFT) 28
+4 Spectacular Pileup (DFT) 29
+4 Sunbillow Verge (DFT) 264
+
+
+### New Deck
+
+4 Thopter Fabricator (DFT) 68
+4 Unstoppable Plan (DFT) 72
+4 Vnwxt, Verbose Host (DFT) 73
+4 Voyager Glidecar (DFT) 36
+4 Wastewood Verge (DFT) 268
+4 Waxen Shapethief (DFT) 74
+4 Webstrike Elite (DFT) 186
+4 Willowrush Verge (DFT) 270
+4 Winter, Cursed Rider (DFT) 228
+4 Zahur, Glory's Past (DFT) 229
+
+### The Last Deck has 40 cards in it.

@@ -1,0 +1,73 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani Steadfast (PIO) 319
+4 Ajani, Mentor of Heroes (PIO) 351
+4 Archangel of Thune (PIO) 4
+4 Ashiok, Nightmare Weaver (PIO) 352
+4 Assemble the Legion (PIO) 204
+4 Athreos, God of Passage (PIO) 303
+4 Behold the Beyond (PIO) 84
+4 Blood Baron of Vizkopa (PIO) 206
+4 Chandra, Flamecaller (PIO) 128
+4 Day's Undoing (PIO) 53
+4 Domri Rade (PIO) 353
+4 Dragonlord Atarka (PIO) 216
+4 Dragonlord Dromoka (PIO) 217
+4 Dragonlord Kolaghan (PIO) 218
+4 Dragonlord Ojutai (PIO) 219
+4 Dragonlord Silumgar (PIO) 220
+4 Elspeth, Sun's Champion (PIO) 321
+4 Enter the Infinite (PIO) 365
+4 Ephara, God of the Polis (PIO) 305
+4 Epic Experiment (PIO) 223
+4 Erebos, God of the Dead (PIO) 291
+4 Garruk, Apex Predator (PIO) 225
+4 Garruk, Caller of Beasts (PIO) 347
+4 Gideon, Ally of Zendikar (PIO) 14
+4 Heliod, God of the Sun (PIO) 282
+4 Iroas, God of Victory (PIO) 309
+4 Jace, Architect of Thought (PIO) 329
+4 Jace, Memory Adept (PIO) 330
+4 Jace, Vryn's Prodigy (PIO) 60
+4 Karametra, God of Harvests (PIO) 310
+4 Keranos, God of Storms (PIO) 311
+4 Kiora, the Crashing Wave (PIO) 354
+4 Kozilek's Return (PIO) 142
+4 Kruphix, God of Horizons (PIO) 312
+4 Kytheon, Hero of Akros (PIO) 23
+4 Liliana Vess (PIO) 335
+4 Liliana of the Dark Realms (PIO) 334
+4 Liliana, Heretical Healer (PIO) 96
+4 Maze's End (PIO) 269
+4 Mizzium Mortars (PIO) 376
+4 Mogis, God of Slaughter (PIO) 313
+4 Narset Transcendent (PIO) 355
+4 Nissa, Vastwood Seer (PIO) 187
+4 Nissa, Voice of Zendikar (PIO) 188
+4 Nylea, God of the Hunt (PIO) 300
+4 Ob Nixilis Reignited (PIO) 99
+4 Pharika, God of Affliction (PIO) 315
+4 Phenax, God of Deception (PIO) 316
+4 Progenitor Mimic (PIO) 238
+4 Purphoros, God of the Forge (PIO) 296
+
+
+### New Deck
+
+4 Sarkhan Unbroken (PIO) 356
+4 Stormbreath Dragon (PIO) 157
+4 Temporal Trespass (PIO) 77
+4 Thassa, God of the Sea (PIO) 288
+4 The Chain Veil (PIO) 358
+4 The Great Aurora (PIO) 380
+4 Tragic Arrogance (PIO) 363
+4 Void Winnower (PIO) 3
+4 Whisperwood Elemental (PIO) 200
+4 Worst Fears (PIO) 373
+4 Xenagos, God of Revels (PIO) 318
+4 Xenagos, the Reveler (PIO) 357
+
+### The Last Deck has 48 cards in it.

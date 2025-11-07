@@ -1,0 +1,85 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aragorn, Company Leader (LTR) 191
+4 Barad-dûr (LTR) 253
+4 Borne Upon a Wind (LTR) 44
+4 Boromir, Warden of the Tower (LTR) 4
+4 Call of the Ring (LTR) 79
+4 Delighted Halfling (LTR) 158
+4 Display of Power (LTR) 119
+4 Doors of Durin (LTR) 199
+4 Elrond, Master of Healing (LTR) 200
+4 Elven Chorus (LTR) 160
+4 Fall of Cair Andros (LTR) 124
+4 Fall of Gil-galad (LTR) 165
+4 Fangorn, Tree Shepherd (LTR) 166
+4 Faramir, Prince of Ithilien (LTR) 202
+4 Fires of Mount Doom (LTR) 294
+4 Flame of Anor (LTR) 203
+4 Flowering of the White Tree (LTR) 15
+4 Forge Anew (LTR) 17
+4 Frodo, Determined Hero (LTR) 289
+4 Frodo, Sauron's Bane (LTR) 18
+4 Galadriel of Lothlórien (LTR) 206
+4 Galadriel, Gift-Giver (LTR) 296
+4 Gandalf the Grey (LTR) 207
+4 Gandalf, White Rider (LTR) 290
+4 Gimli, Mournful Avenger (LTR) 209
+4 Glóin, Dwarf Emissary (LTR) 132
+4 Goldberry, River-Daughter (LTR) 52
+4 Gollum, Scheming Guide (LTR) 292
+4 Horn of Gondor (LTR) 240
+4 Horn of the Mark (LTR) 241
+4 Isildur's Fateful Strike (LTR) 91
+4 King of the Oathbreakers (LTR) 211
+4 Legolas, Master Archer (LTR) 173
+4 Lobelia Sackville-Baggins (LTR) 93
+4 Lost Isle Calling (LTR) 61
+4 Lotho, Corrupt Shirriff (LTR) 213
+4 Merry, Esquire of Rohan (LTR) 215
+4 Minas Tirith (LTR) 256
+4 Minas Tirith Garrison (LTR) 825
+4 Mines of Moria (LTR) 257
+4 Mirkwood Channeler (LTR) 828
+4 Mithril Coat (LTR) 245
+4 Moria Marauder (LTR) 138
+4 One Ring to Rule Them All (LTR) 102
+4 Orcish Bowmasters (LTR) 103
+4 Phial of Galadriel (LTR) 248
+4 Pippin, Guard of the Citadel (LTR) 218
+4 Press the Enemy (LTR) 65
+4 Rangers of Ithilien (LTR) 66
+4 Riders of the Mark (LTR) 827
+
+
+### New Deck
+
+4 Ringwraiths (LTR) 284
+4 Rivendell (LTR) 259
+4 Samwise Gamgee (LTR) 222
+4 Saradoc, Master of Buckland (LTR) 282
+4 Sauron's Ransom (LTR) 225
+4 Sauron, the Necromancer (LTR) 106
+4 Scroll of Isildur (LTR) 69
+4 Shagrat, Loot Bearer (LTR) 228
+4 Sharkey, Tyrant of the Shire (LTR) 229
+4 Shelob, Child of Ungoliant (LTR) 230
+4 Sméagol, Helpful Guide (LTR) 231
+4 Sting, the Glinting Dagger (LTR) 250
+4 The Balrog, Durin's Bane (LTR) 195
+4 The Balrog, Flame of Udûn (LTR) 297
+4 The Battle of Bywater (LTR) 2
+4 The Ring Goes South (LTR) 186
+4 The Shire (LTR) 260
+4 There and Back Again (LTR) 151
+4 Trailblazer's Boots (LTR) 398
+4 War of the Last Alliance (LTR) 36
+4 Warg Rider (LTR) 826
+4 Witch-king, Bringer of Ruin (LTR) 293
+4 Éomer, Marshal of Rohan (LTR) 120
+4 Éowyn, Fearless Knight (LTR) 201
+
+### The Last Deck has 96 cards in it.

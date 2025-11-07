@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Anticausal Vestige (EOE) 1
+4 Archenemy's Charm (EOE) 88
+4 Astelli Reclaimer (EOE) 4
+4 Beyond the Quiet (EOE) 7
+4 Bioengineered Future (EOE) 172
+4 Biotech Specialist (EOE) 214
+4 Breeding Pool (EOE) 251
+4 Chorale of the Void (EOE) 91
+4 Consult the Star Charts (EOE) 51
+4 Cosmogoyf (EOE) 215
+4 Dyadrine, Synthesis Amalgam (EOE) 216
+4 Elegy Acolyte (EOE) 97
+4 Emissary Escort (EOE) 56
+4 Entropic Battlecruiser (EOE) 99
+4 Extinguisher Battleship (EOE) 242
+4 Frenzied Baloth (EOE) 183
+4 Genemorph Imago (EOE) 217
+4 Godless Shrine (EOE) 254
+4 Haliya, Guided by Light (EOE) 19
+4 Hardlight Containment (EOE) 20
+4 Icetill Explorer (EOE) 192
+4 Infinite Guideline Station (EOE) 219
+4 Lightstall Inquisitor (EOE) 24
+4 Loading Zone (EOE) 196
+4 Lumen-Class Frigate (EOE) 25
+4 Memorial Vault (EOE) 145
+4 Mightform Harmonizer (EOE) 200
+4 Mm'menon, the Right Hand (EOE) 68
+4 Moonlit Meditation (EOE) 69
+4 Mutinous Massacre (EOE) 222
+4 Nova Hellkite (EOE) 148
+4 Pain for All (EOE) 151
+4 Pinnacle Emissary (EOE) 223
+4 Pinnacle Starcage (EOE) 27
+4 Possibility Technician (EOE) 153
+4 Ragost, Deft Gastronaut (EOE) 224
+4 Requiem Monolith (EOE) 113
+4 Rust Harvester (EOE) 159
+4 Sacred Foundry (EOE) 256
+4 Secluded Starforge (EOE) 257
+4 Singularity Rupture (EOE) 228
+4 Sledge-Class Seedship (EOE) 208
+4 Space-Time Anomaly (EOE) 229
+4 Starfield Vocalist (EOE) 78
+4 Starwinder (EOE) 79
+4 Stomping Ground (EOE) 258
+4 Sunset Saboteur (EOE) 116
+4 Sunstar Chaplain (EOE) 40
+4 Synthesizer Labship (EOE) 81
+4 Syr Vondam, Sunstar Exemplar (EOE) 231
+
+
+### New Deck
+
+4 Terminal Velocity (EOE) 163
+4 Terrasymbiosis (EOE) 210
+4 The Eternity Elevator (EOE) 241
+4 The Seriema (EOE) 35
+4 Thrumming Hivepool (EOE) 247
+4 Warmaker Gunship (EOE) 167
+4 Watery Grave (EOE) 261
+4 Weapons Manufacturing (EOE) 168
+4 Xu-Ifit, Osteoharmonist (EOE) 127
+4 Zero Point Ballad (EOE) 128
+
+### The Last Deck has 40 cards in it.

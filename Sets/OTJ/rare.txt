@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Akul the Unrepentant (OTJ) 189
+4 Annie Joins Up (OTJ) 191
+4 Another Round (OTJ) 1
+4 Archmage's Newt (OTJ) 39
+4 Aven Interrupter (OTJ) 4
+4 Blooming Marsh (OTJ) 266
+4 Bonny Pall, Clearcutter (OTJ) 196
+4 Botanical Sanctum (OTJ) 267
+4 Breeches, the Blastmaker (OTJ) 197
+4 Bruse Tarl, Roving Rancher (OTJ) 198
+4 Calamity, Galloping Inferno (OTJ) 116
+4 Caustic Bronco (OTJ) 82
+4 Claim Jumper (OTJ) 8
+4 Colossal Rattlewurm (OTJ) 159
+4 Concealed Courtyard (OTJ) 268
+4 Duelist of the Mind (OTJ) 45
+4 Dust Animus (OTJ) 9
+4 Eriette, the Beguiler (OTJ) 202
+4 Fblthp, Lost on the Range (OTJ) 48
+4 Fortune, Loyal Steed (OTJ) 12
+4 Freestrider Lookout (OTJ) 163
+4 Great Train Heist (OTJ) 125
+4 Hell to Pay (OTJ) 126
+4 Hellspur Posse Boss (OTJ) 128
+4 High Noon (OTJ) 15
+4 Insatiable Avarice (OTJ) 91
+4 Inspiring Vantage (OTJ) 269
+4 Kaervek, the Punisher (OTJ) 92
+4 Kambal, Profiteering Mayor (OTJ) 211
+4 Kellan Joins Up (OTJ) 212
+4 Laughing Jasper Flint (OTJ) 215
+4 Lilah, Undefeated Slickshot (OTJ) 217
+4 Magda, the Hoardmaster (OTJ) 133
+4 Malcolm, the Eyes (OTJ) 219
+4 Marchesa, Dealer of Death (OTJ) 220
+4 Obeka, Splitter of Seconds (OTJ) 222
+4 One Last Job (OTJ) 22
+4 Ornery Tumblewagg (OTJ) 171
+4 Outcaster Trailblazer (OTJ) 173
+4 Pillage the Bog (OTJ) 224
+4 Pitiless Carnage (OTJ) 98
+4 Rakdos Joins Up (OTJ) 225
+4 Riku of Many Paths (OTJ) 227
+4 Roxanne, Starfall Savant (OTJ) 228
+4 Rush of Dread (OTJ) 104
+4 Satoru, the Infiltrator (OTJ) 230
+4 Seraphic Steed (OTJ) 232
+4 Slickshot Show-Off (OTJ) 146
+4 Smuggler's Surprise (OTJ) 180
+4 Spirebluff Canal (OTJ) 270
+
+
+### New Deck
+
+4 Step Between Worlds (OTJ) 70
+4 Stingerback Terror (OTJ) 147
+4 Stoic Sphinx (OTJ) 71
+4 Taii Wakeen, Perfect Shot (OTJ) 234
+4 The Key to the Vault (OTJ) 54
+4 Three Steps Ahead (OTJ) 75
+4 Tinybones Joins Up (OTJ) 108
+4 Vadmir, New Blood (OTJ) 113
+4 Vraska Joins Up (OTJ) 236
+4 Wylie Duke, Atiin Hero (OTJ) 239
+
+### The Last Deck has 40 cards in it.
