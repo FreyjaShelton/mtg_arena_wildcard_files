@@ -1,0 +1,102 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aang's Journey (TLA) 1
+4 Abandon Attachments (TLA) 205
+4 Airbending Lesson (TLA) 8
+4 Airship Engine Room (TLA) 265
+4 Avatar Enthusiasts (TLA) 11
+4 Azula Always Lies (TLA) 84
+4 Badgermole (TLA) 166
+4 Barrels of Blasting Jelly (TLA) 254
+4 Beetle-Headed Merchants (TLA) 86
+4 Bender's Waterskin (TLA) 255
+4 Boar-q-pine (TLA) 124
+4 Boiling Rock Prison (TLA) 267
+4 Bumi Bash (TLA) 125
+4 Callous Inspector (TLA) 89
+4 Canyon Crawler (TLA) 90
+4 Cat-Owl (TLA) 212
+4 Compassionate Healer (TLA) 13
+4 Corrupt Court Official (TLA) 92
+4 Cunning Maneuver (TLA) 130
+4 Curious Farm Animals (TLA) 14
+4 Cycle of Renewal (TLA) 170
+4 Dai Li Indoctrination (TLA) 93
+4 Deadly Precision (TLA) 95
+4 Deserter's Disciple (TLA) 131
+4 Earth Kingdom Soldier (TLA) 216
+4 Earth Rumble Wrestlers (TLA) 218
+4 Earth Village Ruffians (TLA) 219
+4 Earthbending Lesson (TLA) 176
+4 Fire Nation Cadets (TLA) 134
+4 Fire Nation Raider (TLA) 135
+4 Firebending Lesson (TLA) 138
+4 First-Time Flyer (TLA) 49
+4 Flexible Waterbender (TLA) 50
+4 Foggy Bottom Swamp (TLA) 269
+4 Foggy Swamp Hunters (TLA) 101
+4 Foggy Swamp Vinebender (TLA) 180
+4 Forecasting Fortune Teller (TLA) 51
+4 Geyser Leaper (TLA) 52
+4 Giant Koi (TLA) 53
+4 Glider Kids (TLA) 21
+4 Hog-Monkey (TLA) 104
+4 How to Start a Riot (TLA) 140
+4 Iguana Parrot (TLA) 56
+4 It'll Quench Ya! (TLA) 58
+4 Jeong Jeong's Deserters (TLA) 25
+4 Kyoshi Battle Fan (TLA) 257
+4 Kyoshi Village (TLA) 271
+4 Kyoshi Warriors (TLA) 26
+4 Lightning Strike (TLA) 146
+4 Lost Days (TLA) 62
+
+
+### New Deck
+
+4 Meditation Pools (TLA) 272
+4 Merchant of Many Hats (TLA) 110
+4 Messenger Hawk (TLA) 234
+4 Misty Palms Oasis (TLA) 273
+4 Mongoose Lizard (TLA) 148
+4 North Pole Gates (TLA) 274
+4 Octopus Form (TLA) 66
+4 Omashu City (TLA) 275
+4 Origin of Metalbending (TLA) 187
+4 Ostrich-Horse (TLA) 188
+4 Otter-Penguin (TLA) 67
+4 Path to Redemption (TLA) 31
+4 Pillar Launch (TLA) 189
+4 Pirate Peddlers (TLA) 115
+4 Platypus-Bear (TLA) 236
+4 Pretending Poxbearers (TLA) 237
+4 Rabaroo Troop (TLA) 32
+4 Raucous Audience (TLA) 190
+4 Razor Rings (TLA) 33
+4 Rebellious Captives (TLA) 191
+4 Rocky Rebuke (TLA) 193
+4 Rough Rhino Cavalry (TLA) 152
+4 Rowdy Snowballers (TLA) 68
+4 Rumble Arena (TLA) 277
+4 Saber-Tooth Moose-Lion (TLA) 194
+4 Sandbenders' Storm (TLA) 34
+4 Serpent's Pass (TLA) 279
+4 Sold Out (TLA) 119
+4 Sun-Blessed Peak (TLA) 280
+4 Swampsnare Trap (TLA) 120
+4 Treetop Freedom Fighters (TLA) 156
+4 Turtle-Duck (TLA) 200
+4 Vindictive Warden (TLA) 249
+4 Walltop Sentries (TLA) 202
+4 Wandering Musicians (TLA) 250
+4 Water Tribe Captain (TLA) 41
+4 Waterbending Lesson (TLA) 80
+4 Watery Grasp (TLA) 82
+4 Yip Yip! (TLA) 43
+4 Yuyan Archers (TLA) 161
+4 Zuko's Exile (TLA) 3
+
+### The Last Deck has 164 cards in it.

@@ -1,0 +1,102 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abzan Devotee (TDM) 68
+4 Adorned Crocodile (TDM) 69
+4 Agent of Kotis (TDM) 36
+4 Aggressive Negotiations (TDM) 70
+4 Ainok Wayfarer (TDM) 134
+4 Alesha's Legacy (TDM) 72
+4 Arashin Sunshield (TDM) 3
+4 Bearer of Glory (TDM) 4
+4 Bloodfell Caves (TDM) 250
+4 Blossoming Sands (TDM) 251
+4 Boulderborn Dragon (TDM) 239
+4 Caustic Exhale (TDM) 74
+4 Champion of Dusan (TDM) 137
+4 Coordinated Maneuver (TDM) 6
+4 Cruel Truths (TDM) 76
+4 Delta Bloodflies (TDM) 77
+4 Devoted Duelist (TDM) 104
+4 Dirgur Island Dragon (TDM) 40
+4 Dismal Backwater (TDM) 254
+4 Dispelling Exhale (TDM) 41
+4 Dragon's Prey (TDM) 79
+4 Dragonback Lancer (TDM) 9
+4 Dragonstorm Globe (TDM) 241
+4 Dusyut Earthcarver (TDM) 141
+4 Embermouth Sentinel (TDM) 242
+4 Evolving Wilds (TDM) 255
+4 Feral Deathgorger (TDM) 80
+4 Fire-Rim Form (TDM) 107
+4 Focus the Mind (TDM) 45
+4 Fortress Kin-Guard (TDM) 12
+4 Gurmag Nightwatch (TDM) 190
+4 Heritage Reclamation (TDM) 145
+4 Highspire Bell-Ringer (TDM) 47
+4 Humbling Elder (TDM) 48
+4 Iceridge Serpent (TDM) 49
+4 Jade-Cast Sentinel (TDM) 243
+4 Jeskai Devotee (TDM) 110
+4 Jungle Hollow (TDM) 258
+4 Kin-Tree Nurturer (TDM) 83
+4 Krotiq Nestguard (TDM) 148
+4 Lightfoot Technique (TDM) 14
+4 Mardu Devotee (TDM) 16
+4 Meticulous Artisan (TDM) 112
+4 Molten Exhale (TDM) 113
+4 Monastery Messenger (TDM) 208
+4 Narset's Rebuke (TDM) 114
+4 Nightblade Brigade (TDM) 85
+4 Osseous Exhale (TDM) 17
+4 Piercing Exhale (TDM) 151
+4 Poised Practitioner (TDM) 18
+
+
+### New Deck
+
+4 Rebellious Strike (TDM) 20
+4 Reigning Victor (TDM) 216
+4 Reputable Merchant (TDM) 217
+4 Rescue Leopard (TDM) 116
+4 Riling Dawnbreaker (TDM) 21
+4 Ringing Strike Mastery (TDM) 53
+4 Riverwalk Technique (TDM) 54
+4 Roamer's Routine (TDM) 154
+4 Rugged Highlands (TDM) 265
+4 Sagu Pummeler (TDM) 156
+4 Sagu Wildling (TDM) 157
+4 Salt Road Packbeast (TDM) 23
+4 Sandskitter Outrider (TDM) 89
+4 Sarkhan's Resolve (TDM) 158
+4 Scoured Barrens (TDM) 267
+4 Seize Opportunity (TDM) 119
+4 Shock Brigade (TDM) 120
+4 Sibsig Appraiser (TDM) 56
+4 Snakeskin Veil (TDM) 159
+4 Snowmelt Stag (TDM) 57
+4 Stormplain Detainment (TDM) 28
+4 Stormshriek Feral (TDM) 124
+4 Sultai Devotee (TDM) 160
+4 Summit Intimidator (TDM) 125
+4 Swiftwater Cliffs (TDM) 268
+4 Tempest Hawk (TDM) 31
+4 Temur Devotee (TDM) 61
+4 Temur Tawnyback (TDM) 229
+4 Thornwood Falls (TDM) 269
+4 Trade Route Envoy (TDM) 163
+4 Tranquil Cove (TDM) 270
+4 Twin Bolt (TDM) 128
+4 Unburied Earthcarver (TDM) 95
+4 Underfoot Underdogs (TDM) 129
+4 Undergrowth Leopard (TDM) 165
+4 Unending Whisper (TDM) 62
+4 Watcher of the Wayside (TDM) 249
+4 Wild Ride (TDM) 132
+4 Wind-Scarred Crag (TDM) 271
+4 Wingspan Stride (TDM) 66
+4 Worthy Cost (TDM) 99
+
+### The Last Deck has 164 cards in it.

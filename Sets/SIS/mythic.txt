@@ -1,0 +1,19 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Avacyn, Angel of Hope (SIS) 2
+4 Balefire Dragon (SIS) 37
+4 Bloodline Keeper (SIS) 27
+4 Falkenrath Aristocrat (SIS) 61
+4 Garruk Relentless (SIS) 49
+4 Geist of Saint Traft (SIS) 62
+4 Griselbrand (SIS) 31
+4 Havengul Lich (SIS) 63
+4 Huntmaster of the Fells (SIS) 64
+4 Past in Flames (SIS) 43
+4 Sigarda, Host of Herons (SIS) 66
+4 Snapcaster Mage (SIS) 23
+
+### The Last Deck has 48 cards in it.

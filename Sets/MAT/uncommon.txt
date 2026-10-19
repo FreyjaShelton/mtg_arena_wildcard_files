@@ -1,0 +1,22 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Animist's Might (MAT) 20
+4 Blot Out (MAT) 12
+4 Campus Renovation (MAT) 27
+4 Coppercoat Vanguard (MAT) 1
+4 Cosmic Rebirth (MAT) 28
+4 Death-Rattle Oni (MAT) 13
+4 Feast of the Victorious Dead (MAT) 30
+4 Filter Out (MAT) 7
+4 Gold-Forged Thopteryx (MAT) 31
+4 Harnessed Snubhorn (MAT) 3
+4 Kolaghan Warmonger (MAT) 17
+4 Markov Baron (MAT) 14
+4 Reckless Handling (MAT) 19
+4 Tolarian Contempt (MAT) 8
+4 Undercity Upheaval (MAT) 25
+
+### The Last Deck has 60 cards in it.

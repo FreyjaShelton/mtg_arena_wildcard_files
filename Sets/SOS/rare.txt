@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ambitious Augmenter (SOS) 140
+4 Antiquities on the Loose (SOS) 7
+4 Applied Geometry (SOS) 172
+4 Ark of Hunger (SOS) 173
+4 Aziza, Mage Tower Captain (SOS) 174
+4 Berta, Wise Extrapolator (SOS) 175
+4 Blech, Loafing Pest (SOS) 176
+4 Cauldron of Essence (SOS) 179
+4 Choreographed Sparks (SOS) 111
+4 Colorstorm Stallion (SOS) 180
+4 Comforting Counsel (SOS) 143
+4 Conciliator's Duelist (SOS) 182
+4 Deathcap Glade (SOS) 253
+4 Dina's Guidance (SOS) 184
+4 Dreamroot Cascade (SOS) 254
+4 Erode (SOS) 15
+4 Exhibition Tidecaller (SOS) 48
+4 Fix What's Broken (SOS) 188
+4 Flashback (SOS) 115
+4 Geometer's Arthropod (SOS) 191
+4 Grave Researcher (SOS) 85
+4 Great Hall of the Biblioplex (SOS) 257
+4 Hardened Academic (SOS) 194
+4 Harmonized Trio (SOS) 52
+4 Informed Inkwright (SOS) 20
+4 Jadzi, Steward of Fate (SOS) 55
+4 Joined Researchers (SOS) 23
+4 Maelstrom Artisan (SOS) 122
+4 Magmablood Archaic (SOS) 123
+4 Mana Sculpt (SOS) 57
+4 Mind into Matter (SOS) 202
+4 Molten-Core Maestro (SOS) 125
+4 Moment of Reckoning (SOS) 205
+4 Moseo, Vein's New Dean (SOS) 91
+4 Nita, Forum Conciliator (SOS) 206
+4 Pensive Professor (SOS) 63
+4 Petrified Hamlet (SOS) 259
+4 Planar Engineering (SOS) 158
+4 Postmortem Professor (SOS) 93
+4 Pox Plague (SOS) 94
+4 Practiced Offense (SOS) 25
+4 Resonating Lute (SOS) 221
+4 Scheming Silvertongue (SOS) 99
+4 Shattered Sanctum (SOS) 260
+4 Skycoach Conductor (SOS) 67
+4 Slumbering Trudge (SOS) 160
+4 Splatter Technique (SOS) 231
+4 Steal the Show (SOS) 130
+4 Stirring Hopesinger (SOS) 35
+4 Stormcarved Coast (SOS) 263
+
+
+### New Deck
+
+4 Sundown Pass (SOS) 264
+4 Suspend Aggression (SOS) 236
+4 Together as One (SOS) 4
+4 Tragedy Feaster (SOS) 102
+4 Traumatic Critique (SOS) 239
+4 Vastlands Scavenger (SOS) 166
+4 Vicious Rivalry (SOS) 241
+4 Wildgrowth Archaic (SOS) 168
+4 Wisdom of Ages (SOS) 71
+4 Zaffai and the Tempests (SOS) 246
+
+### The Last Deck has 40 cards in it.

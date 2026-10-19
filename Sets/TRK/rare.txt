@@ -1,0 +1,21 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Blood Crypt (TRK) 278
+4 Breeding Pool (TRK) 279
+4 General Chang, Cold Warrior (TRK) 109
+4 Godless Shrine (TRK) 285
+4 Hallowed Fountain (TRK) 286
+4 Overgrown Tomb (TRK) 289
+4 Sacred Foundry (TRK) 295
+4 Salt Vampire (TRK) 127
+4 Steam Vents (TRK) 298
+4 Stomping Ground (TRK) 299
+4 Temple Garden (TRK) 301
+4 The City on the Edge of Forever (TRK) 228
+4 U.S.S. Enterprise-D, Galaxy-Class (TRK) 273
+4 Watery Grave (TRK) 306
+
+### The Last Deck has 56 cards in it.

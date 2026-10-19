@@ -1,0 +1,66 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alien Symbiosis (SPM) 50
+4 Aunt May (SPM) 3
+4 Chameleon, Master of Disguise (SPM) 27
+4 Costume Closet (SPM) 5
+4 Daily Bugle Building (SPM) 179
+4 Damage Control Crew (SPM) 99
+4 Ezekiel Sims, Spider-Totem (SPM) 100
+4 Flash Thompson, Spider-Fan (SPM) 7
+4 Flying Octobot (SPM) 31
+4 Green Goblin, Revenant (SPM) 130
+4 Heroes' Hangout (SPM) 79
+4 Hobgoblin, Mantled Marauder (SPM) 80
+4 Kraven, Proud Predator (SPM) 132
+4 Living Brain, Mechanical Marvel (SPM) 167
+4 Madame Web, Clairvoyant (SPM) 36
+4 Molten Man, Inferno Incarnate (SPM) 84
+4 Morbius the Living Vampire (SPM) 137
+4 Pictures of Spider-Man (SPM) 109
+4 Prison Break (SPM) 61
+4 Prowler, Clawed Thief (SPM) 138
+4 Raging Goblinoids (SPM) 85
+4 Rhino's Rampage (SPM) 141
+4 Rhino, Barreling Brute (SPM) 140
+4 Robotics Mastery (SPM) 41
+4 SP//dr, Piloted by Peni (SPM) 147
+4 Sandman's Quicksand (SPM) 63
+4 Scarlet Spider, Kaine (SPM) 143
+4 School Daze (SPM) 42
+4 Scorpion, Seething Striker (SPM) 64
+4 Secret Identity (SPM) 43
+4 Shocker, Unshakable (SPM) 89
+4 Shriek, Treblemaker (SPM) 144
+4 Silver Sable, Mercenary Leader (SPM) 13
+4 Spider-Byte, Web Warden (SPM) 44
+4 Spider-Girl, Legacy Hero (SPM) 149
+4 Spider-Man India (SPM) 151
+4 Spider-Man Noir (SPM) 67
+4 Spider-Mobile (SPM) 174
+4 Spider-Slayer, Hatred Honed (SPM) 175
+4 Spider-Suit (SPM) 176
+4 Spider-UK (SPM) 17
+4 Spiders-Man, Heroic Horde (SPM) 117
+4 Sudden Strike (SPM) 19
+4 Sun-Spider, Nimble Webber (SPM) 154
+4 Superior Foes of Spider-Man (SPM) 96
+4 Supportive Parents (SPM) 119
+4 Terrific Team-Up (SPM) 120
+4 The Spot's Portal (SPM) 68
+4 Tombstone, Career Criminal (SPM) 70
+4 Vulture, Scheming Scavenger (SPM) 158
+
+
+### New Deck
+
+4 Wall Crawl (SPM) 121
+4 Web-Shooters (SPM) 22
+4 Web-Warriors (SPM) 159
+4 Wisecrack (SPM) 98
+4 Wraith, Vicious Vigilante (SPM) 160
+
+### The Last Deck has 20 cards in it.

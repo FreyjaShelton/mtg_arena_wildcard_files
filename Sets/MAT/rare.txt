@@ -1,0 +1,32 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arni Metalbrow (MAT) 16
+4 Ayara's Oathsworn (MAT) 11
+4 Danitha, New Benalia's Light (MAT) 29
+4 Deification (MAT) 2
+4 Drannith Ruins (MAT) 50
+4 Jirina, Dauntless General (MAT) 32
+4 Jolrael, Voice of Zhalfir (MAT) 33
+4 Leyline Immersion (MAT) 21
+4 Metropolis Reformer (MAT) 4
+4 Nahiri's Resolve (MAT) 37
+4 Nashi, Moon's Legacy (MAT) 39
+4 Niv-Mizzet, Supreme (MAT) 40
+4 Open the Way (MAT) 23
+4 Pia Nalaar, Consul of Revival (MAT) 42
+4 Plargg and Nassari (MAT) 18
+4 Rebuild the City (MAT) 43
+4 Rocco, Street Chef (MAT) 44
+4 Sigarda, Font of Blessings (MAT) 47
+4 Spark Rupture (MAT) 5
+4 Tazri, Stalwart Survivor (MAT) 6
+4 The Kenriths' Royal Funeral (MAT) 34
+4 Training Grounds (MAT) 9
+4 Tranquil Frillback (MAT) 24
+4 Urborg Scavengers (MAT) 15
+4 Vesuvan Drifter (MAT) 10
+
+### The Last Deck has 100 cards in it.

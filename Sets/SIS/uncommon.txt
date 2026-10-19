@@ -1,0 +1,31 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Avacyn's Collar (SIS) 68
+4 Barter in Blood (SIS) 25
+4 Brimstone Volley (SIS) 38
+4 Butcher's Cleaver (SIS) 70
+4 Demonmail Hauberk (SIS) 71
+4 Diregraf Captain (SIS) 59
+4 Drogskol Captain (SIS) 60
+4 Falkenrath Noble (SIS) 29
+4 Fiend Hunter (SIS) 8
+4 Galvanic Juggernaut (SIS) 72
+4 Immerwolf (SIS) 65
+4 Invisible Stalker (SIS) 17
+4 Lingering Souls (SIS) 9
+4 Murder of Crows (SIS) 19
+4 Mystic Retrieval (SIS) 20
+4 Rally the Peasants (SIS) 10
+4 Sever the Bloodline (SIS) 33
+4 Skirsdag Cultist (SIS) 44
+4 Somberwald Sage (SIS) 55
+4 Spider Spawning (SIS) 56
+4 Stromkirk Captain (SIS) 67
+4 Séance (SIS) 12
+4 Unburial Rites (SIS) 36
+4 Vessel of Endless Rest (SIS) 74
+
+### The Last Deck has 96 cards in it.

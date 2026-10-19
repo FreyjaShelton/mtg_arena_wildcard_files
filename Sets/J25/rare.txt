@@ -1,0 +1,115 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adeline, Resplendent Cathar (J25) 57
+4 Aether Channeler (J25) 283
+4 Anje's Ravager (J25) 517
+4 Archon of Sun's Grace (J25) 167
+4 Averna, the Chaos Bloom (J25) 80
+4 Basri's Lieutenant (J25) 171
+4 Bloodgift Demon (J25) 408
+4 Briarbridge Tracker (J25) 639
+4 Brigone, Soldier of Meletis (J25) 30
+4 Cackling Counterpart (J25) 293
+4 Charmbreaker Devils (J25) 132
+4 Chromatic Lantern (J25) 151
+4 Crossway Troublemakers (J25) 417
+4 Doomed Necromancer (J25) 426
+4 Dreadhorde Arcanist (J25) 539
+4 Dropkick Bomber (J25) 13
+4 Eidolon of Astral Winds (J25) 2
+4 Elvish Archdruid (J25) 655
+4 Endless Cockroaches (J25) 433
+4 Evereth, Viceroy of Plunder (J25) 41
+4 Falkenrath Marauders (J25) 543
+4 Forgotten Ancient (J25) 147
+4 Frontline Heroism (J25) 15
+4 Fumulus, the Infestation (J25) 42
+4 Generous Pup (J25) 4
+4 Ghalta, Primal Hunger (J25) 77
+4 Giada, Font of Hope (J25) 60
+4 Goblin Dark-Dwellers (J25) 556
+4 Goblin Rabblemaster (J25) 558
+4 Gorex, the Tombshell (J25) 67
+4 Gornog, the Red Reaper (J25) 49
+4 Harvester of Souls (J25) 453
+4 Herald of War (J25) 207
+4 Hooded Blightfang (J25) 455
+4 Isareth the Awakener (J25) 68
+4 Jadelight Ranger (J25) 676
+4 Kargan Intimidator (J25) 569
+4 Krenko, Tin Street Kingpin (J25) 572
+4 Lathliss, Dragon Queen (J25) 74
+4 Leaf-Crowned Visionary (J25) 683
+4 Light of the Legion (J25) 218
+4 Lord of the Unreal (J25) 322
+4 Lotus Cobra (J25) 685
+4 Mace of the Valiant (J25) 221
+4 Markov Blademaster (J25) 574
+4 Markov Enforcer (J25) 575
+4 Marwyn, the Nurturer (J25) 687
+4 Maul of the Skyclaves (J25) 223
+4 Naban, Dean of Iteration (J25) 61
+4 Nadir Kraken (J25) 332
+
+
+### New Deck
+
+4 Neerdiv, Devious Diver (J25) 36
+4 Nullpriest of Oblivion (J25) 472
+4 Nykthos Paragon (J25) 230
+4 Oran-Rief Ooze (J25) 693
+4 Padeem, Consul of Innovation (J25) 62
+4 Plagon, Lord of the Beach (J25) 37
+4 Priest of Forgotten Gods (J25) 478
+4 Quirion Beastcaller (J25) 703
+4 Realm Seekers (J25) 705
+4 Rev, Tithe Extractor (J25) 45
+4 Rhox Faithmender (J25) 245
+4 Righteous Valkyrie (J25) 246
+4 Rionya, Fire Dancer (J25) 75
+4 Rishkar, Peema Renegade (J25) 708
+4 Rodolf Duskbringer (J25) 482
+4 Ruthless Technomancer (J25) 484
+4 Sai, Master Thopterist (J25) 63
+4 Sanctum Seeker (J25) 485
+4 Sandstorm Crasher (J25) 18
+4 Sangromancer (J25) 122
+4 Scion of Opulence (J25) 597
+4 Scythecat Cub (J25) 24
+4 Shimmer Dragon (J25) 353
+4 Shroofus Sproutsire (J25) 54
+4 Slinza, the Spiked Stampede (J25) 55
+4 Somberwald Beastmaster (J25) 715
+4 Speaker of the Heavens (J25) 102
+4 Sprite Noble (J25) 365
+4 Starfield Mystic (J25) 260
+4 Stolen by the Fae (J25) 369
+4 Stone Haven Outfitter (J25) 263
+4 Taborax, Hope's Demise (J25) 69
+4 Teferi's Ageless Insight (J25) 371
+4 Thieves' Guild Enforcer (J25) 493
+4 Thought Monitor (J25) 373
+4 Thryx, the Sudden Storm (J25) 65
+4 Tireless Tracker (J25) 729
+4 Topiary Stomper (J25) 730
+4 Valkyrie Harbinger (J25) 275
+4 Venerated Loxodon (J25) 278
+4 Venser, Shaper Savant (J25) 66
+4 Verdeloth the Ancient (J25) 737
+4 Vilis, Broker of Blood (J25) 70
+4 Vito, Thorn of the Dusk Rose (J25) 71
+4 Voice of the Woods (J25) 738
+4 Voracious Greatshark (J25) 382
+4 Wavebreak Hippocamp (J25) 387
+4 Windreader Sphinx (J25) 391
+4 Zada, Hedron Grinder (J25) 76
+4 Zealous Conscripts (J25) 143
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

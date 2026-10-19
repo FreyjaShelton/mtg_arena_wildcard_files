@@ -1,0 +1,115 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aberrant Manawurm (SOS) 138
+4 Abigale, Poet Laureate (SOS) 170
+4 Abstract Paintmage (SOS) 171
+4 Additive Evolution (SOS) 139
+4 Arcane Omens (SOS) 73
+4 Archaic's Agony (SOS) 107
+4 Arnyn, Deathbloom Botanist (SOS) 74
+4 Artistic Process (SOS) 108
+4 Blazing Firesinger (SOS) 109
+4 Borrowed Knowledge (SOS) 178
+4 Brush Off (SOS) 39
+4 Campus Composer (SOS) 40
+4 Charging Strifeknight (SOS) 110
+4 Chelonian Tackle (SOS) 142
+4 Colossus of the Blood Age (SOS) 181
+4 Cuboid Colony (SOS) 183
+4 Daydream (SOS) 9
+4 Diary of Dreams (SOS) 248
+4 Dissection Practice (SOS) 79
+4 Divergent Equation (SOS) 43
+4 Duel Tactics (SOS) 112
+4 Emil, Vastlands Roamer (SOS) 146
+4 Encouraging Aviator (SOS) 46
+4 End of the Hunt (SOS) 81
+4 Ennis, Debate Moderator (SOS) 14
+4 Environmental Scientist (SOS) 147
+4 Essenceknit Scholar (SOS) 187
+4 Eternal Student (SOS) 82
+4 Flow State (SOS) 49
+4 Foolish Fate (SOS) 83
+4 Forum Necroscribe (SOS) 84
+4 Fractal Anomaly (SOS) 50
+4 Fractal Tender (SOS) 190
+4 Fractalize (SOS) 51
+4 Garrison Excavator (SOS) 116
+4 Graduation Day (SOS) 16
+4 Group Project (SOS) 17
+4 Growth Curve (SOS) 193
+4 Harsh Annotation (SOS) 18
+4 Homesickness (SOS) 53
+4 Impractical Joke (SOS) 119
+4 Infirmary Healer (SOS) 152
+4 Inkshape Demonstrator (SOS) 21
+4 Killian's Confidence (SOS) 197
+4 Kirol, History Buff (SOS) 198
+4 Lecturing Scornmage (SOS) 87
+4 Leech Collector (SOS) 88
+4 Living History (SOS) 121
+4 Lluwen, Exchange Student (SOS) 199
+4 Lorehold Charm (SOS) 200
+
+
+### New Deck
+
+4 Lumaret's Favor (SOS) 153
+4 Matterbending Mage (SOS) 59
+4 Mica, Reader of Ruins (SOS) 124
+4 Mind Roots (SOS) 203
+4 Molten Note (SOS) 204
+4 Muse Seeker (SOS) 60
+4 Old-Growth Educator (SOS) 207
+4 Orysa, Tide Choreographer (SOS) 62
+4 Paradox Surveyor (SOS) 208
+4 Pestbrood Sloth (SOS) 157
+4 Pigment Wrangler (SOS) 126
+4 Poisoner's Apprentice (SOS) 92
+4 Practiced Scrollsmith (SOS) 210
+4 Primary Research (SOS) 26
+4 Prismari Charm (SOS) 211
+4 Proctor's Gaze (SOS) 213
+4 Quandrix Charm (SOS) 217
+4 Quill-Blade Laureate (SOS) 27
+4 Rabid Attack (SOS) 96
+4 Rapturous Moment (SOS) 219
+4 Root Manipulation (SOS) 222
+4 Sanar, Unfinished Genius (SOS) 223
+4 Scathing Shadelock (SOS) 98
+4 Scolding Administrator (SOS) 224
+4 Silverquill Charm (SOS) 225
+4 Skycoach Waypoint (SOS) 261
+4 Snarl Song (SOS) 161
+4 Snooping Page (SOS) 227
+4 Soaring Stoneglider (SOS) 32
+4 Social Snub (SOS) 228
+4 Spectacular Skywhale (SOS) 229
+4 Spiritcall Enthusiast (SOS) 33
+4 Stand Up for Yourself (SOS) 34
+4 Startled Relic Sloth (SOS) 233
+4 Stirring Honormancer (SOS) 234
+4 Stress Dream (SOS) 235
+4 Strixhaven Skycoach (SOS) 252
+4 Summoned Dromedary (SOS) 37
+4 Sundering Archaic (SOS) 3
+4 Tablet of Discovery (SOS) 132
+4 Tam, Observant Sequencer (SOS) 237
+4 Teacher's Pest (SOS) 238
+4 Tester of the Tangential (SOS) 69
+4 Thornfist Striker (SOS) 164
+4 Thunderdrum Soloist (SOS) 134
+4 Topiary Lecturer (SOS) 165
+4 Transcendent Archaic (SOS) 5
+4 Vibrant Outburst (SOS) 240
+4 Witherbloom Charm (SOS) 244
+4 Zimone's Experiment (SOS) 169
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

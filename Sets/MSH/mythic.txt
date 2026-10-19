@@ -1,0 +1,32 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Avengers Assemble! (MSH) 6
+4 Black Widow, Super Spy (MSH) 89
+4 Bruce Banner (MSH) 49
+4 Captain America, Super-Soldier (MSH) 9
+4 Captain Marvel, Earth's Protector (MSH) 11
+4 Cosmic Cube (MSH) 245
+4 Doctor Doom (MSH) 95
+4 Earth's Mightiest Heroes (MSH) 165
+4 Iron Man Armor (MSH) 248
+4 Jennifer Walters (MSH) 18
+4 Kang the Conqueror (MSH) 62
+4 King T'Challa (MSH) 219
+4 M.O.D.O.K. (MSH) 106
+4 Mjölnir, Hammer of Thor (MSH) 146
+4 Monica Rambeau (MSH) 23
+4 Multiversal Incursion (MSH) 68
+4 Namor the Sub-Mariner (MSH) 69
+4 Shang-Chi, Master of Kung Fu (MSH) 187
+4 Thanos, the Mad Titan (MSH) 233
+4 The Coming of Galactus (MSH) 212
+4 The Mind Stone (MSH) 21
+4 The Ten Rings (MSH) 251
+4 Thor, God of Thunder (MSH) 156
+4 Tony Stark (MSH) 80
+4 Ultron, Artificial Malevolence (MSH) 252
+
+### The Last Deck has 100 cards in it.

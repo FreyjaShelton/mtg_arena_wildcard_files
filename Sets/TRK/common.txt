@@ -1,0 +1,52 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 A Good Day to Die (TRK) 111
+4 Assault Drone (TRK) 92
+4 Automated Warfare System (TRK) 93
+4 Battle-Scarred Survivalist (TRK) 95
+4 Cantankerous Captain (TRK) 141
+4 Captain's Tutelage (TRK) 144
+4 Cha'DIch Investigator (TRK) 97
+4 Cloistered Telepath (TRK) 50
+4 Cold-Blooded Crew (TRK) 189
+4 Command Decision (TRK) 8
+4 Common Goal (TRK) 190
+4 Consider the Prime Directive (TRK) 51
+4 Cybernetic Specialist (TRK) 262
+4 DOT-7 Repair Squad (TRK) 12
+4 Dathon and Picard at El-Adrel (TRK) 192
+4 Dominion Supervisor (TRK) 195
+4 Eject the Warp Core (TRK) 105
+4 Emergency Medical Hologram (TRK) 15
+4 Federation Field Medic (TRK) 17
+4 Federation Probe (TRK) 59
+4 First Contact (TRK) 199
+4 Free Borg Revolutionaries (TRK) 19
+4 Guidance Failure (TRK) 60
+4 He's Dead, Jim (TRK) 114
+4 Horta (TRK) 152
+4 Humpback Whales (TRK) 65
+4 I'm a Doctor, Not a . . . (TRK) 203
+4 Malfunctioning Holodeck (TRK) 22
+4 Marooned (TRK) 72
+4 Moopsy (TRK) 207
+4 Open Communications (TRK) 76
+4 Perils of the Past (TRK) 161
+4 Planetary Patrol (TRK) 163
+4 Plasma Cascade (TRK) 164
+4 Reckless Impulse (TRK) 168
+4 Relentless Drednok (TRK) 124
+4 Rogue Artificial Intelligence (TRK) 126
+4 Saurian Explorer (TRK) 213
+4 Set Phasers to . . . (TRK) 34
+4 Shields Up! (TRK) 35
+4 Shuttle Ace (TRK) 36
+4 Silicate Surveyor (TRK) 172
+4 Tactical Officer (TRK) 38
+4 Xenobotanist (TRK) 224
+4 Xindi Surveyors (TRK) 225
+
+### The Last Deck has 180 cards in it.

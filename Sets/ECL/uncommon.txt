@@ -1,0 +1,115 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Bark of Doran (ECL) 6
+4 Blossoming Defense (ECL) 167
+4 Boggart Cursecrafter (ECL) 206
+4 Boggart Mischief (ECL) 92
+4 Boldwyr Aggressor (ECL) 125
+4 Boulder Dash (ECL) 127
+4 Bristlebane Outrider (ECL) 169
+4 Burdened Stoneback (ECL) 8
+4 Chomping Changeling (ECL) 172
+4 Clachan Festival (ECL) 10
+4 Creakwood Safewright (ECL) 96
+4 Crib Swap (ECL) 11
+4 Darkness Descends (ECL) 97
+4 Dawn-Blessed Pennant (ECL) 254
+4 Deepchannel Duelist (ECL) 213
+4 Dose of Dawnglow (ECL) 100
+4 Dundoolin Weaver (ECL) 175
+4 Eclipsed Boggart (ECL) 217
+4 Eclipsed Elf (ECL) 218
+4 Eclipsed Flamekin (ECL) 219
+4 Eclipsed Kithkin (ECL) 220
+4 Eclipsed Merrow (ECL) 221
+4 Eclipsed Realms (ECL) 263
+4 Encumbered Reejerey (ECL) 14
+4 Evershrike's Gift (ECL) 15
+4 Explosive Prodigy (ECL) 136
+4 Flamebraider (ECL) 139
+4 Flock Impostor (ECL) 16
+4 Gathering Stone (ECL) 257
+4 Giantfall (ECL) 141
+4 Glamer Gifter (ECL) 49
+4 Glister Bairn (ECL) 227
+4 Gnarlbark Elm (ECL) 103
+4 Goatnap (ECL) 142
+4 Graveshifter (ECL) 104
+4 Gutsplitter Gang (ECL) 106
+4 Hovel Hurler (ECL) 230
+4 Illusion Spinners (ECL) 55
+4 Impolite Entrance (ECL) 146
+4 Iron-Shield Elf (ECL) 108
+4 Kindle the Inner Flame (ECL) 147
+4 Kinsbaile Aspirant (ECL) 21
+4 Kithkeeper (ECL) 23
+4 Lasting Tarfire (ECL) 149
+4 Lofty Dreams (ECL) 58
+4 Luminollusk (ECL) 179
+4 Lys Alana Dignitary (ECL) 180
+4 Meanders Guide (ECL) 25
+4 Moon-Vigil Adherents (ECL) 184
+4 Moonlit Lamenter (ECL) 26
+
+
+### New Deck
+
+4 Morcant's Eyes (ECL) 185
+4 Morcant's Loyalist (ECL) 236
+4 Mudbutton Cursetosser (ECL) 112
+4 Nameless Inversion (ECL) 113
+4 Nightmare Sower (ECL) 114
+4 Noggle Robber (ECL) 237
+4 Noggle the Mind (ECL) 60
+4 Omni-Changeling (ECL) 62
+4 Perfect Intimidation (ECL) 115
+4 Personify (ECL) 28
+4 Pestered Wellguard (ECL) 63
+4 Pitiless Fists (ECL) 187
+4 Prismabasher (ECL) 188
+4 Prismatic Undercurrents (ECL) 189
+4 Protective Response (ECL) 29
+4 Puca's Eye (ECL) 259
+4 Pummeler for Hire (ECL) 190
+4 Pyrrhic Strike (ECL) 30
+4 Reaping Willow (ECL) 240
+4 Requiting Hex (ECL) 116
+4 Retched Wretch (ECL) 117
+4 Rime Chill (ECL) 64
+4 Rimekin Recluse (ECL) 66
+4 Sear (ECL) 154
+4 Shimmercreep (ECL) 120
+4 Shimmerwilds Growth (ECL) 194
+4 Shinestriker (ECL) 68
+4 Silvergill Mentor (ECL) 69
+4 Sizzling Changeling (ECL) 155
+4 Soulbright Seeker (ECL) 157
+4 Sourbread Auntie (ECL) 158
+4 Spell Snare (ECL) 71
+4 Springleaf Drum (ECL) 260
+4 Squawkroaster (ECL) 160
+4 Sting-Slinger (ECL) 161
+4 Swat Away (ECL) 75
+4 Tanufel Rimespeaker (ECL) 77
+4 Thirst for Identity (ECL) 79
+4 Thoughtweft Charge (ECL) 198
+4 Thoughtweft Imbuer (ECL) 38
+4 Thoughtweft Lieutenant (ECL) 246
+4 Twinflame Travelers (ECL) 248
+4 Unbury (ECL) 123
+4 Unwelcome Sprite (ECL) 81
+4 Vinebred Brawler (ECL) 201
+4 Virulent Emissary (ECL) 202
+4 Voracious Tome-Skimmer (ECL) 250
+4 Wanderbrine Trapper (ECL) 42
+4 Wanderwine Farewell (ECL) 83
+4 Warren Torchmaster (ECL) 163
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

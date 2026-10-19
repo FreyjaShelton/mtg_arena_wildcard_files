@@ -1,0 +1,19 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Angel of Flight Alabaster (SIS) 1
+4 Cackling Counterpart (SIS) 14
+4 Devil's Play (SIS) 39
+4 Divine Reckoning (SIS) 4
+4 Gutter Grime (SIS) 51
+4 Havengul Runebinder (SIS) 16
+4 Increasing Ambition (SIS) 32
+4 Kruin Outlaw (SIS) 42
+4 Mayor of Avabruck (SIS) 53
+4 Requiem Angel (SIS) 11
+4 Skirsdag High Priest (SIS) 34
+4 Zealous Conscripts (SIS) 47
+
+### The Last Deck has 48 cards in it.

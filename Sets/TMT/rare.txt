@@ -1,0 +1,64 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agent Bishop, Man in Black (TMT) 2
+4 April O'Neil, Hacktivist (TMT) 29
+4 Armaggon, Future Shark (TMT) 58
+4 Bebop & Rocksteady (TMT) 140
+4 Casey Jones, Vigilante (TMT) 88
+4 Chrome Dome (TMT) 172
+4 Cool but Rude (TMT) 89
+4 Does Machines (TMT) 34
+4 Don & Leo, Problem Solvers (TMT) 143
+4 Don & Raph, Hard Science (TMT) 144
+4 Donatello, Gadget Master (TMT) 35
+4 Groundchuck & Dirtbag (TMT) 115
+4 Improvised Arsenal (TMT) 92
+4 Kitsune's Technique (TMT) 42
+4 Kitsune, Dragon's Daughter (TMT) 41
+4 Krang & Shredder (TMT) 153
+4 Krang, Master Mind (TMT) 43
+4 Leader's Talent (TMT) 13
+4 Leatherhead, Swamp Stalker (TMT) 117
+4 Leonardo's Technique (TMT) 18
+4 Leonardo, Cutting Edge (TMT) 15
+4 Madame Null, Power Broker (TMT) 66
+4 Michelangelo's Technique (TMT) 122
+4 Michelangelo, Weirdness to 11 (TMT) 121
+4 Mikey & Don, Party Planners (TMT) 157
+4 Mikey & Leo, Chaos & Order (TMT) 158
+4 Mutagen Man, Living Ooze (TMT) 124
+4 Ninja Teen (TMT) 67
+4 Northampton Farm (TMT) 188
+4 Party Dude (TMT) 128
+4 Prehistoric Pet (TMT) 22
+4 Raph & Leo, Sibling Rivals (TMT) 166
+4 Raph & Mikey, Troublemakers (TMT) 167
+4 Raphael's Technique (TMT) 105
+4 Raphael, the Nightwatcher (TMT) 103
+4 Rat King, Verminister (TMT) 71
+4 Ravenous Robots (TMT) 106
+4 Renet, Temporal Apprentice (TMT) 50
+4 Sally Pride, Lioness Leader (TMT) 24
+4 Savanti Romero, Time's Exile (TMT) 72
+4 Shark Shredder, Killer Clone (TMT) 73
+4 Slash, Reptile Rampager (TMT) 108
+4 South Wind Avatar (TMT) 78
+4 Splinter's Technique (TMT) 80
+4 Splinter, Radical Rat (TMT) 169
+4 The Ooze (TMT) 177
+4 Tokka & Rahzar, Terrible Twos (TMT) 171
+4 Transdimensional Bovine (TMT) 134
+4 Turncoat Kunoichi (TMT) 26
+4 Turtle Power! (TMT) 135
+
+
+### New Deck
+
+4 Turtle Van (TMT) 181
+4 Turtles Forever (TMT) 27
+4 Weather Maker (TMT) 182
+
+### The Last Deck has 12 cards in it.

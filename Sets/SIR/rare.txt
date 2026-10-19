@@ -1,0 +1,78 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Altered Ego (SIR) 228
+4 Always Watching (SIR) 10
+4 Assembled Alphas (SIR) 141
+4 Avacyn's Judgment (SIR) 142
+4 Bedlam Reveler (SIR) 143
+4 Bloodhall Priest (SIR) 231
+4 Bruna, the Fading Light (SIR) 17
+4 Burn from Within (SIR) 147
+4 Bygone Bishop (SIR) 18
+4 Collective Brutality (SIR) 103
+4 Collective Defiance (SIR) 148
+4 Collective Effort (SIR) 19
+4 Confirm Suspicions (SIR) 56
+4 Cryptolith Rite (SIR) 192
+4 Dark Salvation (SIR) 105
+4 Declaration in Stone (SIR) 23
+4 Devils' Playground (SIR) 151
+4 Diregraf Colossus (SIR) 108
+4 Distended Mindbender (SIR) 3
+4 Docent of Perfection (SIR) 61
+4 Elder Deep-Fiend (SIR) 5
+4 Eldritch Evolution (SIR) 195
+4 Epiphany at the Drownyard (SIR) 65
+4 Eternal Scourge (SIR) 7
+4 Ever After (SIR) 110
+4 Falkenrath Gorger (SIR) 153
+4 Fevered Visions (SIR) 232
+4 Flameblade Angel (SIR) 155
+4 Forgotten Creation (SIR) 71
+4 Geier Reach Sanitarium (SIR) 270
+4 Geralf's Masterpiece (SIR) 73
+4 Grim Flayer (SIR) 234
+4 Hanweir Battlements (SIR) 271
+4 Hanweir Garrison (SIR) 161
+4 Hanweir, the Writhing Township (SIR) 161
+4 Heron's Grace Champion (SIR) 235
+4 Mausoleum Wanderer (SIR) 81
+4 Noosegraf Mob (SIR) 126
+4 Odric, Lunarch Marshal (SIR) 39
+4 Permeating Mass (SIR) 209
+4 Prized Amalgam (SIR) 240
+4 Rattlechains (SIR) 87
+4 Sage of Ancient Lore (SIR) 211
+4 Second Harvest (SIR) 213
+4 Selfless Spirit (SIR) 42
+4 Sigarda's Aid (SIR) 43
+4 Sin Prodder (SIR) 177
+4 Slayer's Plate (SIR) 257
+4 Spell Queller (SIR) 244
+4 Spirit of the Hunt (SIR) 215
+
+
+### New Deck
+
+4 Splendid Reclamation (SIR) 216
+4 Stitcher's Graft (SIR) 259
+4 Stromkirk Condemned (SIR) 134
+4 Summary Dismissal (SIR) 92
+4 Tamiyo's Journal (SIR) 260
+4 Thalia's Lancers (SIR) 50
+4 Thalia, Heretic Cathar (SIR) 49
+4 Thing in the Ice (SIR) 95
+4 Tireless Tracker (SIR) 219
+4 Traverse the Ulvenwald (SIR) 220
+4 Tree of Perdition (SIR) 136
+4 Triskaidekaphobia (SIR) 137
+4 Ulrich of the Krallenhorde (SIR) 246
+4 Ulvenwald Hydra (SIR) 222
+4 Voldaren Pariah (SIR) 138
+4 Westvale Abbey (SIR) 275
+4 Wharf Infiltrator (SIR) 96
+
+### The Last Deck has 68 cards in it.

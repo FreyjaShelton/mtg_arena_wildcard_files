@@ -1,0 +1,125 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aang, the Last Airbender (TLA) 4
+4 Accumulate Wisdom (TLA) 44
+4 Air Nomad Legacy (TLA) 206
+4 Airbender's Reversal (TLA) 7
+4 Allies at Last (TLA) 164
+4 Appa, Loyal Sky Bison (TLA) 9
+4 Azula, On the Hunt (TLA) 85
+4 Benevolent River Spirit (TLA) 45
+4 Bitter Work (TLA) 210
+4 Boomerang Basics (TLA) 46
+4 Bumi, King of Three Trials (TLA) 169
+4 Buzzard-Wasp Colony (TLA) 88
+4 Cat-Gator (TLA) 91
+4 Combustion Man (TLA) 127
+4 Combustion Technique (TLA) 128
+4 Crashing Wave (TLA) 47
+4 Crescent Island Temple (TLA) 129
+4 Cruel Administrator (TLA) 213
+4 Dai Li Agents (TLA) 214
+4 Destined Confrontation (TLA) 15
+4 Dragonfly Swarm (TLA) 215
+4 Earth Kingdom General (TLA) 173
+4 Earth Kingdom Jailer (TLA) 16
+4 Earth Kingdom Protectors (TLA) 17
+4 Earth Rumble (TLA) 174
+4 Ember Island Production (TLA) 48
+4 Energybending (TLA) 2
+4 Enter the Avatar State (TLA) 18
+4 Epic Downfall (TLA) 96
+4 Fancy Footwork (TLA) 19
+4 Fatal Fissure (TLA) 97
+4 Fire Nation Attacks (TLA) 133
+4 Fire Nation Engineer (TLA) 99
+4 Fire Nation Warship (TLA) 256
+4 Fire Navy Trebuchet (TLA) 100
+4 Fire Sages (TLA) 136
+4 Flopsie, Bumi's Buddy (TLA) 179
+4 Foggy Swamp Spirit Keeper (TLA) 222
+4 Gather the White Lotus (TLA) 20
+4 Glider Staff (TLA) 22
+4 Gran-Gran (TLA) 54
+4 Guru Pathik (TLA) 223
+4 Hama, the Bloodbender (TLA) 224
+4 Haru, Hidden Talent (TLA) 182
+4 Heartless Act (TLA) 103
+4 Hei Bai, Spirit of Balance (TLA) 225
+4 Hermitic Herbalist (TLA) 226
+4 Honest Work (TLA) 55
+4 Invasion Reinforcements (TLA) 24
+4 Invasion Submersible (TLA) 57
+
+
+### New Deck
+
+4 Invasion Tactics (TLA) 183
+4 Iroh's Demonstration (TLA) 141
+4 Jeong Jeong, the Deserter (TLA) 142
+4 Jet's Brainwashing (TLA) 143
+4 Jet, Freedom Fighter (TLA) 229
+4 Joo Dee, One of Many (TLA) 105
+4 June, Bounty Hunter (TLA) 106
+4 Katara, Bending Prodigy (TLA) 59
+4 Knowledge Seeker (TLA) 60
+4 Kyoshi Island Plaza (TLA) 184
+4 Leaves from the Vine (TLA) 185
+4 Lo and Li, Twin Tutors (TLA) 108
+4 Long Feng, Grand Secretariat (TLA) 233
+4 Mai, Jaded Edge (TLA) 147
+4 Master Pakku (TLA) 63
+4 Master Piandao (TLA) 28
+4 Meteor Sword (TLA) 258
+4 Momo, Playful Pet (TLA) 30
+4 North Pole Patrol (TLA) 65
+4 Northern Air Temple (TLA) 111
+4 Ozai's Cruelty (TLA) 113
+4 Price of Freedom (TLA) 149
+4 Professor Zei, Anthropologist (TLA) 238
+4 Rockalanche (TLA) 192
+4 Ruinous Waterbending (TLA) 118
+4 Seismic Sense (TLA) 195
+4 Serpent of the Pass (TLA) 70
+4 Shared Roots (TLA) 196
+4 Sokka's Haiku (TLA) 71
+4 Sokka, Lateral Strategist (TLA) 241
+4 Solstice Revelations (TLA) 153
+4 Southern Air Temple (TLA) 36
+4 Sparring Dummy (TLA) 197
+4 Suki, Kyoshi Warrior (TLA) 243
+4 Sun Warriors (TLA) 244
+4 Team Avatar (TLA) 38
+4 Teo, Spirited Glider (TLA) 74
+4 The Boulder, Ready to Rumble (TLA) 168
+4 The Cave of Two Lovers (TLA) 126
+4 The Spirit Oasis (TLA) 72
+4 Tiger-Dillo (TLA) 155
+4 Tolls of War (TLA) 245
+4 Toph, the Blind Bandit (TLA) 198
+4 True Ancestry (TLA) 199
+4 Trusty Boomerang (TLA) 260
+4 Tundra Tank (TLA) 121
+4 Twin Blades (TLA) 157
+4 Ty Lee, Artful Acrobat (TLA) 158
+4 Uncle Iroh (TLA) 248
+4 Unlucky Cabbage Merchant (TLA) 201
+
+
+### New Deck
+
+4 Vengeful Villagers (TLA) 40
+4 War Balloon (TLA) 159
+4 Water Tribe Rallier (TLA) 42
+4 Waterbending Scroll (TLA) 81
+4 White Lotus Hideout (TLA) 281
+4 White Lotus Reinforcements (TLA) 251
+4 Wolfbat (TLA) 122
+4 Zhao, Ruthless Admiral (TLA) 252
+4 Zuko's Conviction (TLA) 123
+4 Zuko, Exiled Prince (TLA) 163
+
+### The Last Deck has 40 cards in it.

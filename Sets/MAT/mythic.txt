@@ -1,0 +1,17 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Calix, Guided by Fate (MAT) 26
+4 Karn, Legacy Reforged (MAT) 49
+4 Kiora, Sovereign of the Deep (MAT) 35
+4 Nahiri, Forged in Fury (MAT) 36
+4 Narset, Enlightened Exile (MAT) 38
+4 Nissa, Resurgent Animist (MAT) 22
+4 Ob Nixilis, Captive Kingpin (MAT) 41
+4 Samut, Vizier of Naktamun (MAT) 45
+4 Sarkhan, Soul Aflame (MAT) 46
+4 Tyvar the Bellicose (MAT) 48
+
+### The Last Deck has 40 cards in it.

@@ -1,0 +1,29 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, Outland Chaperone (ECL) 4
+4 Aurora Awakener (ECL) 165
+4 Bitterbloom Bearer (ECL) 88
+4 Bloom Tender (ECL) 166
+4 Catharsis (ECL) 209
+4 Celestial Reunion (ECL) 170
+4 Chronicle of Victory (ECL) 253
+4 Curious Colossus (ECL) 12
+4 Deceit (ECL) 212
+4 Eirdu, Carrier of Dawn (ECL) 13
+4 Emptiness (ECL) 222
+4 Glen Elendra's Answer (ECL) 52
+4 Loch Mare (ECL) 57
+4 Meek Attack (ECL) 151
+4 Mirrorform (ECL) 59
+4 Moonshadow (ECL) 110
+4 Morningtide's Light (ECL) 27
+4 Oko, Lorwyn Liege (ECL) 61
+4 Soul Immolation (ECL) 156
+4 Spinerock Tyrant (ECL) 159
+4 Vibrance (ECL) 249
+4 Wistfulness (ECL) 252
+
+### The Last Deck has 88 cards in it.

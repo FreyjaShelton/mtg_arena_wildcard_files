@@ -1,0 +1,66 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 April, Reporter of the Weird (TMT) 30
+4 Baxter Stockman (TMT) 139
+4 Bespoke Bō (TMT) 31
+4 Brilliance Unleashed (TMT) 141
+4 Casey Jones, Jury-Rig Justiciar (TMT) 87
+4 Courier of Comestibles (TMT) 112
+4 Death in the Family (TMT) 61
+4 Dimensional Exile (TMT) 4
+4 Donatello's Technique (TMT) 39
+4 Donatello, Way with Machines (TMT) 38
+4 Dream Beavers (TMT) 62
+4 Everything Pizza (TMT) 173
+4 Featherbrained Filcher (TMT) 6
+4 Fugitive Droid (TMT) 40
+4 General Traag, Heart of Stone (TMT) 90
+4 Genghis Frog (TMT) 148
+4 Go Ninja Go (TMT) 149
+4 Hard-Won Jitte (TMT) 91
+4 Henchbots (TMT) 174
+4 Jennika's Technique (TMT) 93
+4 Karai's Technique (TMT) 152
+4 Karai, Future of the Foot (TMT) 151
+4 Koya, Death from Above (TMT) 11
+4 Leonardo, Leader in Blue (TMT) 16
+4 Lessons from Life (TMT) 155
+4 Lita, Little Orphan Amphibian (TMT) 19
+4 Lord Dregg, Insect Invader (TMT) 65
+4 Metalhead (TMT) 44
+4 Michelangelo, Mutant BFF (TMT) 120
+4 Mighty Mutanimals (TMT) 21
+4 Mona Lisa, Science Geek (TMT) 123
+4 New Generation's Technique (TMT) 126
+4 Novel Nunchaku (TMT) 127
+4 Old Hob, Alleycat Blues (TMT) 99
+4 Ooze Spill (TMT) 48
+4 Paramecia Coloniex (TMT) 70
+4 Pizza Face, Gastromancer (TMT) 163
+4 Quintessential Katana (TMT) 23
+4 Raphael, Most Attitude (TMT) 101
+4 Ray Fillet, Man Ray (TMT) 49
+4 Saved by the Shell (TMT) 132
+4 Shredder's Armor (TMT) 75
+4 Shredder's Technique (TMT) 77
+4 Shredder, Unrelenting (TMT) 74
+4 Skateboard (TMT) 178
+4 Spicy Oatmeal Pizza (TMT) 109
+4 Splinter, Hamato Yoshi (TMT) 79
+4 Tainted Treats (TMT) 170
+4 The Last Ronin's Technique (TMT) 12
+4 The Neutrinos (TMT) 160
+
+
+### New Deck
+
+4 Turtle Blimp (TMT) 180
+4 Turtle Lair (TMT) 190
+4 Venus, Torn Between Worlds (TMT) 136
+4 West Wind Avatar (TMT) 137
+4 Wingnut, Bat on the Belfry (TMT) 110
+
+### The Last Deck has 20 cards in it.

@@ -1,0 +1,38 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, Adversary of Tyrants (J25) 157
+4 Ancient Greenwarden (J25) 627
+4 Aphelia, Viper Whisperer (J25) 40
+4 Army of the Damned (J25) 399
+4 Brimaz, King of Oreskos (J25) 58
+4 Cavalier of Gales (J25) 296
+4 Combat Celebrant (J25) 531
+4 Dark Confidant (J25) 114
+4 Felidar Sovereign (J25) 198
+4 Fiendish Duo (J25) 545
+4 Garruk, Caller of Beasts (J25) 659
+4 Goblin Goliath (J25) 557
+4 Godsend (J25) 204
+4 Hurska Sweet-Tooth (J25) 53
+4 Kodama of the West Tree (J25) 78
+4 Liliana, Death's Majesty (J25) 458
+4 Mikaeus, the Lunarch (J25) 225
+4 Mirrorwing Dragon (J25) 579
+4 Mu Yanling, Sky Dancer (J25) 329
+4 Necropolis Regent (J25) 469
+4 Ojutai Exemplars (J25) 232
+4 Overflowing Insight (J25) 341
+4 Pol Jamaar, Illusionist (J25) 38
+4 Primeval Bounty (J25) 701
+4 Reaper from the Abyss (J25) 480
+4 Sarkhan, Fireblood (J25) 593
+4 Sphinx of Enlightenment (J25) 364
+4 Taeko, the Patient Avalanche (J25) 39
+4 Thurid, Mare of Destiny (J25) 33
+4 Tyvar Kell (J25) 734
+4 Undergrowth Champion (J25) 736
+
+### The Last Deck has 124 cards in it.

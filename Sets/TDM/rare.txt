@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ambling Stormshell (TDM) 37
+4 Anafenza, Unyielding Lineage (TDM) 2
+4 Avenger of the Fallen (TDM) 73
+4 Awaken the Honored Dead (TDM) 170
+4 Barrensteppe Siege (TDM) 171
+4 Bloomvine Regent (TDM) 136
+4 Clarion Conqueror (TDM) 5
+4 Cori Mountain Monastery (TDM) 252
+4 Cori-Steel Cutter (TDM) 103
+4 Dalkovan Encampment (TDM) 253
+4 Dragonfire Blade (TDM) 240
+4 Dragonologist (TDM) 42
+4 Eshki Dragonclaw (TDM) 182
+4 Fangkeeper's Familiar (TDM) 183
+4 Felothar, Dawn of the Abzan (TDM) 184
+4 Flamehold Grappler (TDM) 185
+4 Frostcliff Siege (TDM) 187
+4 Glacierwood Siege (TDM) 189
+4 Great Arashin City (TDM) 257
+4 Herd Heirloom (TDM) 144
+4 Hollowmurk Siege (TDM) 192
+4 Inevitable Defeat (TDM) 194
+4 Kishla Village (TDM) 259
+4 Kotis, the Fangkeeper (TDM) 202
+4 Lasyd Prowler (TDM) 149
+4 Lotuslight Dancers (TDM) 204
+4 Maelstrom of the Spirit Dragon (TDM) 260
+4 Magmatic Hellkite (TDM) 111
+4 Marang River Regent (TDM) 51
+4 Mardu Siegebreaker (TDM) 206
+4 Mistrise Village (TDM) 261
+4 Naga Fleshcrafter (TDM) 52
+4 Narset, Jeskai Waymaster (TDM) 209
+4 Nature's Rhythm (TDM) 150
+4 New Way Forward (TDM) 211
+4 Qarsi Revenant (TDM) 86
+4 Rediscover the Way (TDM) 215
+4 Revival of the Ancestors (TDM) 218
+4 Roar of Endless Song (TDM) 220
+4 Sage of the Skies (TDM) 22
+4 Sarkhan, Dragon Ascendant (TDM) 118
+4 Scavenger Regent (TDM) 90
+4 Severance Priest (TDM) 222
+4 Sidisi, Regent of the Mire (TDM) 92
+4 Sinkhole Surveyor (TDM) 93
+4 Songcrafter Mage (TDM) 225
+4 Stadium Headliner (TDM) 122
+4 Stillness in Motion (TDM) 59
+4 Surrak, Elusive Hunter (TDM) 161
+4 Temur Battlecrier (TDM) 228
+
+
+### New Deck
+
+4 Tersa Lightshatter (TDM) 127
+4 The Sibsig Ceremony (TDM) 91
+4 Thunder of Unity (TDM) 231
+4 United Battlefront (TDM) 32
+4 Voice of Victory (TDM) 33
+4 Warden of the Grove (TDM) 166
+4 Windcrag Siege (TDM) 235
+4 Winternight Stories (TDM) 67
+4 Yathan Roadwatcher (TDM) 236
+4 Zurgo, Thunder's Decree (TDM) 237
+
+### The Last Deck has 40 cards in it.

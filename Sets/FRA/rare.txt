@@ -1,0 +1,75 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani's Anguish (FRA) 72
+4 Carnivorous Cultivator (FRA) 100
+4 Codie, Ravenous Codex (FRA) 168
+4 Cruel Calculations (FRA) 26
+4 Curse-Marred Demon (FRA) 79
+4 Dark Matter Manipulator (FRA) 52
+4 Deserted Beach (FRA) 176
+4 Diviner of Victory (FRA) 28
+4 Draconic Visitor (FRA) 80
+4 Entrust the Spark (FRA) 131
+4 Extrapolate the Impossible (FRA) 55
+4 Face Yourself (FRA) 83
+4 Flickering Hound (FRA) 7
+4 Frostbite Pyromental (FRA) 135
+4 Gardenize (FRA) 103
+4 Germinate Recruits (FRA) 9
+4 Gideon the Oathless (FRA) 230
+4 Gideon's Memorial (FRA) 198
+4 Guiding Hydra (FRA) 11
+4 Hall of Echoes (FRA) 179
+4 Haunted Ridge (FRA) 180
+4 Hungering Puppetbeast (FRA) 107
+4 Identity Echo (FRA) 87
+4 Jace's Machinations (FRA) 32
+4 Jace, Reality Sculptor (FRA) 216
+4 Karn, Argent Defender (FRA) 279
+4 Karn, Gilded Guardian (FRA) 272
+4 Kindred Judgment (FRA) 13
+4 Lich's Relic (FRA) 57
+4 Liliana the Faultless (FRA) 200
+4 Liliana the Repentant (FRA) 231
+4 Loyal Tutor (FRA) 14
+4 Lyra, Archangel of Dawn (FRA) 201
+4 Lyra, Tolarian Archangel (FRA) 217
+4 Master of Barbs (FRA) 88
+4 Null Summoner (FRA) 142
+4 Overgrown Farmland (FRA) 185
+4 Pompous Battlemage (FRA) 90
+4 Proctor of Potential (FRA) 145
+4 Puppet Crafting (FRA) 111
+4 Pyre Rhymer (FRA) 91
+4 Repurposed Enforcer (FRA) 19
+4 Rise of the Deathbringer (FRA) 63
+4 Rockfall Vale (FRA) 186
+4 Roiling Canopy (FRA) 187
+4 Samut, Hazoret's Champion (FRA) 251
+4 Samut, Tyrant of Naktamun (FRA) 220
+4 Sanctum Lurker (FRA) 64
+4 Shipwreck Marsh (FRA) 189
+4 Simulacrum Shaper (FRA) 113
+
+
+### New Deck
+
+4 Solarium Sentry (FRA) 148
+4 Solitary Cell (FRA) 149
+4 Sphinx of False Conclusions (FRA) 40
+4 Stinging Vitriol (FRA) 152
+4 Tam, the Possibility (FRA) 276
+4 Tenured Tethermage (FRA) 154
+4 Theorist's Proxy (FRA) 44
+4 Theorist's Sanctum (FRA) 191
+4 Variable Chaser (FRA) 47
+4 Verdant Kraken (FRA) 118
+4 Vindictive Triumph (FRA) 162
+4 Vraska's Final Mercy (FRA) 71
+4 Vraska, Soul of Stone (FRA) 277
+4 Vraska, the Cutting Glare (FRA) 278
+
+### The Last Deck has 56 cards in it.

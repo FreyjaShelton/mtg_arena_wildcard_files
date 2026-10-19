@@ -1,0 +1,76 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abigale, Eloquent First-Year (ECL) 204
+4 Adept Watershaper (ECL) 3
+4 Ashling's Command (ECL) 205
+4 Ashling, Rekindled (ECL) 124
+4 Blood Crypt (ECL) 262
+4 Bloodline Bidding (ECL) 91
+4 Bre of Clan Stoutarm (ECL) 207
+4 Brigid's Command (ECL) 208
+4 Brigid, Clachan's Heart (ECL) 7
+4 Bristlebane Battler (ECL) 168
+4 Champion of the Clachan (ECL) 9
+4 Champion of the Path (ECL) 130
+4 Champion of the Weird (ECL) 95
+4 Champions of the Perfect (ECL) 171
+4 Champions of the Shoal (ECL) 46
+4 Collective Inferno (ECL) 132
+4 Dawnhand Dissident (ECL) 98
+4 Deepway Navigator (ECL) 214
+4 Disruptor of Currents (ECL) 47
+4 Doran, Besieged by Time (ECL) 215
+4 Dream Harvest (ECL) 216
+4 End-Blaze Epiphany (ECL) 134
+4 Figure of Fable (ECL) 224
+4 Flitterwing Nuisance (ECL) 48
+4 Formidable Speaker (ECL) 176
+4 Glen Elendra Guardian (ECL) 51
+4 Gloom Ripper (ECL) 102
+4 Goliath Daydreamer (ECL) 143
+4 Grub's Command (ECL) 228
+4 Grub, Storied Matriarch (ECL) 105
+4 Hallowed Fountain (ECL) 265
+4 Harmonized Crescendo (ECL) 54
+4 Hexing Squelcher (ECL) 145
+4 High Perfect Morcant (ECL) 229
+4 Kinbinding (ECL) 20
+4 Kinscaer Sentry (ECL) 22
+4 Kirol, Attentive First-Year (ECL) 231
+4 Lavaleaper (ECL) 150
+4 Lluwen, Imperfect Naturalist (ECL) 232
+4 Maralen, Fae Ascendant (ECL) 233
+4 Mirrormind Crown (ECL) 258
+4 Mornsong Aria (ECL) 111
+4 Mutable Explorer (ECL) 186
+4 Overgrown Tomb (ECL) 266
+4 Raiding Schemes (ECL) 239
+4 Rhys, the Evermore (ECL) 32
+4 Rimefire Torque (ECL) 65
+4 Sanar, Innovative First-Year (ECL) 241
+4 Sapling Nursery (ECL) 192
+4 Scuzzback Scrounger (ECL) 153
+
+
+### New Deck
+
+4 Selfless Safewright (ECL) 193
+4 Shadow Urchin (ECL) 242
+4 Slumbering Walker (ECL) 35
+4 Spry and Mighty (ECL) 195
+4 Steam Vents (ECL) 267
+4 Sunderflock (ECL) 74
+4 Sygg's Command (ECL) 244
+4 Sygg, Wanderwine Wisdom (ECL) 76
+4 Tam, Mindful First-Year (ECL) 245
+4 Taster of Wares (ECL) 121
+4 Temple Garden (ECL) 268
+4 Trystan's Command (ECL) 247
+4 Trystan, Callous Cultivator (ECL) 199
+4 Twilight Diviner (ECL) 122
+4 Winnowing (ECL) 43
+
+### The Last Deck has 60 cards in it.

@@ -1,0 +1,37 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ancient Cornucopia (BIG) 16
+4 Bristlebud Farmer (BIG) 17
+4 Collector's Cage (BIG) 1
+4 Esoteric Duplicator (BIG) 5
+4 Fomori Vault (BIG) 29
+4 Generous Plunderer (BIG) 11
+4 Grand Abolisher (BIG) 2
+4 Greed's Gambit (BIG) 8
+4 Harvester of Misery (BIG) 9
+4 Hostile Investigator (BIG) 10
+4 Legion Extruder (BIG) 12
+4 Loot, the Key to Everything (BIG) 21
+4 Lost Jitte (BIG) 23
+4 Lotus Ring (BIG) 24
+4 Memory Vessel (BIG) 13
+4 Molten Duplication (BIG) 14
+4 Nexus of Becoming (BIG) 25
+4 Oltec Matterweaver (BIG) 3
+4 Omenpath Journey (BIG) 18
+4 Pest Control (BIG) 22
+4 Rest in Peace (BIG) 4
+4 Sandstorm Salvager (BIG) 19
+4 Simulacrum Synthesizer (BIG) 6
+4 Sword of Wealth and Power (BIG) 26
+4 Tarnation Vista (BIG) 30
+4 Territory Forge (BIG) 15
+4 Torpor Orb (BIG) 27
+4 Transmutation Font (BIG) 28
+4 Vaultborn Tyrant (BIG) 20
+4 Worldwalker Helm (BIG) 7
+
+### The Last Deck has 120 cards in it.

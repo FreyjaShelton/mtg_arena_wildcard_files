@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Absorbing Man (MSH) 199
+4 Agent Phil Coulson (MSH) 4
+4 Alien Invasion (MSH) 200
+4 Arc Reactor (MSH) 243
+4 Ares, God of War (MSH) 202
+4 Armor Wars (MSH) 203
+4 Avengers Disassembled (MSH) 124
+4 Avengers: Under Siege (MSH) 205
+4 Baron Helmut Zemo (MSH) 87
+4 Captain America's Shield (MSH) 244
+4 Captain America, Wings of Freedom (MSH) 10
+4 Castle Doom (MSH) 263
+4 Cloak and Dagger, Entwined (MSH) 211
+4 Construct a Cosmic Cube (MSH) 90
+4 Daredevil, Man Without Fear (MSH) 213
+4 Dark Fortress (MSH) 264
+4 Doom Reigns Supreme (MSH) 96
+4 Elektra, Daughter of the Hand (MSH) 97
+4 Epic Fight (MSH) 166
+4 Fin Fang Foom (MSH) 129
+4 Gathering Place (MSH) 266
+4 Gleaming Bastion (MSH) 267
+4 Hawkeye, Master Marksman (MSH) 130
+4 Heroic Feast (MSH) 172
+4 Hidden Lair (MSH) 269
+4 Ironheart, Clever Champion (MSH) 60
+4 Leader, Super-Genius (MSH) 64
+4 Loki, God of Mischief (MSH) 65
+4 Mole Man, Moloid Master (MSH) 177
+4 Moon Girl and Devil Dinosaur (MSH) 223
+4 Ms. Marvel, Kamala Khan (MSH) 67
+4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 25
+4 Origin of the Avengers (MSH) 28
+4 Quicksilver, Brash Blur (MSH) 148
+4 S.H.I.E.L.D. Flying Car (MSH) 74
+4 Scientist Supreme of A.I.M. (MSH) 225
+4 Secret Invasion (MSH) 72
+4 Storm, Windrider (MSH) 230
+4 Super-Adaptoid (MSH) 250
+4 Super-Skrull (MSH) 115
+4 Super-Soldier Serum (MSH) 38
+4 Taskmaster, Mercenary Mimic (MSH) 232
+4 The Astonishing Ant-Man (MSH) 204
+4 The Kingpin of Crime (MSH) 220
+4 The Mighty Thor, Jane Foster (MSH) 222
+4 The Ruinous Wrecking Crew (MSH) 224
+4 The Scarlet Witch (MSH) 151
+4 The Sentry, Golden Guardian (MSH) 35
+4 The Serpent Society (MSH) 226
+4 The Super Hero Civil War (MSH) 231
+
+
+### New Deck
+
+4 The Unbeatable Squirrel Girl (MSH) 193
+4 The Vision (MSH) 255
+4 The Wondrous Wasp (MSH) 84
+4 Thunderbolts Conspiracy (MSH) 117
+4 Training Compound (MSH) 275
+4 Vision Quest (MSH) 237
+4 Winter Soldier, Icy Assassin (MSH) 239
+4 Wolverine, Fierce Fighter (MSH) 240
+4 World War Hulk (MSH) 197
+4 Worlds Within Worlds (MSH) 241
+
+### The Last Deck has 40 cards in it.

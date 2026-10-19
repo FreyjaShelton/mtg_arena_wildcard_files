@@ -1,0 +1,92 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academic Ascent (FRA) 2
+4 Afterthought Sentry (FRA) 166
+4 Apex Witchstalker (FRA) 48
+4 Arcane Amphisbaena (FRA) 97
+4 Artifist Acumen (FRA) 73
+4 Awaken the Inferno (FRA) 74
+4 Bestial Incursion (FRA) 98
+4 Blazing Crescendo (FRA) 75
+4 Blessed Ghoul (FRA) 123
+4 Blossom-Blessed Angel (FRA) 3
+4 Budding Insurgent (FRA) 99
+4 Campus Crier (FRA) 4
+4 Cast Away Doubt (FRA) 51
+4 Chandra's Emberling (FRA) 76
+4 Charge the Sanctum (FRA) 125
+4 Compel Brutality (FRA) 101
+4 Cryotheory Adept (FRA) 27
+4 Dedicated Commons (FRA) 175
+4 Divining Duelist (FRA) 29
+4 Eardrum Rattler (FRA) 81
+4 Emergency Phytomedic (FRA) 130
+4 Extended Absence (FRA) 54
+4 Fatehold Annex (FRA) 177
+4 Fatehold Chronologist (FRA) 133
+4 Fateshaper Aspirant (FRA) 6
+4 Ferocity of the Hunt (FRA) 134
+4 Formidable Commons (FRA) 178
+4 Graft Surgeon (FRA) 10
+4 Greenhouse Propagator (FRA) 104
+4 Hallway Heckler (FRA) 85
+4 Heartstring Puller (FRA) 86
+4 Hexhaven Battalion (FRA) 12
+4 Icy Reception (FRA) 30
+4 Infinite Coursework (FRA) 31
+4 Innovative Commons (FRA) 182
+4 Inspired Tethermage (FRA) 109
+4 Keeper of the Quiet Hour (FRA) 171
+4 Konstrari Annex (FRA) 183
+4 Konstrari Improviser (FRA) 139
+4 Last Gasp (FRA) 56
+4 Living Library (FRA) 172
+4 Medic's Kitesail (FRA) 173
+4 Memory Trap (FRA) 15
+4 Meticulous Commons (FRA) 184
+4 Mindseeker Oculus (FRA) 33
+4 Murmuring Volume (FRA) 174
+4 No Admittance (FRA) 89
+4 Predictive Preparations (FRA) 16
+4 Protege's Awakening (FRA) 37
+4 Rampart Hunter (FRA) 60
+
+
+### New Deck
+
+4 Rank Rat (FRA) 61
+4 Room of Refuge (FRA) 188
+4 Screeching Soulbreaker (FRA) 65
+4 Semester Foreseer (FRA) 39
+4 Shatterwing Pegasus (FRA) 21
+4 Silence the Echo (FRA) 66
+4 Skilled Battlecarver (FRA) 92
+4 Solve for Disappointment (FRA) 67
+4 Something Worth Saving (FRA) 114
+4 Sphinx's Approach (FRA) 41
+4 Stingerquill Annex (FRA) 190
+4 Sureshot Sower (FRA) 115
+4 Surgical Precision (FRA) 22
+4 Surveillance Phantasm (FRA) 42
+4 Tam's Resistance (FRA) 153
+4 Tether Technician (FRA) 94
+4 Tethermage's Advantage (FRA) 117
+4 Theoretical Necromancer (FRA) 69
+4 Theorix Annex (FRA) 192
+4 Theorix Metamage (FRA) 156
+4 Transformative Commons (FRA) 193
+4 Twinned Vision (FRA) 157
+4 Undulating Witness (FRA) 45
+4 Unflinching Hortimancer (FRA) 23
+4 Unsummon (FRA) 46
+4 Vigorbloom Annex (FRA) 194
+4 Vinelasher Adept (FRA) 119
+4 Void Extrapolator (FRA) 70
+4 Whiplash Wordsmith (FRA) 164
+4 Wrath of the Bloodmane (FRA) 96
+4 Wrecking Gecko (FRA) 120
+
+### The Last Deck has 124 cards in it.

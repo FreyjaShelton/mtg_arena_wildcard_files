@@ -1,0 +1,13 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Bitterblossom (MOR) 58
+4 Door of Destinies (MOR) 143
+4 Idyllic Tutor (MOR) 12
+4 Scapeshift (MOR) 136
+4 Shared Animosity (MOR) 104
+4 Vendilion Clique (MOR) 55
+
+### The Last Deck has 24 cards in it.

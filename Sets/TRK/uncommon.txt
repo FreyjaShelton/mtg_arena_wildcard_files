@@ -1,0 +1,30 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 70,000 Light-Years from Home (TRK) 1
+4 Amok Time (TRK) 183
+4 Bat'leth (TRK) 94
+4 Beckett Mariner, Impetuous Ensign (TRK) 138
+4 Brad Boimler, Eager Ensign (TRK) 5
+4 Collective Drone (TRK) 99
+4 Dominion Saboteur (TRK) 54
+4 Highly Illogical (TRK) 62
+4 Hive Mind Coprocessor (TRK) 115
+4 Hoshi Sato, Exolinguist (TRK) 64
+4 In the Pale Moonlight (TRK) 117
+4 Khaaaaaaaaaaaannn! (TRK) 154
+4 La'An Noonien-Singh, Security (TRK) 156
+4 Mugato (TRK) 208
+4 Munitions Enthusiast (TRK) 158
+4 Organic Avulsion Unit (TRK) 121
+4 Picard, Leading by Example (TRK) 29
+4 Resistance Is Futile (TRK) 125
+4 Saavik, Stoic Student (TRK) 33
+4 Seven of Nine (TRK) 252
+4 Support Mission (TRK) 216
+4 Syndicate Liquidators (TRK) 218
+4 V'Ger, the Intruder (TRK) 87
+
+### The Last Deck has 92 cards in it.

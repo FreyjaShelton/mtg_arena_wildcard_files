@@ -1,0 +1,426 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academy Journeymage (J25) 281
+4 Adventure Awaits (J25) 620
+4 Adventurous Impulse (J25) 621
+4 Advocate of the Beast (J25) 622
+4 Aerial Guide (J25) 282
+4 Aggressive Instinct (J25) 623
+4 Agonizing Syphon (J25) 396
+4 Ainok Artillerist (J25) 624
+4 Ainok Guide (J25) 625
+4 Akroan Crusader (J25) 515
+4 Akroan Skyguard (J25) 159
+4 Alchemist's Gift (J25) 397
+4 Ambassador Oak (J25) 626
+4 Ancestral Anger (J25) 516
+4 Ancestral Blade (J25) 160
+4 Angel of Mercy (J25) 161
+4 Angelic Edict (J25) 164
+4 Angelic Gift (J25) 165
+4 Arbor Armament (J25) 628
+4 Archaeomancer (J25) 285
+4 Argivian Phalanx (J25) 168
+4 Armored Kincaller (J25) 630
+4 Arrogant Outlaw (J25) 400
+4 Ash Barrens (J25) 154
+4 Audacious Thief (J25) 401
+4 Aven Reedstalker (J25) 287
+4 Baloth Gorger (J25) 632
+4 Balustrade Spy (J25) 402
+4 Band Together (J25) 634
+4 Basri's Acolyte (J25) 170
+4 Bathe in Dragonfire (J25) 519
+4 Battle-Rattle Shaman (J25) 128
+4 Battlefield Promotion (J25) 173
+4 Belligerent Guest (J25) 521
+4 Big Play (J25) 635
+4 Bishop's Soldier (J25) 174
+4 Bite Down (J25) 636
+4 Bleed Dry (J25) 404
+4 Blink of an Eye (J25) 289
+4 Blood Beckoning (J25) 405
+4 Blood Burglar (J25) 406
+4 Blood Fountain (J25) 407
+4 Blood Petal Celebrant (J25) 523
+4 Bloodfire Expert (J25) 524
+4 Bloodlust Inciter (J25) 525
+4 Boggart Brute (J25) 526
+4 Boneclad Necromancer (J25) 411
+4 Breaching Hippocamp (J25) 290
+4 Brute Strength (J25) 528
+4 Bury in Books (J25) 292
+
+
+### New Deck
+
+4 Byway Courier (J25) 642
+4 Cage of Hands (J25) 176
+4 Canopy Baloth (J25) 643
+4 Captivating Unicorn (J25) 177
+4 Capture Sphere (J25) 294
+4 Carnelian Orb of Dragonkind (J25) 131
+4 Cartouche of Knowledge (J25) 295
+4 Cartouche of Solidarity (J25) 178
+4 Cartouche of Zeal (J25) 529
+4 Cave of Temptation (J25) 763
+4 Celestial Enforcer (J25) 179
+4 Celestial Unicorn (J25) 97
+4 Chains of Custody (J25) 180
+4 Chilling Trap (J25) 297
+4 Choking Tethers (J25) 298
+4 Chosen by Heliod (J25) 181
+4 Chrome Prowler (J25) 299
+4 Cliffhaven Kitesail (J25) 748
+4 Cloudkin Seer (J25) 300
+4 Coat with Venom (J25) 412
+4 Colossal Dreadmaw (J25) 646
+4 Commune with Dinosaurs (J25) 647
+4 Contract Killing (J25) 413
+4 Crawl from the Cellar (J25) 414
+4 Creeping Bloodsucker (J25) 415
+4 Crimson Wisps (J25) 533
+4 Crooked Custodian (J25) 416
+4 Cruel Witness (J25) 302
+4 Crystacean (J25) 303
+4 Cyclops Electromancer (J25) 534
+4 Dark Bargain (J25) 113
+4 Dauntless Unity (J25) 183
+4 Daybreak Chaplain (J25) 184
+4 Daybreak Combatants (J25) 535
+4 Deadly Dispute (J25) 115
+4 Deadly Riposte (J25) 185
+4 Deal Gone Bad (J25) 419
+4 Deep Analysis (J25) 304
+4 Deepwood Denizen (J25) 648
+4 Defend the Campus (J25) 186
+4 Defenestrate (J25) 420
+4 Defiant Strike (J25) 187
+4 Desert of the Fervent (J25) 764
+4 Desperate Lunge (J25) 188
+4 Destroy Evil (J25) 189
+4 Destructive Digger (J25) 133
+4 Devouring Swarm (J25) 421
+4 Dire Fleet Hoarder (J25) 422
+4 Diregraf Scavenger (J25) 423
+4 Disfigure (J25) 424
+
+
+### New Deck
+
+4 Divine Arrow (J25) 190
+4 Divine Favor (J25) 191
+4 Doomed Dissenter (J25) 425
+4 Drag Under (J25) 105
+4 Dragon Hatchling (J25) 536
+4 Dragon's Fire (J25) 134
+4 Draugr Thought-Thief (J25) 305
+4 Dreadful Apathy (J25) 192
+4 Dross Hopper (J25) 428
+4 Drowsing Tyrannodon (J25) 651
+4 Druid of the Anima (J25) 652
+4 Durable Coilbug (J25) 429
+4 Duskshell Crawler (J25) 653
+4 Eager Construct (J25) 749
+4 Eaten Alive (J25) 116
+4 Eerie Soultender (J25) 431
+4 Elderfang Disciple (J25) 432
+4 Elite Skirmisher (J25) 193
+4 Elvish Visionary (J25) 145
+4 Emberhorn Minotaur (J25) 540
+4 Epicure of Blood (J25) 435
+4 Evolving Wilds (J25) 765
+4 Expedition Champion (J25) 541
+4 Expedition Diviner (J25) 307
+4 Expedition Raptor (J25) 194
+4 Expedition Skulker (J25) 436
+4 Expendable Lackey (J25) 308
+4 Explore (J25) 146
+4 Extinguish the Light (J25) 438
+4 Eye Collector (J25) 439
+4 Faerie Seer (J25) 106
+4 Faith's Fetters (J25) 195
+4 Faithful Pikemaster (J25) 3
+4 Fake Your Own Death (J25) 440
+4 Falkenrath Celebrants (J25) 542
+4 Fanatical Firebrand (J25) 544
+4 Fathom Fleet Firebrand (J25) 135
+4 Fierce Witchstalker (J25) 656
+4 Fiery Fall (J25) 546
+4 Fire Prophecy (J25) 547
+4 Firebrand Archer (J25) 548
+4 Fissure Wizard (J25) 549
+4 Fists of Flame (J25) 550
+4 Flame-Blessed Bolt (J25) 551
+4 Fling (J25) 553
+4 Flutterfox (J25) 200
+4 For the Family (J25) 657
+4 Frost Trickster (J25) 313
+4 Gavony Silversmith (J25) 201
+4 Gearseeker Serpent (J25) 314
+
+
+### New Deck
+
+4 Giant Growth (J25) 662
+4 Gift of Fangs (J25) 444
+4 Gift of the Gargantuan (J25) 148
+4 Gilded Scuttler (J25) 7
+4 Gingerbrute (J25) 751
+4 Glimmerbell (J25) 315
+4 Glory Bearers (J25) 203
+4 Gluttonous Guest (J25) 445
+4 Gnarlid Colony (J25) 664
+4 Gnawing Zombie (J25) 446
+4 Go Forth (J25) 20
+4 Goblin Arsonist (J25) 555
+4 Goblin Fireslinger (J25) 136
+4 Goblin Researcher (J25) 559
+4 Goblin Smuggler (J25) 137
+4 Goblin Trailblazer (J25) 560
+4 Golden-Tail Disciple (J25) 205
+4 Gorging Vulture (J25) 449
+4 Gravedigger (J25) 452
+4 Grazing Gladehart (J25) 665
+4 Greenwood Sentinel (J25) 666
+4 Grim Bounty (J25) 118
+4 Groundswell (J25) 667
+4 Gust of Wind (J25) 316
+4 Harrow (J25) 668
+4 Haunting Figment (J25) 317
+4 Hearts on Fire (J25) 17
+4 Heartstabber Mosquito (J25) 454
+4 Heir of the Ancient Fang (J25) 669
+4 Hero of the Games (J25) 563
+4 High-Rise Sawjack (J25) 670
+4 Hinterland Sanctifier (J25) 5
+4 Hunter's Edge (J25) 671
+4 Impeccable Timing (J25) 209
+4 Indomitable Will (J25) 210
+4 Infuriate (J25) 565
+4 Insatiable Appetite (J25) 672
+4 Insolent Neonate (J25) 566
+4 Inspiring Overseer (J25) 212
+4 Ivy Lane Denizen (J25) 674
+4 Ixalli's Diviner (J25) 675
+4 Jaya's Firenado (J25) 568
+4 Jungle Delver (J25) 678
+4 Kabira Crossroads (J25) 768
+4 Kazandu Nectarpot (J25) 679
+4 Kazandu Stomper (J25) 680
+4 Keldon Raider (J25) 570
+4 Kiln Fiend (J25) 139
+4 Kindled Fury (J25) 571
+4 Koma's Faithful (J25) 457
+
+
+### New Deck
+
+4 Krenko's Command (J25) 140
+4 Krovikan Mist (J25) 319
+4 Kruin Striker (J25) 573
+4 Kujar Seedsculptor (J25) 682
+4 Lat-Nam Adept (J25) 320
+4 Leonin Scimitar (J25) 152
+4 Leonin of the Lost Pride (J25) 215
+4 Light of Hope (J25) 217
+4 Light the Way (J25) 219
+4 Lightwalker (J25) 220
+4 Llanowar Elves (J25) 149
+4 Llanowar Visionary (J25) 684
+4 Locked in the Cemetery (J25) 321
+4 Maelstrom Colossus (J25) 754
+4 Majestic Metamorphosis (J25) 323
+4 Malcator's Watcher (J25) 324
+4 Malfunction (J25) 325
+4 Maraleaf Rider (J25) 686
+4 Masked Blackguard (J25) 459
+4 Merfolk Pupil (J25) 326
+4 Mesa Unicorn (J25) 224
+4 Metalspinner's Puzzleknot (J25) 755
+4 Midnight Assassin (J25) 460
+4 Militant Inquisitor (J25) 226
+4 Minotaur Sureshot (J25) 578
+4 Mirran Bardiche (J25) 227
+4 Mogg Flunkies (J25) 580
+4 Moldgraf Millipede (J25) 690
+4 Moment of Craving (J25) 462
+4 Moment of Heroism (J25) 228
+4 Moment of Triumph (J25) 229
+4 Moodmark Painter (J25) 463
+4 Moon-Circuit Hacker (J25) 327
+4 Moonsnare Specialist (J25) 328
+4 Morkrut Behemoth (J25) 465
+4 Murder (J25) 467
+4 Muse Drake (J25) 330
+4 Myr Enforcer (J25) 756
+4 Mystic Skyfish (J25) 331
+4 Naiad of Hidden Coves (J25) 333
+4 Nantuko Husk (J25) 468
+4 Nef-Crop Entangler (J25) 581
+4 Neonate's Rush (J25) 582
+4 Network Disruptor (J25) 334
+4 Night's Whisper (J25) 471
+4 Ninja of the Deep Hours (J25) 108
+4 Omen of the Sea (J25) 336
+4 Open Fire (J25) 583
+4 Opt (J25) 339
+4 Orchard Strider (J25) 694
+
+
+### New Deck
+
+4 Organ Hoarder (J25) 340
+4 Ornithopter of Paradise (J25) 153
+4 Outflank (J25) 233
+4 Owl Familiar (J25) 342
+4 Pacifism (J25) 234
+4 Paladin of the Bloodstained (J25) 235
+4 Parhelion Patrol (J25) 236
+4 Pathmaker Initiate (J25) 584
+4 Persistent Specimen (J25) 473
+4 Pestermite (J25) 343
+4 Phantasmal Form (J25) 344
+4 Phantom Ninja (J25) 345
+4 Pharika's Chosen (J25) 474
+4 Pigment Storm (J25) 585
+4 Powerstone Fracture (J25) 477
+4 Predator's Strike (J25) 699
+4 Pridemalkin (J25) 700
+4 Prophetic Prism (J25) 758
+4 Purple-Crystal Crab (J25) 347
+4 Pyrophobia (J25) 587
+4 Raise the Alarm (J25) 101
+4 Rampant Growth (J25) 704
+4 Razorgrass Invoker (J25) 22
+4 Read the Bones (J25) 479
+4 Reckless Amplimancer (J25) 706
+4 Reckless Impulse (J25) 589
+4 Recumbent Bliss (J25) 240
+4 Renegade Tactics (J25) 590
+4 Repel the Darkness (J25) 242
+4 Revitalize (J25) 244
+4 Revoke Demise (J25) 10
+4 Roil Eruption (J25) 592
+4 Ronom Unicorn (J25) 247
+4 Run Ashore (J25) 109
+4 Sandsteppe Outcast (J25) 248
+4 Saproling Migration (J25) 709
+4 Sarkhan's Rage (J25) 594
+4 Satyr Hoplite (J25) 595
+4 Saurian Symbiote (J25) 23
+4 Savannah Lions (J25) 249
+4 Scavenged Blade (J25) 596
+4 Scholar of Combustion (J25) 19
+4 Scourge of the Undercity (J25) 11
+4 Search Party Captain (J25) 250
+4 Seat of the Synod (J25) 773
+4 Seize the Spoils (J25) 141
+4 Serpentine Ambush (J25) 352
+4 Servant of the Scale (J25) 711
+4 Severed Strands (J25) 488
+4 Shambling Ghast (J25) 124
+
+
+### New Deck
+
+4 Shardless Outlander (J25) 28
+4 Shipwreck Dowser (J25) 354
+4 Shock (J25) 598
+4 Shore Keeper (J25) 355
+4 Shorecomber Crab (J25) 356
+4 Shoulder to Shoulder (J25) 254
+4 Silent Departure (J25) 358
+4 Sky-Eel School (J25) 359
+4 Skymarch Bloodletter (J25) 125
+4 Slimebind (J25) 360
+4 Slimy Piper (J25) 25
+4 Smoke Shroud (J25) 361
+4 Snakeskin Veil (J25) 713
+4 Snapping Gnarlid (J25) 714
+4 Soul Read (J25) 362
+4 Sparktongue Dragon (J25) 600
+4 Speakeasy Server (J25) 255
+4 Spellgorger Weird (J25) 601
+4 Spirited Companion (J25) 256
+4 Spore Crawler (J25) 716
+4 Sporemound (J25) 719
+4 Squad Captain (J25) 257
+4 Stalwart Valkyrie (J25) 258
+4 Star Pupil (J25) 259
+4 Starlight Snare (J25) 9
+4 Starlit Mantle (J25) 366
+4 Starnheim Courser (J25) 261
+4 Steadfast Sentry (J25) 262
+4 Steadfast Unicorn (J25) 103
+4 Stitched Drake (J25) 368
+4 Stolen Vitality (J25) 602
+4 Stony Strength (J25) 720
+4 Stronghold Confessor (J25) 490
+4 Subtle Strike (J25) 491
+4 Sunblade Samurai (J25) 264
+4 Sungrace Pegasus (J25) 265
+4 Sunmane Pegasus (J25) 267
+4 Sunspear Shikari (J25) 268
+4 Swift Response (J25) 269
+4 Tajuru Pathwarden (J25) 722
+4 Take Up the Shield (J25) 270
+4 Terramorphic Expanse (J25) 156
+4 Territorial Scythecat (J25) 723
+4 Tethmos High Priest (J25) 271
+4 Thieves' Tools (J25) 126
+4 Thornweald Archer (J25) 724
+4 Thoughtcast (J25) 374
+4 Thriving Bluff (J25) 775
+4 Thriving Grove (J25) 776
+4 Thriving Heath (J25) 777
+
+
+### New Deck
+
+4 Thriving Isle (J25) 778
+4 Thriving Moor (J25) 779
+4 Tidepool Turtle (J25) 376
+4 Time to Feed (J25) 727
+4 Titan's Strength (J25) 603
+4 Towering-Wave Mystic (J25) 378
+4 Tragic Slip (J25) 496
+4 Triplicate Spirits (J25) 273
+4 Trusty Retriever (J25) 274
+4 Tukatongue Thallid (J25) 733
+4 Typhoid Rats (J25) 497
+4 Uncomfortable Chill (J25) 111
+4 Undercellar Myconid (J25) 150
+4 Undercity Scrounger (J25) 501
+4 Undersea Invader (J25) 380
+4 Universal Solvent (J25) 761
+4 Unstoppable Ogre (J25) 609
+4 Vampiric Fury (J25) 610
+4 Vault of Whispers (J25) 780
+4 Venomous Hierophant (J25) 506
+4 Vexing Gull (J25) 381
+4 Village Rites (J25) 508
+4 Violent Outburst (J25) 746
+4 Virus Beetle (J25) 509
+4 Voldaren Duelist (J25) 612
+4 Voldaren Epicure (J25) 613
+4 Vraska's Finisher (J25) 510
+4 Wailing Ghoul (J25) 511
+4 Wakedancer (J25) 512
+4 Warbriar Blessing (J25) 739
+4 Waterkin Shaman (J25) 386
+4 Weaselback Redcap (J25) 614
+4 Wildfire Elemental (J25) 616
+4 Wind Strider (J25) 389
+4 Windcaller Aven (J25) 390
+4 Winged Words (J25) 393
+4 Wingsteed Rider (J25) 279
+4 Witching Well (J25) 394
+4 Woodland Liege (J25) 27
+4 Wrecking Crew (J25) 617
+4 Zealot of the God-Pharaoh (J25) 619
+
+### The Last Deck has 164 cards in it.

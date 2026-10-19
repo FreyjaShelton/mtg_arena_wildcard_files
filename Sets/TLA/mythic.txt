@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Appa, Steadfast Guardian (TLA) 10
+4 Avatar Aang (TLA) 207
+4 Badgermole Cub (TLA) 167
+4 Bumi, Unleashed (TLA) 211
+4 Fated Firepower (TLA) 132
+4 Koh, the Face Stealer (TLA) 107
+4 Ozai, the Phoenix King (TLA) 235
+4 Phoenix Fleet Airship (TLA) 114
+4 Planetarium of Wan Shi Tong (TLA) 259
+4 Secret of Bloodbending (TLA) 69
+4 Sozin's Comet (TLA) 154
+4 The Legend of Kuruk (TLA) 61
+4 The Legend of Kyoshi (TLA) 186
+4 The Legend of Roku (TLA) 145
+4 The Legend of Yangchen (TLA) 27
+4 The Rise of Sozin (TLA) 117
+4 The Walls of Ba Sing Se (TLA) 261
+4 United Front (TLA) 39
+4 Wan Shi Tong, Librarian (TLA) 78
+4 White Lotus Tile (TLA) 262
+
+### The Last Deck has 80 cards in it.

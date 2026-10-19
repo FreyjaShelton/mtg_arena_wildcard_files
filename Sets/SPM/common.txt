@@ -1,0 +1,76 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Amazing Acrobatics (SPM) 25
+4 Angry Rabble (SPM) 75
+4 Bagel and Schmear (SPM) 161
+4 Beetle, Legacy Criminal (SPM) 26
+4 City Pigeon (SPM) 4
+4 Common Crook (SPM) 53
+4 Daily Bugle Reporters (SPM) 6
+4 Doc Ock's Henchmen (SPM) 30
+4 Doc Ock, Sinister Scientist (SPM) 29
+4 Eerie Gravestone (SPM) 163
+4 Electro's Bolt (SPM) 77
+4 Gallant Citizen (SPM) 129
+4 Grow Extra Arms (SPM) 101
+4 Guy in the Chair (SPM) 102
+4 Hot Dog Cart (SPM) 164
+4 Inner Demons Gangsters (SPM) 57
+4 Kapow! (SPM) 103
+4 Kraven's Cats (SPM) 104
+4 Lurking Lizards (SPM) 107
+4 Masked Meower (SPM) 82
+4 Mechanical Mobster (SPM) 168
+4 Merciless Enforcers (SPM) 58
+4 Mob Lookout (SPM) 136
+4 Mysterio's Phantasm (SPM) 38
+4 News Helicopter (SPM) 169
+4 Ominous Asylum (SPM) 181
+4 Oscorp Research Team (SPM) 40
+4 Passenger Ferry (SPM) 170
+4 Professional Wrestler (SPM) 110
+4 Pumpkin Bombardment (SPM) 139
+4 Risky Research (SPM) 62
+4 Romantic Rendezvous (SPM) 86
+4 Savage Mansion (SPM) 183
+4 Scorpion's Sting (SPM) 65
+4 Scout the City (SPM) 113
+4 Selfless Police Captain (SPM) 12
+4 Shock (SPM) 88
+4 Sinister Hideout (SPM) 184
+4 Skyward Spider (SPM) 146
+4 Spectacular Tactics (SPM) 15
+4 Spider Manifestation (SPM) 148
+4 Spider-Bot (SPM) 173
+4 Spider-Gwen, Free Spirit (SPM) 90
+4 Spider-Islanders (SPM) 91
+4 Spider-Man No More (SPM) 45
+4 Spider-Man, Brooklyn Visionary (SPM) 115
+4 Spider-Man, Web-Slinger (SPM) 16
+4 Spider-Rex, Daring Dino (SPM) 116
+4 Starling, Aerial Ally (SPM) 18
+4 Steel Wrecking Ball (SPM) 177
+
+
+### New Deck
+
+4 Stegron the Dinosaur Man (SPM) 95
+4 Suburban Sanctuary (SPM) 185
+4 Subway Train (SPM) 178
+4 Swarm, Being of Bees (SPM) 69
+4 Taxi Driver (SPM) 97
+4 Thwip! (SPM) 20
+4 University Campus (SPM) 186
+4 Unstable Experiment (SPM) 47
+4 Venom's Hunger (SPM) 73
+4 Venom, Evil Unleashed (SPM) 71
+4 Venomized Cat (SPM) 72
+4 Vibrant Cityscape (SPM) 188
+4 Web Up (SPM) 21
+4 Whoosh! (SPM) 48
+4 Wild Pack Squad (SPM) 23
+
+### The Last Deck has 60 cards in it.

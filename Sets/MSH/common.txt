@@ -1,0 +1,102 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 A.I.M. Labs (MSH) 257
+4 A.I.M. Scientists (MSH) 44
+4 A.I.M. Synthoids (MSH) 242
+4 Aerial Doombot (MSH) 43
+4 Agent of Atlas (MSH) 3
+4 Agents of HYDRA (MSH) 85
+4 Agents of S.H.I.E.L.D. (MSH) 5
+4 Ant-Man's Army (MSH) 161
+4 Asgardian Citadel (MSH) 258
+4 Atlantean Cavalry (MSH) 45
+4 Atlantis Attacks (MSH) 46
+4 Avengers Hangar (MSH) 259
+4 Birnin Zana Plaza (MSH) 262
+4 Blazing Crescendo (MSH) 125
+4 Bold Biochemist (MSH) 48
+4 Borough Backup (MSH) 7
+4 Brave Brawler (MSH) 8
+4 Call Damage Control (MSH) 162
+4 Crimson Operative (MSH) 126
+4 Crowd of True Believers (MSH) 14
+4 Cruel Alliance (MSH) 92
+4 Decoy Ploy (MSH) 94
+4 Dependable Quinjet (MSH) 246
+4 Depower (MSH) 50
+4 Fisk Tower (MSH) 265
+4 Frozen in Ice (MSH) 54
+4 Futurist Forge (MSH) 55
+4 Giant Growth (MSH) 167
+4 Giant-Sized Flying Ant (MSH) 56
+4 Go Nuts! (MSH) 168
+4 Guerrilla Gorilla (MSH) 169
+4 H.E.R.B.I.E. Scout Unit (MSH) 247
+4 HULK SMASH! (MSH) 135
+4 HYDRA Assault Robot (MSH) 137
+4 HYDRA Infiltration (MSH) 100
+4 HYDRA Troopers (MSH) 101
+4 Hawkeye's Bow (MSH) 132
+4 Helicarrier Strike (MSH) 15
+4 Hell's Kitchen (MSH) 268
+4 Hero in Training (MSH) 16
+4 Hire a Crew (MSH) 134
+4 Hour of Defeat (MSH) 99
+4 Hydraulic Helper (MSH) 57
+4 I Am Iron Man (MSH) 58
+4 K'un-Lun Warrior (MSH) 140
+4 Kingpin's Enforcers (MSH) 102
+4 Knight of Wundagore (MSH) 175
+4 Kree Commandos (MSH) 19
+4 Kree Sentinel (MSH) 141
+4 Lightning Strike (MSH) 142
+
+
+### New Deck
+
+4 Los Diablos Missile Base (MSH) 270
+4 Machinesmith Automaton (MSH) 144
+4 Murdock's Crusade (MSH) 24
+4 Ninja of the Hand (MSH) 108
+4 Panther Pounce (MSH) 29
+4 Pet Avengers (MSH) 178
+4 Powerful Broker (MSH) 179
+4 Project Deathlok Soldier (MSH) 109
+4 Pym Technologies (MSH) 271
+4 Raft Security Officer (MSH) 33
+4 Rapid Rescue (MSH) 181
+4 Red Room Recruit (MSH) 110
+4 Repulsor Blast (MSH) 150
+4 Restorative Technique (MSH) 183
+4 Roxxon Brutes (MSH) 113
+4 S.H.I.E.L.D. Deployment Drone (MSH) 73
+4 S.H.I.E.L.D. Spy Kit (MSH) 36
+4 Savage Land Dinosaur (MSH) 185
+4 Serpent Specialist (MSH) 186
+4 Stark Industries (MSH) 272
+4 Stark Industries Executive (MSH) 153
+4 Stolen Stark Tech (MSH) 114
+4 Subterranean Cavern (MSH) 273
+4 Super Speed (MSH) 154
+4 Super Strength (MSH) 189
+4 Super Suit (MSH) 78
+4 Surveillance Room (MSH) 274
+4 Take Up the Shield (MSH) 39
+4 Trickster's Stratagem (MSH) 81
+4 Ultron Drone (MSH) 253
+4 Undercover Skrull (MSH) 194
+4 Unliving Legionnaire (MSH) 119
+4 Vibranium Energy Daggers (MSH) 254
+4 Vision of Love (MSH) 158
+4 Visions of Villainy (MSH) 120
+4 Volcanic Villain (MSH) 159
+4 Wakandan Drone Flock (MSH) 40
+4 Wakandan Royal Guard (MSH) 195
+4 We Say Thee Nay! (MSH) 82
+4 Web Up (MSH) 41
+4 Widow's Bite (MSH) 122
+
+### The Last Deck has 164 cards in it.

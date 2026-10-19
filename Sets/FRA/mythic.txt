@@ -1,0 +1,33 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aerid Konstrari (FRA) 121
+4 Ajani Resolute (FRA) 195
+4 Ajani Unrelenting (FRA) 242
+4 Avatar of Burgeoning Echoes (FRA) 122
+4 Bloodline Recollector (FRA) 49
+4 Chandra, Chill of Compliance (FRA) 212
+4 Chandra, Torch of Defiance (FRA) 244
+4 Craterclaw Colossus (FRA) 78
+4 Darklight Phoenix (FRA) 53
+4 Denzilore Fatehold (FRA) 128
+4 Emrakul, the Exigent Doom (FRA) 1
+4 Enlightened Confidant (FRA) 5
+4 Garruk, Curse Breaker (FRA) 259
+4 Garruk, Veiled Butcher (FRA) 229
+4 Hexhaven Invigorator (FRA) 106
+4 Ingris Stingerquill (FRA) 137
+4 Kwia Vigorbloom (FRA) 140
+4 Omnipresence (FRA) 110
+4 Overwrite the Multiverse (FRA) 59
+4 Return to the Light Realms (FRA) 20
+4 Seasoned Cryomancer (FRA) 38
+4 Stingcaster Mage (FRA) 93
+4 Tarmogoyf (FRA) 116
+4 The Echoverse Fulcrum (FRA) 169
+4 The Theorist, Jace Beleren (FRA) 43
+4 Uldaros Theorix (FRA) 159
+
+### The Last Deck has 104 cards in it.

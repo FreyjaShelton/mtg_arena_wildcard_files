@@ -1,0 +1,22 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Bard, King of Dale (HOB) 144
+4 Beorn the Fierce (HOB) 119
+4 Bilbo, Thief in the Night (HOB) 33
+4 Dancing from Dark to Dawn (HOB) 123
+4 Elrond, Moon-Reader (HOB) 36
+4 Fateful Discovery (HOB) 40
+4 Gandalf, Goblins' Bane (HOB) 96
+4 Gleaming Splendor (HOB) 15
+4 Gollum, Riddle Master (HOB) 70
+4 Inside Information (HOB) 76
+4 Orcrist, Goblin-cleaver (HOB) 177
+4 Smaug the Magnificent (HOB) 110
+4 The Arkenstone (HOB) 170
+4 The Queen of Dale (HOB) 24
+4 Thorin, Mountain-king (HOB) 114
+
+### The Last Deck has 60 cards in it.

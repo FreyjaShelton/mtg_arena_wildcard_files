@@ -1,0 +1,18 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academy Manufactor (MH2) 219
+4 Arid Mesa (MH2) 244
+4 Dress Down (MH2) 39
+4 Marsh Flats (MH2) 248
+4 Misty Rainforest (MH2) 250
+4 Scalding Tarn (MH2) 254
+4 Timeless Dragon (MH2) 35
+4 Unmarked Grave (MH2) 106
+4 Upheaval (MH2) 270
+4 Verdant Catacombs (MH2) 260
+4 Vindicate (MH2) 294
+
+### The Last Deck has 44 cards in it.

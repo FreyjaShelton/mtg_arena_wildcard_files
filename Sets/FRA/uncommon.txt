@@ -1,0 +1,124 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Archive Arbiter (FRA) 167
+4 Arni, Humble Scribe (FRA) 211
+4 Arni, Renowned Champion (FRA) 243
+4 Bloombrute (FRA) 124
+4 Break Under Pressure (FRA) 50
+4 Clash of Elements (FRA) 126
+4 Command the Stage (FRA) 77
+4 Countersculpt (FRA) 25
+4 Craftwork Crusher (FRA) 127
+4 Danitha, Spear of Agony (FRA) 227
+4 Danitha, Sword of Hope (FRA) 196
+4 Desperate Futurescribe (FRA) 129
+4 Edgar, Ancient Bloodlord (FRA) 270
+4 Edgar, Moonlit Sovereign (FRA) 257
+4 Essence Burn (FRA) 82
+4 Eye of Jace (FRA) 170
+4 Fatehold Charm (FRA) 132
+4 Fblthp, Impossibly Lost (FRA) 213
+4 Fblthp, Knows the Way (FRA) 258
+4 Flourishing Grapple (FRA) 102
+4 Fulminous Forte (FRA) 84
+4 Gallia, Tragic Host (FRA) 228
+4 Gallia, the Merrymaker (FRA) 245
+4 Geist of Saint Thalia (FRA) 214
+4 Generous Revival (FRA) 8
+4 Ghalta the Immovable (FRA) 197
+4 Ghalta the Unstoppable (FRA) 260
+4 Grim Repriser (FRA) 136
+4 Hapatra, the Desert Fang (FRA) 271
+4 Hapatra, the Desert Frost (FRA) 215
+4 Heartwood Crafter (FRA) 105
+4 Hexhaven Dueling Arena (FRA) 181
+4 Hunter's Axe (FRA) 108
+4 Jiang Yanggu, Alone (FRA) 246
+4 Jiang Yanggu, Never Alone (FRA) 261
+4 Kiora of Fire and Ashes (FRA) 247
+4 Kiora of Salt and Sand (FRA) 273
+4 Konstrari Charm (FRA) 138
+4 Koth of the Homestead (FRA) 199
+4 Koth, the Geomancer (FRA) 248
+4 Loot, the Anomaly (FRA) 232
+4 Loot, the Nexus (FRA) 262
+4 Mabel, Bitter Recluse (FRA) 233
+4 Mabel, Valley Hero (FRA) 274
+4 Marwyn, the Clearcutter (FRA) 249
+4 Marwyn, the Preserver (FRA) 263
+4 Massacre Girl, Most Wanted (FRA) 234
+4 Mind Meanderer (FRA) 141
+4 Multiply by Zero (FRA) 58
+4 Paradox Shaper (FRA) 143
+
+
+### New Deck
+
+4 Perfected Theory (FRA) 34
+4 Pia, Aether Ascetic (FRA) 264
+4 Pia, Determined Rebuilder (FRA) 250
+4 Plan for All Outcomes (FRA) 35
+4 Precise Redaction (FRA) 36
+4 Primal Witchstalker (FRA) 144
+4 Proft, Consulting Detective (FRA) 218
+4 Proft, Sinister Mastermind (FRA) 235
+4 Prophesied End (FRA) 17
+4 Prudent Fateseer (FRA) 146
+4 Recursive Recruitment (FRA) 147
+4 Refute Destiny (FRA) 18
+4 Rescue Girl, First Responder (FRA) 202
+4 Restore with Empathy (FRA) 112
+4 Rewrite Regrets (FRA) 62
+4 Ruric Thar, Biomagus (FRA) 219
+4 Ruric Thar, Magecrusher (FRA) 265
+4 Saheeli, Consul of Oversight (FRA) 203
+4 Saheeli, Jewel of Avishkar (FRA) 275
+4 Stingerquill Charm (FRA) 150
+4 Stingerquill Voxmancer (FRA) 151
+4 Terminal Criticism (FRA) 68
+4 Tetsuko Umezawa, Fugitive (FRA) 221
+4 Tetsuko Umezawa, Pursuer (FRA) 252
+4 Teyo, Diamondblade Mage (FRA) 236
+4 Teyo, Lightshield Expert (FRA) 204
+4 Thalia, the Survivor (FRA) 205
+4 Theorix Charm (FRA) 155
+4 Tinybones, Pocket Nuisance (FRA) 237
+4 Titanbones, Towering Heart (FRA) 266
+4 Tomik, Izzet Sparkmage (FRA) 253
+4 Tomik, Orzhov Lawmage (FRA) 206
+4 Traxos, Academy Guardian (FRA) 222
+4 Traxos, Scourge Eternal (FRA) 280
+4 Twisted Fates (FRA) 158
+4 Vigorbloom Charm (FRA) 160
+4 Vigorbloom Vanguard (FRA) 161
+4 Violent Echoes (FRA) 95
+4 Warrior's Blades (FRA) 163
+4 Way of the Cryomancer (FRA) 223
+4 Way of the Deathbringer (FRA) 238
+4 Way of the Healer (FRA) 207
+4 Way of the Mentor (FRA) 208
+4 Way of the Mind Sculptor (FRA) 224
+4 Way of the Necromancer (FRA) 239
+4 Way of the Paradox (FRA) 267
+4 Way of the Pyromancer (FRA) 254
+4 Way of the Warlord (FRA) 255
+4 Way of the Wildspeaker (FRA) 268
+4 Winter, Team Player (FRA) 256
+
+
+### New Deck
+
+4 Winter, Tormented Loner (FRA) 240
+4 Woodwork Prodigy (FRA) 165
+4 Yargle, Glutton of Urborg (FRA) 241
+4 Yargle, Goliath of Otaria (FRA) 225
+4 Yoshimaru, Beloved Companion (FRA) 209
+4 Yoshimaru, Scrappy Stray (FRA) 269
+4 Your Fate Ends Here (FRA) 24
+4 Yuriko, Blade of the Mighty (FRA) 210
+4 Yuriko, Hope from the Shadows (FRA) 226
+
+### The Last Deck has 36 cards in it.

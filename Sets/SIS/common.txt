@@ -1,0 +1,35 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Avacyn's Pilgrim (SIS) 48
+4 Battleground Geist (SIS) 13
+4 Blazing Torch (SIS) 69
+4 Bloodflow Connoisseur (SIS) 26
+4 Bonds of Faith (SIS) 3
+4 Bump in the Night (SIS) 28
+4 Doomed Traveler (SIS) 5
+4 Elder Cathar (SIS) 6
+4 Evolving Wilds (SIS) 75
+4 Faithless Looting (SIS) 40
+4 Feeling of Dread (SIS) 7
+4 Forbidden Alchemy (SIS) 15
+4 Forge Devil (SIS) 41
+4 Ghoulraiser (SIS) 30
+4 Gnaw to the Bone (SIS) 50
+4 Haunted Fengraf (SIS) 76
+4 Hollowhenge Scavenger (SIS) 52
+4 Mist Raven (SIS) 18
+4 Moonmist (SIS) 54
+4 Selhoff Occultist (SIS) 21
+4 Silent Departure (SIS) 22
+4 Stitcher's Apprentice (SIS) 24
+4 Tragic Slip (SIS) 35
+4 Traitorous Blood (SIS) 45
+4 Travel Preparations (SIS) 57
+4 Traveler's Amulet (SIS) 73
+4 Vampiric Fury (SIS) 46
+4 Young Wolf (SIS) 58
+
+### The Last Deck has 112 cards in it.

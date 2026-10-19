@@ -1,0 +1,76 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Attercop (HOB) 116
+4 Beorn, Reluctant Host (HOB) 118
+4 Bilbo Baggins, Burglar (HOB) 34
+4 Bilbo's Deadly Slice (HOB) 62
+4 Boughside Wanderers (HOB) 121
+4 Confusticate and Bebother (HOB) 35
+4 Crude Bent Blade (HOB) 63
+4 Dori, Bearer of Friends (HOB) 94
+4 Duskwatch Hunter (HOB) 153
+4 Dwarven Provisioner (HOB) 9
+4 Dwarven Shortsword (HOB) 10
+4 Elvenking's Halls (HOB) 182
+4 Elvenking's Harper (HOB) 38
+4 Enchanted River's Grasp (HOB) 39
+4 Esgaroth Garrison (HOB) 13
+4 Front Porch Sentries (HOB) 67
+4 Gandalf, Wandering Wizard (HOB) 41
+4 Giant's Boulder (HOB) 173
+4 Goblin Plate Mail (HOB) 157
+4 Goblin-town (HOB) 183
+4 Goblin-town Flunkies (HOB) 100
+4 Gollum, Silent Slinker (HOB) 71
+4 Great Fierce Bee (HOB) 73
+4 Guardian of the Halls (HOB) 127
+4 Gundabad Opportunist (HOB) 101
+4 Hobbit Hole (HOB) 184
+4 Iron Hills (HOB) 185
+4 Iron Hills Stalwart (HOB) 102
+4 Lake-town (HOB) 186
+4 Lake-town Lookout (HOB) 18
+4 Lakeshore Apothecary (HOB) 43
+4 Little Bear (HOB) 128
+4 Long Lake Nuisance (HOB) 45
+4 Long-Bodied Grey Dog (HOB) 1
+4 Magnificent End (HOB) 20
+4 Mirkwood (HOB) 188
+4 Mirkwood Meditator (HOB) 48
+4 Mirkwood Nurturer (HOB) 160
+4 Moment of Glory (HOB) 21
+4 Nori, Teller of Tales (HOB) 161
+4 Old Thrush (HOB) 2
+4 Ordinary Bear (HOB) 133
+4 Ori, Keeper of Songs (HOB) 23
+4 Patient Instructor (HOB) 162
+4 Pinecone Strike (HOB) 107
+4 Plunder the Trollshaws (HOB) 51
+4 Quarrel (HOB) 135
+4 Rage into the Valley (HOB) 79
+4 Ragged Short Spear (HOB) 108
+4 Ravening Warg (HOB) 80
+
+
+### New Deck
+
+4 Reverent Howl (HOB) 81
+4 Smaug's Fury (HOB) 111
+4 Smaug, the Great Calamity (HOB) 109
+4 Stir Up Trouble (HOB) 84
+4 Stony-Voiced Goblins (HOB) 85
+4 Thorin's Last Stand (HOB) 28
+4 Tidings of War (HOB) 115
+4 Uneasy Partings (HOB) 58
+4 Velvetwing Butterflies (HOB) 30
+4 Vow to Erebor (HOB) 31
+4 Warg Tactics (HOB) 139
+4 Wargling (HOB) 140
+4 Well-Worn Spatula (HOB) 180
+4 Wood Elves (HOB) 142
+4 Óin the Brave (HOB) 106
+
+### The Last Deck has 60 cards in it.

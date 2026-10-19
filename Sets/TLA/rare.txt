@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aang's Iceberg (TLA) 5
+4 Aang, Swift Savior (TLA) 204
+4 Aang, at the Crossroads (TLA) 203
+4 Abandoned Air Temple (TLA) 263
+4 Agna Qel'a (TLA) 264
+4 Airbender Ascension (TLA) 6
+4 Avatar Destiny (TLA) 165
+4 Avatar's Wrath (TLA) 12
+4 Azula, Cunning Usurper (TLA) 208
+4 Ba Sing Se (TLA) 266
+4 Beifong's Bounty Hunters (TLA) 209
+4 Boiling Rock Rioter (TLA) 87
+4 Day of Black Sun (TLA) 94
+4 Diligent Zookeeper (TLA) 171
+4 Earth King's Lieutenant (TLA) 217
+4 Earthbender Ascension (TLA) 175
+4 Earthen Ally (TLA) 177
+4 Elemental Teachings (TLA) 178
+4 Fire Lord Azula (TLA) 220
+4 Fire Lord Zuko (TLA) 221
+4 Fire Nation Palace (TLA) 268
+4 Firebender Ascension (TLA) 137
+4 Firebending Student (TLA) 139
+4 Foggy Swamp Visions (TLA) 102
+4 Great Divide Guide (TLA) 181
+4 Hakoda, Selfless Commander (TLA) 23
+4 Iroh, Grand Lotus (TLA) 227
+4 Iroh, Tea Master (TLA) 228
+4 Jasmine Dragon Tea Shop (TLA) 270
+4 Katara, Water Tribe's Hope (TLA) 231
+4 Katara, the Fearless (TLA) 230
+4 Mai, Scornful Striker (TLA) 109
+4 Momo, Friendly Flier (TLA) 29
+4 Obsessive Pursuit (TLA) 112
+4 Ran and Shaw (TLA) 150
+4 Raven Eagle (TLA) 116
+4 Realm of Koh (TLA) 276
+4 Redirect Lightning (TLA) 151
+4 Sandbender Scavengers (TLA) 239
+4 Secret Tunnel (TLA) 278
+4 Sokka, Bold Boomeranger (TLA) 240
+4 Sokka, Tenacious Tactician (TLA) 242
+4 South Pole Voyager (TLA) 35
+4 Spirit Water Revival (TLA) 73
+4 Suki, Courageous Rescuer (TLA) 37
+4 The Earth King (TLA) 172
+4 The Fire Nation Drill (TLA) 98
+4 The Last Agni Kai (TLA) 144
+4 The Lion-Turtle (TLA) 232
+4 The Mechanist, Aerial Artisan (TLA) 64
+
+
+### New Deck
+
+4 The Unagi of Kyoshi Island (TLA) 77
+4 Tiger-Seal (TLA) 75
+4 Toph, Hardheaded Teacher (TLA) 246
+4 Toph, the First Metalbender (TLA) 247
+4 Ty Lee, Chi Blocker (TLA) 76
+4 Wartime Protestors (TLA) 160
+4 Waterbender Ascension (TLA) 79
+4 Yue, the Moon Spirit (TLA) 83
+4 Zhao, the Moon Slayer (TLA) 162
+4 Zuko, Conflicted (TLA) 253
+
+### The Last Deck has 40 cards in it.

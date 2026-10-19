@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Decorum Dissertation (SOS) 78
+4 Echocasting Symposium (SOS) 44
+4 Emeritus of Abundance (SOS) 145
+4 Emeritus of Conflict (SOS) 113
+4 Emeritus of Ideation (SOS) 45
+4 Emeritus of Truce (SOS) 13
+4 Emeritus of Woe (SOS) 80
+4 Germination Practicum (SOS) 149
+4 Improvisation Capstone (SOS) 120
+4 Lorehold, the Historian (SOS) 201
+4 Mathemagics (SOS) 58
+4 Prismari, the Inspiration (SOS) 212
+4 Professor Dellian Fel (SOS) 214
+4 Quandrix, the Proof (SOS) 218
+4 Ral Zarek, Guest Lecturer (SOS) 97
+4 Restoration Seminar (SOS) 30
+4 Silverquill, the Disputant (SOS) 226
+4 The Dawning Archaic (SOS) 1
+4 Witherbloom, the Balancer (SOS) 245
+4 Withering Curse (SOS) 105
+
+### The Last Deck has 80 cards in it.

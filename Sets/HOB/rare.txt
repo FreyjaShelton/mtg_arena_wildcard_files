@@ -1,0 +1,64 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Along the Crooked Way (HOB) 60
+4 An Unexpected Party (HOB) 29
+4 Azog, Moria's Ruin (HOB) 61
+4 Balin, Loremaster (HOB) 87
+4 Bard's Company (HOB) 146
+4 Bejeweled Warg (HOB) 117
+4 Belladonna Took (HOB) 4
+4 Bilbo's Gambit (HOB) 5
+4 Bolg's Company (HOB) 149
+4 Cantankerous Keepers (HOB) 122
+4 Chief Warg's Company (HOB) 151
+4 Desert Were-Worm (HOB) 92
+4 Desolation of Smaug (HOB) 93
+4 Down in the Valley (HOB) 124
+4 Dwalin, Weaponmaster (HOB) 154
+4 Dáin Ironfoot (HOB) 91
+4 Dáin's Company (HOB) 152
+4 Elven Passage (HOB) 181
+4 Fíli the Pathfinder (HOB) 14
+4 Getaway Barrel (HOB) 98
+4 Gigantic Big Bear (HOB) 126
+4 Glamdring, Foe-hammer (HOB) 174
+4 Great Gilded Boat (HOB) 42
+4 Head of the Hunt (HOB) 75
+4 Kíli the Resourceful (HOB) 17
+4 Last Light of Durin's Day (HOB) 103
+4 Most Decrepit Old Bird (HOB) 49
+4 My Precious (HOB) 176
+4 Part in Friendship (HOB) 134
+4 Radagast of Rhosgobel (HOB) 136
+4 Rhovanion Rampager (HOB) 82
+4 Riddles in the Dark (HOB) 53
+4 Roads Go Ever, Ever On (HOB) 25
+4 Roll-Roll-Roll-Roll (HOB) 54
+4 Settle the Wreckage (HOB) 26
+4 Smaug, Wicked Worm (HOB) 164
+4 Sting, Bilbo's Sword (HOB) 178
+4 Stone-Giant of High Pass (HOB) 113
+4 Supper for Spiders (HOB) 86
+4 The Eagles Are Coming! (HOB) 12
+4 The Great Goblin (HOB) 158
+4 The Lonely Mountain (HOB) 187
+4 The Lord of the Eagles (HOB) 46
+4 The Master of Lake-town (HOB) 77
+4 The Misty Mountains Cold (HOB) 104
+4 The Notary Hobbits (HOB) 131
+4 The Sackville-Bagginses (HOB) 83
+4 Thranduil's Company (HOB) 168
+4 Thranduil, the Elvenking (HOB) 167
+4 Through the Forest Gate (HOB) 137
+
+
+### New Deck
+
+4 Tom, Bert, and William (HOB) 169
+4 Uncover the Moon-Letters (HOB) 57
+4 Wizard's Staff (HOB) 59
+
+### The Last Deck has 12 cards in it.

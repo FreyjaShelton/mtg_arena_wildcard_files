@@ -1,0 +1,78 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Action News Crew (TMT) 1
+4 Anchovy & Banana Pizza (TMT) 57
+4 April O'Neil, Kunoichi Trainee (TMT) 3
+4 Bebop, Warthog Warrior (TMT) 59
+4 Bot Bashing Time (TMT) 85
+4 Buzz Bots (TMT) 32
+4 Cowabunga! (TMT) 113
+4 Crustacean Commando (TMT) 33
+4 Dimension X (TMT) 183
+4 Donatello, Turtle Techie (TMT) 37
+4 EPF Point Squad (TMT) 145
+4 East Wind Avatar (TMT) 5
+4 Escape Tunnel (TMT) 184
+4 Foot Elite (TMT) 146
+4 Foot Headquarters (TMT) 185
+4 Foot Mystic (TMT) 63
+4 Foot Ninjas (TMT) 147
+4 Frog Butler (TMT) 114
+4 Grounded for Life (TMT) 7
+4 Guac & Marshmallow Pizza (TMT) 116
+4 Hamato Guardian Stance (TMT) 8
+4 High-Flying Ace (TMT) 9
+4 Ice Cream Kitty (TMT) 150
+4 Illegitimate Business (TMT) 186
+4 Insectoid Exterminator (TMT) 64
+4 Jennika, Bad Apple Big Sister (TMT) 10
+4 Leonardo, Big Brother (TMT) 14
+4 Make Your Move (TMT) 20
+4 Manhole Missile (TMT) 94
+4 Mechanized Ninja Cavalry (TMT) 156
+4 Michelangelo, Game Master (TMT) 118
+4 Mind Transfer Protocol (TMT) 45
+4 Mouser Attack! (TMT) 95
+4 Mouser Foundry (TMT) 96
+4 Mouser Mark III (TMT) 159
+4 Mutant Chain Reaction (TMT) 125
+4 Mutant Town (TMT) 187
+4 Mutant Town Musicians (TMT) 97
+4 Negate (TMT) 47
+4 Nobody (TMT) 161
+4 Null Group Biological Assets (TMT) 98
+4 Omni-Cheese Pizza (TMT) 176
+4 Oroku Saki, Shredder Rising (TMT) 68
+4 Pain 101 (TMT) 69
+4 Primordial Pachyderm (TMT) 129
+4 Punk Frogs (TMT) 164
+4 Purple Dragon Punks (TMT) 100
+4 Putrid Pals (TMT) 165
+4 Ragamuffin Raptor (TMT) 130
+4 Raphael, Tough Turtle (TMT) 104
+
+
+### New Deck
+
+4 Retro-Mutation (TMT) 51
+4 Return to the Sewers (TMT) 52
+4 Rock Soldiers (TMT) 107
+4 Rocksteady, Crash Courser (TMT) 131
+4 Sewer-veillance Cam (TMT) 53
+4 Shredder's Revenge (TMT) 76
+4 Slithering Cryptid (TMT) 168
+4 Squirrelanoids (TMT) 81
+4 Stockman, Mad Fly-entist (TMT) 54
+4 Stomped by the Foot (TMT) 82
+4 TCRI Building (TMT) 189
+4 Tenderize (TMT) 133
+4 Tunnel Rats (TMT) 84
+4 Uneasy Alliance (TMT) 28
+4 Utrom Scientists (TMT) 56
+4 Zog, Triceraton Castaway (TMT) 111
+4 Zoo Escapees (TMT) 138
+
+### The Last Deck has 68 cards in it.

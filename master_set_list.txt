@@ -1,0 +1,118 @@
+This list contains the Set Identifier and real name of each set, in case you wondered what STA is.
+
+2X2 - Double Masters 2022
+2XM - Double Masters
+5DN - Fifth Dawn
+AER - Aether Revolt
+AFR - Adventures in the Forgotten Realms
+AKH - Amonkhet
+AKR - Amonkhet Remastered
+APC - Apocalypse
+ARB - Alara Reborn
+BFZ - Battle for Zendikar
+BIG - The Big Score
+BLB - Bloomburrow
+BRO - The Brothers' War
+CLB - Commander Legends: Battle for Baldur's Gate
+CLU - Ravnica: Clue Edition
+CMM - Commander Masters
+CMR - Commander Legends
+DFT - Aetherdrift
+DGM - Dragon's Maze
+DIS - Dissension
+DKA - Dark Ascension
+DMR - Dominaria Remastered
+DMU - Dominaria United
+DOM - Dominaria
+DSK - Duskmourn: House of Horror
+DTK - Dragons of Tarkir
+ECL - Lorwyn Eclipsed
+ELD - Throne of Eldraine
+EOE - Edge of Eternities
+EVE - Eventide
+EXO - Exodus
+FDN - Foundations
+FEM - Fallen Empires
+FIN - Final Fantasy
+FRA - Reality Fracture
+FUT - Future Sight
+GRN - Guilds of Ravnica
+GTC - Gatecrash
+HOB - The Hobbit
+HOU - Hour of Devastation
+ICE - Ice Age
+IKO - Ikoria: Lair of Behemoths
+IMA - Iconic Masters
+ISD - Innistrad
+J21 - Jumpstart: Historic Horizons
+J25 - Foundations Jumpstart
+JMP - Jumpstart
+JOU - Journey into Nyx
+KHM - Kaldheim
+KLD - Kaladesh
+KLR - Kaladesh Remastered
+KTK - Khans of Tarkir
+LCI - The Lost Caverns of Ixalan
+LRW - Lorwyn
+LTR - The Lord of the Rings: Tales of Middle-earth
+M11 - Magic 2011
+M12 - Magic 2012
+M13 - Magic 2013
+M14 - Magic 2014
+M19 - Core Set 2019
+M20 - Core Set 2020
+M21 - Core Set 2021
+MAT - March of the Machine: The Aftermath
+MBC - Mystery Booster Commander Edition
+MBS - Mirrodin Besieged
+MDD - Marvel: Darkhold Destiny
+MH1 - Modern Horizons
+MH2 - Modern Horizons 2
+MH3 - Modern Horizons 3
+MID - Innistrad: Midnight Hunt
+MIR - Mirage
+MKM - Murders at Karlov Manor
+MOM - March of the Machine
+MOR - Morningtide
+MRD - Mirrodin
+MSH - Marvel Super Heroes
+NEM - Nemesis
+NEO - Kamigawa: Neon Dynasty
+ODY - Odyssey
+OGW - Oath of the Gatewatch
+OM1 - Through the Omenpaths
+ONE - Phyrexia: All Will Be One
+ONS - Onslaught
+ORI - Magic Origins
+OTJ - Outlaws of Thunder Junction
+PIO - Pioneer Masters
+RAV - Ravnica: City of Guilds
+RIX - Rivals of Ixalan
+RNA - Ravnica Allegiance
+RTR - Return to Ravnica
+SCG - Scourge
+SHM - Shadowmoor
+SIR - Shadows over Innistrad Remastered
+SIS - Shadows of the Past
+SNC - Streets of New Capenna
+SOI - Shadows over Innistrad
+SOK - Saviors of Kamigawa
+SOM - Scars of Mirrodin
+SOS - Secrets of Strixhaven
+SPM - Marvel's Spider-Man
+STX - Strixhaven: School of Mages
+TDM - Tarkir: Dragonstorm
+THB - Theros Beyond Death
+TLA - Avatar: The Last Airbender
+TMT - Teenage Mutant Ninja Turtles
+TRK - Star Trek
+ULG - Urza's Legacy
+UMA - Ultimate Masters
+VMA - Vintage Masters
+VOW - Innistrad: Crimson Vow
+WAR - War of the Spark
+WOE - Wilds of Eldraine
+WWK - Worldwake
+XLN - Ixalan
+ZEN - Zendikar
+ZNR - Zendikar Rising

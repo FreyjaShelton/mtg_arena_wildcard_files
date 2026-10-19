@@ -1,0 +1,10 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Boggart Harbinger (LRW) 102
+4 Crib Swap (LRW) 11
+4 Incremental Growth (LRW) 221
+
+### The Last Deck has 12 cards in it.

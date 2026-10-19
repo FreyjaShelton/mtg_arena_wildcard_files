@@ -1,0 +1,66 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Bard the Bowman (HOB) 145
+4 Beorn's Hospitality (HOB) 120
+4 Bifur, Melodic Rider (HOB) 147
+4 Bilbo, Luckwearer (HOB) 32
+4 Bofur, Reliable Guardian (HOB) 6
+4 Bolg of the North (HOB) 148
+4 Bombur, Gentle Dreamer (HOB) 88
+4 Bothersome Noisemaker (HOB) 89
+4 Burn, Burn, Tree and Fern (HOB) 90
+4 Celebrate the Mountain-king (HOB) 7
+4 Desolation Prowler (HOB) 64
+4 Down, Down to Goblin-town (HOB) 65
+4 Dreaded Bat-Cloud (HOB) 66
+4 Dwarven Mattock (HOB) 172
+4 Dwarven Mauler (HOB) 95
+4 Dáin, Lord of the Iron Hills (HOB) 8
+4 Eagle of the Great Shelf (HOB) 11
+4 Eagle's Rescue (HOB) 155
+4 Elven Raft-Steerer (HOB) 37
+4 Fearsome Goblin Pair (HOB) 156
+4 Galion, Elvenking's Butler (HOB) 125
+4 Gandalf, Spark Starter (HOB) 97
+4 Gathering of Darkness (HOB) 68
+4 Glóin the Mighty (HOB) 99
+4 Gnashing of Teeth (HOB) 69
+4 Gollum the Abandoned (HOB) 72
+4 Great Ugly-Looking Goblin (HOB) 74
+4 Iron Hills Blacksmith (HOB) 16
+4 Key to the Side-Door (HOB) 175
+4 Lake-town Mariners (HOB) 44
+4 Lake-town Toymaker (HOB) 19
+4 Large Bear (HOB) 159
+4 Master's Councillors (HOB) 47
+4 Mirkwood Pathmaker (HOB) 129
+4 Misty Mountains Raider (HOB) 105
+4 Nasty Little Rabbit (HOB) 130
+4 Nighthowl Pursuer (HOB) 78
+4 Old Fat Spider (HOB) 132
+4 Old Fat Spider Can't See Me (HOB) 50
+4 Ravenhill Flock (HOB) 52
+4 Silvan Reveler (HOB) 163
+4 Snowslope Hunter (HOB) 112
+4 Sound the Trumpets (HOB) 55
+4 Stone by Sunlight (HOB) 27
+4 The Black Arrow (HOB) 171
+4 The Chief Warg (HOB) 150
+4 The Mountain-king's Return (HOB) 22
+4 Thorin Oakenshield (HOB) 165
+4 Thranduil's Decree (HOB) 56
+4 Thranduil, Sindarin Liege (HOB) 166
+
+
+### New Deck
+
+4 Thrór's Map (HOB) 179
+4 Troll Negotiations (HOB) 138
+4 Troop of Ponies (HOB) 3
+4 Wilderland Scrounger (HOB) 141
+4 Woodland Weavemaster (HOB) 143
+
+### The Last Deck has 20 cards in it.

@@ -1,0 +1,92 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Appeal to Eirdu (ECL) 5
+4 Aquitect's Defenses (ECL) 44
+4 Assert Perfection (ECL) 164
+4 Auntie's Sentence (ECL) 85
+4 Barbed Bloodletter (ECL) 86
+4 Bile-Vial Boggart (ECL) 87
+4 Blight Rot (ECL) 89
+4 Blighted Blackthorn (ECL) 90
+4 Blossombind (ECL) 45
+4 Boggart Prankster (ECL) 93
+4 Bogslither's Embrace (ECL) 94
+4 Boneclub Berserker (ECL) 126
+4 Brambleback Brute (ECL) 128
+4 Burning Curiosity (ECL) 129
+4 Changeling Wayfinder (ECL) 1
+4 Chaos Spewer (ECL) 210
+4 Chitinous Graspling (ECL) 211
+4 Cinder Strike (ECL) 131
+4 Crossroads Watcher (ECL) 173
+4 Dawn's Light Archer (ECL) 174
+4 Dawnhand Eulogist (ECL) 99
+4 Dream Seizer (ECL) 101
+4 Elder Auntie (ECL) 133
+4 Enraged Flamecaster (ECL) 135
+4 Evolving Wilds (ECL) 264
+4 Feed the Flames (ECL) 137
+4 Feisty Spikeling (ECL) 223
+4 Firdoch Core (ECL) 255
+4 Flame-Chain Mauler (ECL) 138
+4 Flamekin Gildweaver (ECL) 140
+4 Flaring Cinder (ECL) 225
+4 Foraging Wickermaw (ECL) 256
+4 Gallant Fowlknight (ECL) 17
+4 Gangly Stompling (ECL) 226
+4 Gilt-Leaf's Embrace (ECL) 177
+4 Glamermite (ECL) 50
+4 Goldmeadow Nomad (ECL) 18
+4 Gravelgill Scoundrel (ECL) 53
+4 Great Forest Druid (ECL) 178
+4 Gristle Glutton (ECL) 144
+4 Heirloom Auntie (ECL) 107
+4 Keep Out (ECL) 19
+4 Kulrath Mystic (ECL) 56
+4 Kulrath Zealot (ECL) 148
+4 Liminal Hold (ECL) 24
+4 Lys Alana Informant (ECL) 181
+4 Merrow Skyswimmer (ECL) 234
+4 Midnight Tilling (ECL) 182
+4 Mischievous Sneakling (ECL) 235
+4 Mistmeadow Council (ECL) 183
+
+
+### New Deck
+
+4 Moonglove Extractor (ECL) 109
+4 Prideful Feastling (ECL) 238
+4 Reckless Ransacking (ECL) 152
+4 Reluctant Dounguard (ECL) 31
+4 Riverguard's Reflexes (ECL) 33
+4 Rooftop Percher (ECL) 2
+4 Run Away Together (ECL) 67
+4 Safewright Cavalry (ECL) 191
+4 Scarblade Scout (ECL) 118
+4 Scarblade's Malice (ECL) 119
+4 Shore Lurker (ECL) 34
+4 Silvergill Peddler (ECL) 70
+4 Spiral into Solitude (ECL) 36
+4 Stalactite Dagger (ECL) 261
+4 Stoic Grove-Guide (ECL) 243
+4 Stratosoarer (ECL) 72
+4 Summit Sentinel (ECL) 73
+4 Sun-Dappled Celebrant (ECL) 37
+4 Surly Farrier (ECL) 196
+4 Temporal Cleansing (ECL) 78
+4 Tend the Sprigs (ECL) 197
+4 Timid Shieldbearer (ECL) 39
+4 Tributary Vaulter (ECL) 40
+4 Tweeze (ECL) 162
+4 Unexpected Assistance (ECL) 80
+4 Unforgiving Aim (ECL) 200
+4 Wanderbrine Preacher (ECL) 41
+4 Wanderwine Distracter (ECL) 82
+4 Wary Farmer (ECL) 251
+4 Wild Unraveling (ECL) 84
+4 Wildvine Pummeler (ECL) 203
+
+### The Last Deck has 124 cards in it.

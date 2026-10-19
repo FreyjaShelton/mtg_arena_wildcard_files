@@ -1,0 +1,64 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agent Venom (SPM) 49
+4 Arachne, Psionic Weaver (SPM) 2
+4 Araña, Heart of the Spider (SPM) 123
+4 Biorganic Carapace (SPM) 124
+4 Black Cat, Cunning Thief (SPM) 52
+4 Carnage, Crimson Chaos (SPM) 125
+4 Cheering Crowd (SPM) 126
+4 Doc Ock's Tentacles (SPM) 162
+4 Electro, Assaulting Battery (SPM) 76
+4 Friendly Neighborhood (SPM) 8
+4 Hide on the Ceiling (SPM) 32
+4 Hydro-Man, Fluid Felon (SPM) 33
+4 Interdimensional Web Watch (SPM) 165
+4 Iron Spider, Stark Upgrade (SPM) 166
+4 J. Jonah Jameson (SPM) 81
+4 Jackal, Genius Geneticist (SPM) 131
+4 Kraven the Hunter (SPM) 133
+4 Kraven's Last Hunt (SPM) 105
+4 Lady Octopus, Inspired Inventor (SPM) 35
+4 Lizard, Connors's Curse (SPM) 106
+4 Mary Jane Watson (SPM) 134
+4 Maximum Carnage (SPM) 83
+4 Morlun, Devourer of Spiders (SPM) 59
+4 Multiversal Passage (SPM) 180
+4 Mysterio, Master of Illusion (SPM) 37
+4 Origin of Spider-Man (SPM) 9
+4 Oscorp Industries (SPM) 182
+4 Parker Luck (SPM) 60
+4 Peter Parker's Camera (SPM) 171
+4 Radioactive Spider (SPM) 111
+4 Rent Is Due (SPM) 11
+4 Rocket-Powered Goblin Glider (SPM) 172
+4 Sandman, Shifting Scoundrel (SPM) 112
+4 Scarlet Spider, Ben Reilly (SPM) 142
+4 Shadow of the Goblin (SPM) 87
+4 Silk, Web Weaver (SPM) 145
+4 Spectacular Spider-Man (SPM) 14
+4 Spider-Ham, Peter Porker (SPM) 114
+4 Spider-Man 2099 (SPM) 150
+4 Spider-Punk (SPM) 92
+4 Spider-Sense (SPM) 46
+4 Spider-Woman, Stunning Savior (SPM) 152
+4 Spinneret and Spiderling (SPM) 94
+4 Strength of Will (SPM) 118
+4 Superior Spider-Man (SPM) 155
+4 Symbiote Spider-Man (SPM) 156
+4 The Clone Saga (SPM) 28
+4 The Death of Gwen Stacy (SPM) 54
+4 The Spot, Living Portal (SPM) 153
+4 Ultimate Green Goblin (SPM) 157
+
+
+### New Deck
+
+4 Urban Retreat (SPM) 187
+4 Villainous Wrath (SPM) 74
+4 With Great Power . . . (SPM) 24
+
+### The Last Deck has 12 cards in it.

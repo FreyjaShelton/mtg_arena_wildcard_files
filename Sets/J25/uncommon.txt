@@ -1,0 +1,264 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abandon Reason (J25) 513
+4 Ahn-Crop Crasher (J25) 514
+4 Air Elemental (J25) 284
+4 Ajani's Pridemate (J25) 158
+4 Anep, Vizier of Hazoret (J25) 46
+4 Angel of Vitality (J25) 162
+4 Angelic Cub (J25) 163
+4 Archfiend's Vessel (J25) 398
+4 Archon of Falling Stars (J25) 166
+4 Arena Athlete (J25) 518
+4 Armorcraft Judge (J25) 629
+4 Audacity (J25) 631
+4 Augur of Bolas (J25) 286
+4 Azure Drake (J25) 288
+4 Baloth Woodcrasher (J25) 633
+4 Banisher Priest (J25) 169
+4 Banishing Light (J25) 96
+4 Basri's Solidarity (J25) 172
+4 Bastion of Remembrance (J25) 403
+4 Battle Cry Goblin (J25) 127
+4 Battlefield Scavenger (J25) 520
+4 Beetleback Chief (J25) 129
+4 Biogenic Upgrade (J25) 144
+4 Bituminous Blast (J25) 742
+4 Blood Feud (J25) 130
+4 Blood Hypnotist (J25) 522
+4 Bloodbraid Elf (J25) 743
+4 Bloodthirsty Aerialist (J25) 409
+4 Bloodtithe Collector (J25) 410
+4 Boldwyr Intimidator (J25) 527
+4 Bond of Flourishing (J25) 637
+4 Bonecaller Cleric (J25) 112
+4 Bounty of Skemfar (J25) 638
+4 Braulios of Pheres Band (J25) 51
+4 Brightmare (J25) 175
+4 Brineborn Cutthroat (J25) 291
+4 Brothers Yamazaki (J25) 72
+4 Brushstrider (J25) 640
+4 Bushwhack (J25) 641
+4 Chandra's Spitfire (J25) 530
+4 Cherished Hatchling (J25) 644
+4 Chief of the Foundry (J25) 747
+4 Clear Shot (J25) 645
+4 Cleon, Merry Champion (J25) 47
+4 Concentrate (J25) 301
+4 Conclave Tribunal (J25) 182
+4 Coordinated Assault (J25) 532
+4 Cynette, Jelly Drover (J25) 35
+4 Danitha Capashen, Paragon (J25) 59
+4 Dark Supplicant (J25) 418
+
+
+### New Deck
+
+4 Dauntless Onslaught (J25) 98
+4 Dawnwing Marshal (J25) 1
+4 Defend the Celestus (J25) 649
+4 Delightful Discovery (J25) 6
+4 Dionus, Elvish Archdruid (J25) 52
+4 Dragon Whelp (J25) 537
+4 Dragonlord's Servant (J25) 538
+4 Dreadhound (J25) 427
+4 Drover of the Mighty (J25) 650
+4 Dusk Mangler (J25) 430
+4 Dwynen's Elite (J25) 654
+4 Enlisted Wurm (J25) 744
+4 Entomber Exarch (J25) 434
+4 Eternal Taskmaster (J25) 117
+4 Exclusion Mage (J25) 306
+4 Experimental Aviator (J25) 309
+4 Exsanguinate (J25) 437
+4 Fading Hope (J25) 310
+4 Faerie Vandal (J25) 311
+4 Falkenrath Noble (J25) 441
+4 Favored Hoplite (J25) 196
+4 Favored of Iroas (J25) 197
+4 Fencing Ace (J25) 199
+4 Filigree Attendant (J25) 312
+4 Fireshrieker (J25) 750
+4 Firespitter Whelp (J25) 14
+4 Flames of the Firebrand (J25) 552
+4 Forgotten Cave (J25) 766
+4 Foul Play (J25) 442
+4 Fretwork Colony (J25) 443
+4 Fungal Plots (J25) 658
+4 Furious Reprisal (J25) 554
+4 Fusion Elemental (J25) 745
+4 Garruk's Packleader (J25) 660
+4 General Kreat, the Boltbringer (J25) 48
+4 Ghirapur Guide (J25) 661
+4 Ghitu Encampment (J25) 155
+4 Giant Opportunity (J25) 663
+4 Gird for Battle (J25) 202
+4 Go for the Throat (J25) 447
+4 Goblin Surprise (J25) 16
+4 Goma Fada Vanguard (J25) 561
+4 Goremand (J25) 448
+4 Gorgon Flail (J25) 752
+4 Grave Strength (J25) 450
+4 Graveblade Marauder (J25) 451
+4 Guardian Idol (J25) 753
+4 Guttersnipe (J25) 138
+4 Hellkite Whelp (J25) 562
+4 Herald of the Sun (J25) 206
+
+
+### New Deck
+
+4 Hexgold Hoverwings (J25) 208
+4 Howling Banshee (J25) 119
+4 Hungry Megasloth (J25) 21
+4 Incorrigible Youths (J25) 564
+4 Infernal Grasp (J25) 456
+4 Ingenious Leonin (J25) 211
+4 Invigorated Rampage (J25) 567
+4 Invigorating Surge (J25) 673
+4 Ipnu Rivulet (J25) 767
+4 Ivora, Insatiable Heir (J25) 50
+4 Jiang Yanggu, Wildcrafter (J25) 677
+4 Jubilant Mascot (J25) 213
+4 Kapsho Kitefins (J25) 318
+4 Killing Glare (J25) 120
+4 King of the Pride (J25) 214
+4 Krosan Tusker (J25) 681
+4 Leonin Vanguard (J25) 216
+4 Lonely Sandbar (J25) 769
+4 Make a Stand (J25) 222
+4 Markov Retribution (J25) 576
+4 Markov Warlord (J25) 577
+4 Memorial to Folly (J25) 770
+4 Memorial to Genius (J25) 771
+4 Memorial to Glory (J25) 772
+4 Mentor of the Meek (J25) 99
+4 Merfolk Branchwalker (J25) 688
+4 Might of the Masses (J25) 689
+4 Moan of the Unhallowed (J25) 461
+4 Morbid Opportunist (J25) 464
+4 Morkrut Necropod (J25) 466
+4 Mowu, Loyal Companion (J25) 79
+4 Murasa Ranger (J25) 691
+4 Murmuring Mystic (J25) 107
+4 Nazar, the Velvet Fang (J25) 43
+4 Necrotic Wound (J25) 470
+4 Nightveil Sprite (J25) 335
+4 Nyx-Fleece Ram (J25) 231
+4 Obstinate Baloth (J25) 692
+4 Oneirophage (J25) 337
+4 Opportunity (J25) 338
+4 Orochi Merge-Keeper (J25) 695
+4 Overcome (J25) 696
+4 Overwhelm (J25) 697
+4 Ozox, the Clattering King (J25) 44
+4 Paradise Druid (J25) 698
+4 Patchwork Automaton (J25) 757
+4 Patron of the Valiant (J25) 237
+4 Phantasmal Shieldback (J25) 8
+4 Pilfering Imp (J25) 475
+4 Pitiless Plunderer (J25) 476
+
+
+### New Deck
+
+4 Plate Armor (J25) 100
+4 Play with Fire (J25) 586
+4 Priest of Gix (J25) 121
+4 Primeval Herald (J25) 702
+4 Prosperous Thief (J25) 346
+4 Psemilla, Meletian Poet (J25) 31
+4 Qala, Ajani's Pridemate (J25) 32
+4 Rally of Wings (J25) 238
+4 Rapacious Dragon (J25) 588
+4 Reassembling Skeleton (J25) 481
+4 Reckless Scholar (J25) 348
+4 Recruitment Officer (J25) 239
+4 Relic Axe (J25) 759
+4 Relief Captain (J25) 241
+4 Remand (J25) 349
+4 Resistance Reunited (J25) 243
+4 Resistance Skywarden (J25) 591
+4 Retreat to Kazandu (J25) 707
+4 Ruthless Knave (J25) 483
+4 Savage Stomp (J25) 710
+4 Scion of Darkness (J25) 486
+4 Scion of the Swarm (J25) 487
+4 Screaming Swarm (J25) 351
+4 Secluded Steppe (J25) 774
+4 Serpent Assassin (J25) 123
+4 Serra Angel (J25) 251
+4 Serra's Embrace (J25) 252
+4 Shield Mare (J25) 253
+4 Sigiled Starfish (J25) 357
+4 Skemfar Shadowsage (J25) 489
+4 Skyclave Pick-Axe (J25) 712
+4 Soul Sear (J25) 599
+4 Spectral Sailor (J25) 363
+4 Spined Tyrranax (J25) 26
+4 Spore Swarm (J25) 717
+4 Sporecrown Thallid (J25) 718
+4 Starnheim Memento (J25) 29
+4 Stinging Lionfish (J25) 367
+4 Sudden Insight (J25) 110
+4 Sunhome Stalwart (J25) 266
+4 Supreme Will (J25) 370
+4 Sutina, Speaker of the Tajuru (J25) 56
+4 Swarm of Bloodflies (J25) 492
+4 Syr Elenora, the Discerning (J25) 64
+4 Tail Swipe (J25) 721
+4 Tenacity (J25) 104
+4 Thirsting Bloodlord (J25) 494
+4 Thopter Architect (J25) 272
+4 Thopter Mechanic (J25) 372
+4 Thrashing Brontodon (J25) 725
+
+
+### New Deck
+
+4 Thundering Spineback (J25) 726
+4 Tide Skimmer (J25) 375
+4 Tireless Provisioner (J25) 728
+4 Tolarian Kraken (J25) 377
+4 Torment of Scarabs (J25) 495
+4 Tough Cookie (J25) 731
+4 Trail of Crumbs (J25) 732
+4 Treasure Keeper (J25) 760
+4 Trial of Knowledge (J25) 379
+4 Trial of Zeal (J25) 604
+4 Trueheart Twins (J25) 605
+4 Twinferno (J25) 606
+4 Ukud Cobra (J25) 498
+4 Ulcerate (J25) 499
+4 Ulvenwald Mysteries (J25) 735
+4 Uncaged Fury (J25) 607
+4 Undead Butler (J25) 500
+4 Unleash Fury (J25) 608
+4 Urdnan, Dromoka Warrior (J25) 34
+4 Urge to Feed (J25) 502
+4 Valkyrie's Sword (J25) 276
+4 Valorous Stance (J25) 277
+4 Vampire Nighthawk (J25) 503
+4 Vampire Scrivener (J25) 505
+4 Vampire of the Dire Moon (J25) 504
+4 Vicious Conquistador (J25) 507
+4 Voldaren Ambusher (J25) 611
+4 Volley Veteran (J25) 142
+4 Waker of Waves (J25) 383
+4 Wall of Lost Thoughts (J25) 384
+4 Warden of Evos Isle (J25) 385
+4 Weaver of Lightning (J25) 615
+4 Whirlermaker (J25) 762
+4 Whirlwind Denial (J25) 388
+4 Windstorm Drake (J25) 392
+4 Wolfrider's Saddle (J25) 740
+4 Woodland Champion (J25) 741
+4 Wriggling Grub (J25) 12
+4 Yarok's Wavecrasher (J25) 395
+4 Young Pyromancer (J25) 618
+4 Youthful Valkyrie (J25) 280
+
+### The Last Deck has 164 cards in it.

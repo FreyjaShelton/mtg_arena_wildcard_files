@@ -1,0 +1,12 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Celestial Colonnade (WWK) 133
+4 Creeping Tar Pit (WWK) 134
+4 Lavaclaw Reaches (WWK) 139
+4 Raging Ravine (WWK) 141
+4 Stirring Wildwood (WWK) 144
+
+### The Last Deck has 20 cards in it.

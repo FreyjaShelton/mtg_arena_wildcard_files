@@ -1,0 +1,106 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aim High (SIR) 185
+4 Alchemist's Greeting (SIR) 140
+4 Alms of the Vein (SIR) 98
+4 Angelic Purge (SIR) 11
+4 Apothecary Geist (SIR) 12
+4 Bloodbriar (SIR) 186
+4 Bloodmad Vampire (SIR) 145
+4 Borrowed Grace (SIR) 15
+4 Borrowed Hostility (SIR) 146
+4 Borrowed Malevolence (SIR) 100
+4 Bound by Moonsilver (SIR) 16
+4 Briarbridge Patrol (SIR) 187
+4 Byway Courier (SIR) 188
+4 Certain Death (SIR) 102
+4 Chittering Host (SIR) 115
+4 Conduit of Storms (SIR) 149
+4 Confront the Unknown (SIR) 190
+4 Convolute (SIR) 57
+4 Crow of Dark Tidings (SIR) 104
+4 Dauntless Cathar (SIR) 21
+4 Dawn Gryff (SIR) 22
+4 Dead Weight (SIR) 106
+4 Deny Existence (SIR) 60
+4 Deranged Whelp (SIR) 150
+4 Devilthorn Fox (SIR) 25
+4 Drag Under (SIR) 62
+4 Drogskol Shieldmate (SIR) 26
+4 Drownyard Explorers (SIR) 63
+4 Ember-Eye Wolf (SIR) 152
+4 Epitaph Golem (SIR) 249
+4 Essence Flux (SIR) 67
+4 Explosive Apparatus (SIR) 250
+4 Exultant Cultist (SIR) 68
+4 Faithbearer Paladin (SIR) 28
+4 Field Creeper (SIR) 251
+4 Fiend Binder (SIR) 29
+4 Fogwalker (SIR) 70
+4 Galvanic Bombardment (SIR) 157
+4 Gatstaf Arsonists (SIR) 158
+4 Gavony Unhallowed (SIR) 111
+4 Geist of the Archives (SIR) 72
+4 Ghoulcaller's Accomplice (SIR) 112
+4 Gisa's Bidding (SIR) 113
+4 Gnarlwood Dryad (SIR) 196
+4 Graf Rats (SIR) 115
+4 Grapple with the Past (SIR) 198
+4 Grotesque Mutation (SIR) 116
+4 Guardian of Pilgrims (SIR) 32
+4 Hinterland Logger (SIR) 201
+4 Howlpack Wolf (SIR) 162
+
+
+### New Deck
+
+4 Imprisoned in the Moon (SIR) 74
+4 Incendiary Flow (SIR) 163
+4 Ingenious Skaab (SIR) 75
+4 Insatiable Gorgers (SIR) 164
+4 Insolent Neonate (SIR) 165
+4 Intrepid Provisioner (SIR) 203
+4 Jace's Scrutiny (SIR) 78
+4 Laboratory Brute (SIR) 79
+4 Liliana's Elite (SIR) 120
+4 Lunarch Mantle (SIR) 37
+4 Macabre Waltz (SIR) 121
+4 Magmatic Chasm (SIR) 168
+4 Magnifying Glass (SIR) 254
+4 Make Mischief (SIR) 169
+4 Merciless Resolve (SIR) 122
+4 Moonlight Hunt (SIR) 205
+4 Morkrut Necropod (SIR) 125
+4 Obsessive Skinner (SIR) 207
+4 Olivia's Dragoon (SIR) 128
+4 Puncturing Light (SIR) 40
+4 Pyre Hound (SIR) 172
+4 Rabid Bite (SIR) 210
+4 Ravenous Bloodseeker (SIR) 173
+4 Rush of Adrenaline (SIR) 174
+4 Sanitarium Skeleton (SIR) 133
+4 Sigardian Priest (SIR) 44
+4 Spontaneous Mutation (SIR) 89
+4 Steadfast Cathar (SIR) 46
+4 Stormrider Spirit (SIR) 91
+4 Strength of Arms (SIR) 47
+4 Swift Spinner (SIR) 217
+4 Take Inventory (SIR) 93
+4 Tattered Haunter (SIR) 94
+4 Terrarion (SIR) 261
+4 Thornhide Wolves (SIR) 218
+4 Thraben Foulbloods (SIR) 135
+4 Thraben Inspector (SIR) 51
+4 Tormenting Voice (SIR) 181
+4 True-Faith Censer (SIR) 262
+4 Ulvenwald Captive (SIR) 221
+4 Weirded Vampire (SIR) 139
+4 Weirding Wood (SIR) 226
+4 Wild-Field Scarecrow (SIR) 263
+4 Wolfkin Bond (SIR) 227
+4 Wretched Gryff (SIR) 9
+
+### The Last Deck has 180 cards in it.

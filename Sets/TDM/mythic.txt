@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 All-Out Assault (TDM) 167
+4 Betor, Kin to All (TDM) 172
+4 Call the Spirit Dragons (TDM) 174
+4 Craterhoof Behemoth (TDM) 138
+4 Death Begets Life (TDM) 176
+4 Dracogenesis (TDM) 105
+4 Dragonback Assault (TDM) 179
+4 Elspeth, Storm Slayer (TDM) 11
+4 Jeskai Revelation (TDM) 196
+4 Mox Jasper (TDM) 246
+4 Neriv, Heart of the Storm (TDM) 210
+4 Perennation (TDM) 212
+4 Rot-Curse Rakshasa (TDM) 87
+4 Shiko, Paragon of the Way (TDM) 223
+4 Smile at Death (TDM) 24
+4 Stormscale Scion (TDM) 123
+4 Taigam, Master Opportunist (TDM) 60
+4 Teval, Arbiter of Virtue (TDM) 230
+4 Ugin, Eye of the Storms (TDM) 1
+4 Ureni, the Song Unending (TDM) 233
+
+### The Last Deck has 80 cards in it.

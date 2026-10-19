@@ -1,0 +1,19 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Auntie's Hovel (LRW) 267
+4 Cryptic Command (LRW) 56
+4 Dolmen Gate (LRW) 256
+4 Forced Fruition (LRW) 66
+4 Heat Shimmer (LRW) 175
+4 Mad Auntie (LRW) 123
+4 Mistbind Clique (LRW) 75
+4 Primal Command (LRW) 233
+4 Shelldock Isle (LRW) 272
+4 Thoughtseize (LRW) 145
+4 Thousand-Year Elixir (LRW) 263
+4 Wanderwine Prophets (LRW) 95
+
+### The Last Deck has 48 cards in it.

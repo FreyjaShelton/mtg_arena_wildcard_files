@@ -1,0 +1,104 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abundant Maw (SIR) 1
+4 Accursed Witch (SIR) 97
+4 Advanced Stitchwing (SIR) 54
+4 Anguished Unmaking (SIR) 229
+4 Biting Rain (SIR) 99
+4 Blessed Alliance (SIR) 14
+4 Blood Mist (SIR) 144
+4 Brain in a Jar (SIR) 247
+4 Call the Bloodline (SIR) 101
+4 Choked Estuary (SIR) 264
+4 Clear Shot (SIR) 189
+4 Compelling Deterrence (SIR) 55
+4 Courageous Outrider (SIR) 20
+4 Crawling Sensation (SIR) 191
+4 Cryptolith Fragment (SIR) 248
+4 Curious Homunculus (SIR) 58
+4 Daring Sleuth (SIR) 59
+4 Deathcap Cultivator (SIR) 193
+4 Drownyard Behemoth (SIR) 4
+4 Drunau Corpse Trawler (SIR) 64
+4 Dusk Feaster (SIR) 109
+4 Duskwatch Recruiter (SIR) 194
+4 Erdwal Illuminator (SIR) 66
+4 Faith Unbroken (SIR) 27
+4 Fiery Temper (SIR) 154
+4 Fleeting Memories (SIR) 69
+4 Foreboding Ruins (SIR) 265
+4 Forsaken Sanctuary (SIR) 266
+4 Fortified Village (SIR) 267
+4 Foul Orchard (SIR) 268
+4 Furyblade Vampire (SIR) 156
+4 Game Trail (SIR) 269
+4 Geier Reach Bandit (SIR) 159
+4 Graf Harvest (SIR) 114
+4 Graf Mole (SIR) 197
+4 Groundskeeper (SIR) 199
+4 Gryff's Boon (SIR) 31
+4 Hamlet Captain (SIR) 200
+4 Harvest Hand (SIR) 252
+4 Haunted Dead (SIR) 117
+4 Highland Lake (SIR) 272
+4 Hope Against Hope (SIR) 33
+4 Howlpack Resurgence (SIR) 202
+4 Humble the Brute (SIR) 34
+4 Indulgent Aristocrat (SIR) 118
+4 Invasive Surgery (SIR) 76
+4 Ironclad Slayer (SIR) 35
+4 Kindly Stranger (SIR) 107
+4 Lightning Axe (SIR) 166
+4 Lone Rider (SIR) 36
+
+
+### New Deck
+
+4 Lupine Prototype (SIR) 253
+4 Mad Prophet (SIR) 167
+4 Manic Scribe (SIR) 80
+4 Mercurial Geists (SIR) 236
+4 Midnight Scavengers (SIR) 123
+4 Mockery of Nature (SIR) 8
+4 Mournwillow (SIR) 237
+4 Murderer's Axe (SIR) 255
+4 Nearheath Chaplain (SIR) 38
+4 Nebelgast Herald (SIR) 83
+4 Neglected Heirloom (SIR) 256
+4 Noose Constrictor (SIR) 206
+4 Olivia's Bloodsworn (SIR) 127
+4 Ongoing Investigation (SIR) 84
+4 Pack Guardian (SIR) 208
+4 Pick the Brain (SIR) 129
+4 Pieces of the Puzzle (SIR) 85
+4 Pore Over the Pages (SIR) 86
+4 Port Town (SIR) 273
+4 Reaper of Flight Moonsilver (SIR) 41
+4 Ride Down (SIR) 241
+4 Rise from the Grave (SIR) 131
+4 Rise from the Tides (SIR) 88
+4 Ruthless Disposal (SIR) 132
+4 Scourge Wolf (SIR) 175
+4 Shreds of Sanity (SIR) 176
+4 Shrill Howler (SIR) 214
+4 Soul Separator (SIR) 258
+4 Spectral Shepherd (SIR) 45
+4 Stensia Masquerade (SIR) 178
+4 Stone Quarry (SIR) 274
+4 Stromkirk Occultist (SIR) 179
+4 Subjugator Angel (SIR) 48
+4 Thermo-Alchemist (SIR) 180
+4 Topplegeist (SIR) 52
+4 Town Gossipmonger (SIR) 53
+4 Ulrich's Kindred (SIR) 182
+4 Ulvenwald Mysteries (SIR) 223
+4 Uncaged Fury (SIR) 183
+4 Vessel of Nascency (SIR) 224
+4 Veteran Cathar (SIR) 225
+4 Village Messenger (SIR) 184
+4 Woodland Stream (SIR) 276
+
+### The Last Deck has 172 cards in it.

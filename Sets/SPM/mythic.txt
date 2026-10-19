@@ -1,0 +1,22 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Anti-Venom, Horrifying Healer (SPM) 1
+4 Behold the Sinister Six! (SPM) 51
+4 Cosmic Spider-Man (SPM) 127
+4 Doctor Octopus, Master Planner (SPM) 128
+4 Eddie Brock (SPM) 55
+4 Gwen Stacy (SPM) 78
+4 Gwenom, Remorseless (SPM) 56
+4 Impostor Syndrome (SPM) 34
+4 Miles Morales (SPM) 108
+4 Mister Negative (SPM) 135
+4 Norman Osborn (SPM) 39
+4 Peter Parker (SPM) 10
+4 Spider-Verse (SPM) 93
+4 The Soul Stone (SPM) 66
+4 Web of Life and Destiny (SPM) 122
+
+### The Last Deck has 60 cards in it.

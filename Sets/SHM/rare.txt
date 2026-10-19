@@ -1,0 +1,13 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Greater Auramancy (SHM) 7
+4 Painter's Servant (SHM) 257
+4 Polluted Bonds (SHM) 74
+4 Prismatic Omen (SHM) 126
+4 Reflecting Pool (SHM) 278
+4 Woodfall Primus (SHM) 135
+
+### The Last Deck has 24 cards in it.

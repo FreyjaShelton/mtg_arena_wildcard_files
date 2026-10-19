@@ -1,0 +1,11 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Captain James T. Kirk (TRK) 142
+4 Captain Kathryn Janeway (TRK) 187
+4 Crystalline Entity (TRK) 261
+4 Dr. Beverly Crusher (TRK) 13
+
+### The Last Deck has 16 cards in it.

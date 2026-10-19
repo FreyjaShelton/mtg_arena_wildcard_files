@@ -1,0 +1,31 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Archangel Avacyn (SIR) 13
+4 Arlinn Kord (SIR) 230
+4 Brisela, Voice of Nightmares (SIR) 17
+4 Decimator of the Provinces (SIR) 2
+4 Descend upon the Sinful (SIR) 24
+4 Emrakul, the Promised End (SIR) 6
+4 Gisa and Geralf (SIR) 233
+4 Gisela, the Broken Blade (SIR) 30
+4 Goldnight Castigator (SIR) 160
+4 Ishkanah, Grafwidow (SIR) 204
+4 Jace, Unraveler of Secrets (SIR) 77
+4 Liliana, the Last Hope (SIR) 119
+4 Mind's Dilation (SIR) 82
+4 Mindwrack Demon (SIR) 124
+4 Mirrorwing Dragon (SIR) 170
+4 Nahiri's Wrath (SIR) 171
+4 Nahiri, the Harbinger (SIR) 238
+4 Olivia, Mobilized for War (SIR) 239
+4 Relentless Dead (SIR) 130
+4 Seasons Past (SIR) 212
+4 Sigarda, Heron's Grace (SIR) 242
+4 Sorin, Grim Nemesis (SIR) 243
+4 Startled Awake (SIR) 90
+4 Tamiyo, Field Researcher (SIR) 245
+
+### The Last Deck has 96 cards in it.
